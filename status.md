@@ -28,7 +28,11 @@
   A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?
   Some comments from Stephane November 2023 that this might be better for BESS since working on relaxing rt-constrain?
 
+------
 
+## WGLC Requests
+
+- [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
 ------
 
