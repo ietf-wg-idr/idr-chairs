@@ -103,7 +103,7 @@
 
 ------
 
-### WG LC pending Shepherd Reviews  
+### WG LC pending Shepherd Reviews  (XXX JMH - pending audit)
 
 * draft-ietf-idr-sr-policy-nrp  
   Shepherd: Sue  
