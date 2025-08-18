@@ -44,6 +44,9 @@
 - [draft-ietf-idr-link-bandwidth](https://datatracker.ietf.org/doc/draft-ietf-idr-link-bandwidth/):  
   Put in final comment period ending **31 August, 2025** due to last second link-bandwidth 0 issue caught by authors.  
   Note that we're missing IPR declaration from Rex.
+- [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
+  Past WGLC that ended **12 July, 2025**  
+  Currently undergoing directorate reviews.  Spring review explicitly requested, needs positive ack.
 - [draft-ietf-idr-vpn-orf ](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) 
   Keyur submitted to IESG on **14 August, 2025**
 
@@ -70,12 +73,6 @@
 
 
 ------
-
-## WGLC prior to IETF IDR Session   
-
-1. draft-ietf-idr-sr-policy-nrp-03
-
-
 
 ## Status:
 
