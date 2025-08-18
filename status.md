@@ -135,11 +135,16 @@
 
 ------
 
- ### SR/BGP-LS – Need revision  (XXX JMH - pending audit)
+ ### SR/BGP-LS – Need revision
 
-* draft-ietf-idr-sr-epe-over-l2bundle – needs new version
-* draft-ietf-idr-te-path-02 – background due to new interest  
-* draft-ietf-idr-sr-te-policy-attr-01 – needs new version 
+* [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/00/)  
+  Adopted **September 2024**
+  Sue: needs new version
+* [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  
+
+  Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/), however Liu Yao posted an update in **August 2025**.
+* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)  
+  Sue did a [shepherds review](https://mailarchive.ietf.org/arch/msg/idr/BmBjRYKcUcdgaCt9fI4Mi6NvQNs/) on **13 July, 2025**.  Draft -03 was issued in August and Sue needs to cross-check vs. review.
 
 ------
 
