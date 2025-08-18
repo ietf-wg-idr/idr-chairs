@@ -47,8 +47,6 @@
 - [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   Currently undergoing directorate reviews.  Spring review explicitly requested, needs positive ack.
-- [draft-ietf-idr-vpn-orf ](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/) 
-  Keyur submitted to IESG on **14 August, 2025**
 
 
 
@@ -110,7 +108,10 @@
   WGLC done in **14 March, 2025**   
   Sue to Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **12 July, 2025 ** 
   Rtgdir and opsdir review comments on -03 with minor changes requested.  
-* draft-ietf-idr-bgp-ls-sr-policy-nrp-01 – (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)
+* [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
+  (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)  
+  Early allocation requested by Sue on **5 September, 2024**  
+  Sue did a shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**.
 * draft-ietf-idr-sr-policy-path-segment-13 –  (Sue: Shepherd) Checking for WG LC  (ETA: 6/16)
 * draft-ietf-idr-bgp-ls-sr-policy-path-segment-08 – (Sue: Shepherd) checking for WG LC (ETA: 6/16)
 * draft-ietf-idr-linklocal-capability (Jeff, Shepherd) – Need all chair reviews
