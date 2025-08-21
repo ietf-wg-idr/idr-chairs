@@ -102,7 +102,7 @@
 
 ------
 
-### WG LC pending Shepherd Reviews  (XXX JMH - pending audit)
+### WG LC pending Shepherd Reviews
 
 * [SR Early Allocation Status in Wiki](https://wiki.ietf.org/en/group/idr/Early-Allocation-Status)
 * draft-ietf-idr-sr-policy-nrp  
