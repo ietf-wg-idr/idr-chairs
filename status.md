@@ -123,7 +123,9 @@
   Shepherd: Sue  
   [Shepherd's review](https://mailarchive.ietf.org/arch/msg/idr/4vaLeXnYiiF1w9Q-FlUZuhiPTjs/) given on **25 September, 2024**.  Need to check current document to see if it should advance.
   Checking for WG LC (ETA: 6/16)
-* draft-ietf-idr-linklocal-capability (Jeff, Shepherd) – Need all chair reviews
+* [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
+  Shepherd: Jeff  
+  Version -02 covers all open issues.  **Needs all-chairs review.**
 
 
 
