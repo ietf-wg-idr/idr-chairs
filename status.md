@@ -56,6 +56,7 @@
 
 ### Early Allocations (XXX JMH - pending audit)
 
+* Sue had sent an early allocation status report for SR documents to IDR on **13 July, 2025**. 
 * Early allocations pending on draft-ietf-idr-sr-policy-safi publication  (Sue to check with Amanda on status of early allocation)
 * draft-ietf-idr-sr-policy-path-segment-13 [Path Segment, Reverse Path segment] –  done
 * draft-ietf-idr-sr-policy-seglist-id-03 [seglist-id] –  pending
@@ -103,6 +104,7 @@
 
 ### WG LC pending Shepherd Reviews  (XXX JMH - pending audit)
 
+* [SR Early Allocation Status in Wiki](https://wiki.ietf.org/en/group/idr/Early-Allocation-Status)
 * draft-ietf-idr-sr-policy-nrp  
   Shepherd: Sue  
   WGLC done in **14 March, 2025**   
@@ -112,7 +114,11 @@
   (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)  
   Early allocation requested by Sue on **5 September, 2024**  
   Sue did a shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**.
-* draft-ietf-idr-sr-policy-path-segment-13 –  (Sue: Shepherd) Checking for WG LC  (ETA: 6/16)
+* draft-ietf-idr-sr-policy-path-segment-13  
+  Shepherd: Sue  
+  [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
+  Last review **7 March, 2025**. Needs edits.  
+  Checking for WG LC  (ETA: 6/16)
 * draft-ietf-idr-bgp-ls-sr-policy-path-segment-08 – (Sue: Shepherd) checking for WG LC (ETA: 6/16)
 * draft-ietf-idr-linklocal-capability (Jeff, Shepherd) – Need all chair reviews
 
