@@ -114,12 +114,15 @@
   (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)  
   Early allocation requested by Sue on **5 September, 2024**  
   Sue did a shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**.
-* draft-ietf-idr-sr-policy-path-segment-13  
+* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
   Shepherd: Sue  
   [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
   Last review **7 March, 2025**. Needs edits.  
   Checking for WG LC  (ETA: 6/16)
-* draft-ietf-idr-bgp-ls-sr-policy-path-segment-08 – (Sue: Shepherd) checking for WG LC (ETA: 6/16)
+* [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
+  Shepherd: Sue  
+  [Shepherd's review](https://mailarchive.ietf.org/arch/msg/idr/4vaLeXnYiiF1w9Q-FlUZuhiPTjs/) given on **25 September, 2024**.  Need to check current document to see if it should advance.
+  Checking for WG LC (ETA: 6/16)
 * draft-ietf-idr-linklocal-capability (Jeff, Shepherd) – Need all chair reviews
 
 
