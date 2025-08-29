@@ -18,14 +18,14 @@
 
 ## Adoption Requests
 
-- [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
+1. [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/) - by Kevin Wang on **2 December, 2025 ** 
+  Jeff is an author.
+2. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
   (all chairs) – (Sue) Review TBD  
   18 August 2025 Alvaro confirms adoption was requested.
-- [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/) - by Kevin Wang on **2 December, 2025 ** 
-  Jeff is an author.
-- [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
+3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
   Sue had promised review.  Review not yet done?
-- [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
+4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
   Previously requested 20 October, 2023  
   Deployed at AT&T per Israel Means  
   A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
@@ -35,7 +35,7 @@
 
 ## WGLC Requests
 
-- [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
 ------
 
@@ -80,7 +80,9 @@
   Keyur - Noted rtg-dir (Alvaro) feedback as holdup on **April 2025**  
   Linda believes she's addressed comments to date from Alvaro and has asked him to close them out in github issues. **29 July, 2025 ** 
   *Current status is some items waiting until Sue can resolve.*  
-* draft-ietf-idr-bgp-ct-srv6-05  (Sue Hares)-  Will work through issues with authors + Spring Chairs
+* [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
+  Shepherd: Sue  
+  Will work through issues with authors + Spring Chairs
 
 
 
@@ -194,7 +196,9 @@
 
 ## Chair Chartered Work
 
+* [RFC 4360-bis](https://datatracker.ietf.org/doc/draft-chairs-idr-rfc4360-bis/)  
+  Update Extended Communities to address Errata and also to address origination of non-transitive extended communities to eBGP neighbors.  Also update vs. various IANA changes to the registry over the years.  
+   Jeff has started a [github repository](https://github.com/ietf-wg-idr/draft-ietf-idr-rfc4360-bis) for the work.  
+  Nat Kao has taken on editor role.  Srihari Sangli remains as an active author.  
+  Document is undergoing adoption review ending **5 September, 2025.**
 * RFC 4271-bis
-* RFC 4360-bis  
-  Update Extended Communities to address Errata and also to address origination of non-transitive extended communities to eBGP neighbors.  
-  Nat Kao has interest.  Jeff has started a [github repository](https://github.com/ietf-wg-idr/draft-ietf-idr-rfc4360-bis) for the work.
