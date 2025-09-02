@@ -135,7 +135,10 @@
 
 * draft-ietf-idr-bgp-fsm-iana-00 – awaiting 01 – Needs Jeff’s edits (PS, Sue shepherd)
 * draft-ietf-idr-bgp-bfd-strict-mode-14 – waiting for -15 (Sue, Shepherd) – code audit, IANA
-* draft-ietf-idr-rt-derived-community-04  - waiting for -05  (PS, Jie Dong)    
+* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/)-04  
+  Shepherd: Jie  
+  Waiting for -05.  Thread for next actions seems to have stalled out on **22 January, 2025**.  
+  Jeff prodded the thread, **2 September, 2025**.
 * [draft-ietf-idr-bgp-ls-isis-flood-reflection ](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) 
   Shepherd: Sue  
   Awaiting Revision  
