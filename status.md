@@ -19,17 +19,17 @@
 ## Adoption Requests
 
 1. [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/) - by Kevin Wang on **2 December, 2025 ** 
-  Jeff is an author.
+    Jeff is an author.
 2. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
-  (all chairs) – (Sue) Review TBD  
-  18 August 2025 Alvaro confirms adoption was requested.
+    (all chairs) – (Sue) Review TBD  
+    18 August 2025 Alvaro confirms adoption was requested.
 3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
-  Sue had promised review.  Review not yet done?
+    Sue had promised review.  Review not yet done?
 4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
-  Previously requested 20 October, 2023  
-  Deployed at AT&T per Israel Means  
-  A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
-  Some comments from Stephane November 2023 that this might be better for BESS since working on relaxing rt-constrain?
+    Previously requested 20 October, 2023  
+    Deployed at AT&T per Israel Means  
+    A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
+    Some comments from Stephane November 2023 that this might be better for BESS since working on relaxing rt-constrain?
 
 ------
 
@@ -91,10 +91,9 @@
 ### AT IESG, Revised ID needed
 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
-  Shepherd: Sue  
-  Ketan (AD) and authors agreed upon changes, revised ID needed  
-  Chongfeng posted updated version on **12 August, 2025** that appears to address the issues.  Back to **Ketan**.
-
+  Shepherd: Sue/Jeff  
+  Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
+  
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   Shepherd: Keyur – Need document update  
   Depends on: draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
