@@ -134,11 +134,11 @@
   Shepherd: Sue  
   [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
   Last review **7 March, 2025**. Needs edits.  
-  Checking for WG LC  (ETA: 6/16)
+  Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**.  Jeff auditing prior shepherd reports.
 * [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
   Shepherd: Sue  
   [Shepherd's review](https://mailarchive.ietf.org/arch/msg/idr/4vaLeXnYiiF1w9Q-FlUZuhiPTjs/) given on **25 September, 2024**.  Need to check current document to see if it should advance.
-  Checking for WG LC (ETA: 6/16)
+  Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**. Jeff auditing prior shepherd reports.
 * [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
   Shepherd: Jeff  
   Version -02 covers all open issues.  **Needs all-chairs review.**
