@@ -83,14 +83,26 @@
 
 ### Early Allocations
 
-* Sue had sent an [early allocation status report](https://mailarchive.ietf.org/arch/msg/idr/Me5erFR0TjMypo9uEnxjYQz_eEY/) for SR documents to IDR on **13 July, 2025**. 
-* Early allocations pending on [draft-ietf-idr-sr-policy-safi](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-safi) publication  
-  IANA actions complete **4 August, 2025**, waiting RFC Editor for publication of [cluster](https://www.rfc-editor.org/cluster_info.php?cid=C534).  
-  (Sue to check with Amanda on status of early allocation)
+Sue had sent an [early allocation status report](https://mailarchive.ietf.org/arch/msg/idr/Me5erFR0TjMypo9uEnxjYQz_eEY/) for SR documents to IDR on **13 July, 2025**. 
+
+Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):
+
+(Sue to check with Amanda on status of early allocation)
+
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-13 [Path Segment, Reverse Path segment] –  done
 * [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)-03 [seglist-id] –  pending
 * [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-02   [metric] – pending on  
-* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-01 [Segment types L to O]  - pending  
+
+
+
+The following document has allocations pending on both [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830) and [draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/) (soon to be RFC 9857):
+
+* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-01 [Segment types L to O] 
+
+
+
+Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu):  
+
 * [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)-10 [PATH MTU] – pending
 
 ### Renew Early Allocations
