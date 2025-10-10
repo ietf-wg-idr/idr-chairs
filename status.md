@@ -21,13 +21,12 @@
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   Shepherd: Sue/Jeff  
   Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
+  IESG Review status: Discuss needs to be resolved with revision. 
 
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   Shepherd: Keyur – Need document update  
   Depends on: draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
-
-
-
+ 
 ------
 
 ## In-Progress WGLC
@@ -35,10 +34,11 @@
 - [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   Shepherd: Keyur  
   WGLC **10 September, 2025** through **25 September, 2025**
+  
 - [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   Currently undergoing directorate reviews.  Spring review explicitly requested, needs positive ack.
-
+ 
 
 
 ------
