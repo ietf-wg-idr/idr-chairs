@@ -21,11 +21,11 @@
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   Shepherd: Sue/Jeff  
   Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
+  IESG Status: Waiting for revision to resolve MED DISCUSS 
 
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   Shepherd: Keyur – Need document update  
   Depends on: draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
-
 
 
 ------
