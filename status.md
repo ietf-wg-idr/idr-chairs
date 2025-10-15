@@ -3,7 +3,6 @@
 
 
 [TOC]
-
 ------
 
 ## Area Director Actions
@@ -11,22 +10,18 @@
 - Re-chartering is in progress.
   - Comment period was supposed to end two weeks after IETF 123.
   - There are un-responded to comments in the re-chartering thread.
-
-
-
 ------
 
 ## At IESG, Revised ID needed
 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
-  Shepherd: Sue/Jeff  
+  Shepherd: Sue/Jeff  (Sue picking up) 
   Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
-  IESG Status: Waiting for revision to resolve MED DISCUSS 
+  IESG Status: Waiting for revision to resolve MED DISCUSS (2nd Round) 
 
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   Shepherd: Keyur – Need document update  
   Depends on: draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
-
 
 ------
 
@@ -37,18 +32,19 @@
   WGLC **10 September, 2025** through **25 September, 2025**
 - [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
-  Currently undergoing directorate reviews.  Spring review explicitly requested, needs positive ack.
-
-
-
+  [-04] Resolved Directorate reviews, need to confirm.
+  [-04] Spring review explicitly requested, Held interim on 10/14/2025. Spring Chairs confirming on list.
+         Submission to IESG awaits Spring Confirmation. 
 ------
 
 ## WGLC Requests
 
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
-
-
+2. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)
+   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.
+   If WG approves, then the drafts become WG drafts.  Call starting (10/15/2025, ending 10/29/2025)
+   **Shepherd:** Susan Hares 
 ------
 
 ## In-Progress Adoption Calls
@@ -56,10 +52,8 @@
 - [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
   Requested by Kevin Wang on **2 December, 2025 **  
   Jeff is an author.  
-  Adoption **10 September, 2025** through **25 September, 2025**
-
-
-
+  **Adoption:** **10 September, 2025** through **25 September, 2025**
+  **Shepherd:** Keyur Patel 
 ------
 
 ## Adoption Requests
@@ -67,15 +61,15 @@
 1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
     (all chairs) – (Sue) Review TBD  
     18 August 2025 Alvaro confirms adoption was requested.
-2. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
-    Sue had promised review.  Review not yet done?
-3. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
+   
+3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
+    Sue had promised review.  
+   
+4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
     Deployed at AT&T per Israel Means  
     A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
     Some comments from Stephane November 2023 that this might be better for BESS since working on relaxing rt-constrain?
-
-
 
 ------
 
