@@ -15,9 +15,9 @@
 ## At IESG, Revised ID needed
 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
-  Shepherd: Sue/Jeff  (Sue picking up) 
+  Shepherd: Sue/Jeff  (Sue picking up October 7, 2025)  
   Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
-  IESG Status: Waiting for revision to resolve MED DISCUSS (2nd Round) 
+  IESG Status: Awaiting revision to resolve MED DISCUSS (2nd Round) **15 October, 2025**, 
 
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   Shepherd: Keyur – Need document update  
