@@ -4,31 +4,32 @@
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –  Sent to ISE with IDR Chairs review.  Discuss with Eliot Leer on Monday 10/23/2025.
    Eliot is concerned about this draft, so I need to write-up 
-3. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)
+2. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)
    Status: Waiting for authors to revise to address 2nd round of MED's DISCUSS (3 points).
    
-5. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+3. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
     Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Awaiting list confirmation of results. 
     Summary of interim: Having the following two approaches OK by Spring
      a. SID list, scaling ok at 10, bad at > 100) and
      b.  NRP ID and SID, good at > 100.
     Dataplane defined by MPLS (mna) and 6man (SRv6).Control Plane IDR and PCEP.
     
-7. Check on pending BGP-LS and SR allocations with IANA and Ketan 
+4. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Unclear what is blocking most of the allocation. Need to query Ketan for discussion on 10/16/2025.
 
-8.  BGP-LSR/SR – Review new drafts prior to IETF-124 
+5. review [draft-hegdearavind-idr-bgp-ls-flex-algo-ext] (Ok for Adoption on 10/15/2025)  
+6.  BGP-LSR/SR – Review new drafts prior to IETF-124 
    
-9. **SDWAN** – Working on with Alvaro and Linda (as author)  
+7. **SDWAN** – Working on with Alvaro and Linda (as author)  
   * Alvaro’s review disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
   * Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).    
   * Will work with Alvaro and then Linda to resolve issues in order to quicken the pace.
   * (process -  github and then text) 
 
-10.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
+8.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
    Will adjust to correct to github and hopefully link to git hub
    
-11. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR  
+9. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR  
 ------
 
  ### Jeff:
