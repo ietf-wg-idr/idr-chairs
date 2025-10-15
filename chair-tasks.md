@@ -17,9 +17,9 @@
 4. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Unclear what is blocking most of the allocation. Need to query Ketan for discussion on 10/16/2025.
 
-5. review [draft-hegdearavind-idr-bgp-ls-flex-algo-ext] (Ok for Adoption on 10/15/2025)  
-6.  BGP-LSR/SR – Review new drafts prior to IETF-124 
-   
+5. review [draft-hegdearavind-idr-bgp-ls-flex-algo-ext] (Ok for Adoption send to idr-chairs on 10/15/2025)  
+6.  BGP-LSR/SR – Review new drafts prior to IETF-124 - Will do this prior to starting on SDWAN work. 
+
 7. **SDWAN** – Working on with Alvaro and Linda (as author)  
   * Alvaro’s review disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
   * Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).    
