@@ -50,7 +50,7 @@
 ## In-Progress Adoption Calls
 
 - [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
-  Requested by Kevin Wang on **2 December, 2025 **  
+  Requested by Kevin Wang on **2 December, 2025**  
   Jeff is an author.  
   **Adoption:** **10 September, 2025** through **25 September, 2025**
   **Shepherd:** Keyur Patel 
@@ -110,7 +110,7 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –  working with Alvaro and Linda to resolve drafts [ETA: August]  
   Keyur - Noted rtg-dir (Alvaro) feedback as holdup on **April 2025**  
-  Linda believes she's addressed comments to date from Alvaro and has asked him to close them out in github issues. **29 July, 2025 ** 
+  Linda believes she's addressed comments to date from Alvaro and has asked him to close them out in github issues. **29 July, 2025** 
   *Current status is some items waiting until Sue can resolve.*  
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   Shepherd: Sue  
@@ -126,7 +126,7 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 * draft-ietf-idr-sr-policy-nrp  
   Shepherd: Sue  
   WGLC done in **14 March, 2025**   
-  Sue to Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **12 July, 2025 ** 
+  Sue to Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **12 July, 2025** 
   Rtgdir and opsdir review comments on -03 with minor changes requested.  
 * [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
   (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)  
