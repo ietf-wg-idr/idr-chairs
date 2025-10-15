@@ -62,8 +62,8 @@
     (all chairs) – (Sue) Review TBD  
     18 August 2025 Alvaro confirms adoption was requested.
    
-3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 ** 
-    Sue had promised review.  
+3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 **
+    Sue's Review sent to idr-chairs. 
    
 4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
@@ -87,13 +87,9 @@ Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/r
 * [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)-03 [seglist-id] –  pending
 * [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-02   [metric] – pending on  
 
-
-
 The following document has allocations pending on both [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830) and [draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/) (soon to be RFC 9857):
 
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-01 [Segment types L to O] 
-
-
 
 Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu):  
 
