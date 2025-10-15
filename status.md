@@ -62,7 +62,7 @@
     (all chairs) – (Sue) Review TBD  
     18 August 2025 Alvaro confirms adoption was requested.
    
-3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025 **
+3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025**
     Sue's Review sent to idr-chairs. 
    
 4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
