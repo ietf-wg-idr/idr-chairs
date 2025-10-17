@@ -39,12 +39,14 @@
 
 ## WGLC Requests
 
-1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
-
-2. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)
+1. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)
    into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.
    If WG approves, then the drafts become WG drafts.  Call starting (10/15/2025, ending 10/29/2025)
    **Shepherd:** Susan Hares 
+
+2. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+
+
 ------
 
 ## In-Progress Adoption Calls
