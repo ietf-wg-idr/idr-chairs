@@ -60,14 +60,16 @@
 
 ## Adoption Requests
 
-1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
+1. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025**
+    Sue's Review sent to idr-chairs. 
+
+2. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
     (all chairs) – (Sue) Review TBD  
     18 August 2025 Alvaro confirms adoption was requested.
+  
+
    
-3. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025**
-    Sue's Review sent to idr-chairs. 
-   
-4. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
+3. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
     Deployed at AT&T per Israel Means  
     A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
