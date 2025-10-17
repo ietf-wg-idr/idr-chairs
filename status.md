@@ -28,8 +28,8 @@
 ## In-Progress WGLC
 
 - [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
-  Shepherd: Keyur  
-  WGLC **10 September, 2025** through **25 September, 2025**
+  **Shepherd**: Keyur  
+  WGLC complete, **Keyur to send to IESG**
 - [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   [-04] Resolved Directorate reviews, need to confirm.
@@ -39,39 +39,46 @@
 
 ## WGLC Requests
 
-1. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)
-   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.
-   If WG approves, then the drafts become WG drafts.  Call starting (10/15/2025, ending 10/29/2025)
+1. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)   
+   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.  
+   If WG approves, then the drafts become WG drafts.  Call starting (**10/15/2025, ending 10/29/2025**)  
+   Note: NHC draft would be eligible to move to last call since there are two implementations of features on this work, specifically next-nexthop-nodes.
+
    **Shepherd:** Susan Hares 
 
-2. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) - Intention to request last call to finish by **end of IETF 124** 
+   **Shepherd:** Keyur
 
-3. 4360-bis - keyur shepherd.
+3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
+   **Shepherd:** Sue
+   WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
 
-4. link-local - Jie shepherd.
+4. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+
+5. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
+   **Shepherd:** Jie
+
 
 ------
 
 ## In-Progress Adoption Calls
 
 - [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
-  Requested by Kevin Wang on **2 December, 2025**  
-  Jeff is an author.  
-  **Adoption:** **10 September, 2025** through **25 September, 2025**
-  **Shepherd:** Keyur Patel 
+  **Shepherd:** Keyur Patel  
+  Work was adopted **28 September, 2025**, authors to post draft-ietf-idr-next-nexthop-nodes.
+- [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - 
+  **Shepherd:** Jeff  
+  Adoption period **17-31 October, 2025**.
 ------
 
 ## Adoption Requests
 
-1. [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - by Aravind Babu on **24 February, 2025**
-    Sue's Review sent to idr-chairs. 
-
-2. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
+1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
     (all chairs) – (Sue) Review TBD  
-    18 August 2025 Alvaro confirms adoption was requested.
-  
+    18 August 2025 Alvaro confirms adoption was requested. Original request was at IETF 117 (July 2023)  
+    Due to size of work, chairs are still considering when to take up adoption request.
+    
 
-   
 3. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
     Deployed at AT&T per Israel Means  
@@ -130,26 +137,26 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 ### WG LC pending Shepherd Reviews
 
 * [SR Early Allocation Status in Wiki](https://wiki.ietf.org/en/group/idr/Early-Allocation-Status)
-* draft-ietf-idr-sr-policy-nrp  
-  Shepherd: Sue  
+* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
+  **Shepherd:** Sue  
   WGLC done in **14 March, 2025**   
   Sue to Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **12 July, 2025** 
   Rtgdir and opsdir review comments on -03 with minor changes requested.  
 * [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
-  (Sue: Shepherd) – checking prior to WG LC (ETA: 6/16)  
+  **Shepherd:** Sue – checking prior to WG LC (ETA: 6/16)  
   Early allocation requested by Sue on **5 September, 2024**  
   Sue did a shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**.
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
-  Shepherd: Sue; [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).  
+  **Shepherd:** Sue; [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).  
   [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
   Last review **7 March, 2025**. Needs edits.  
   Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**.  Jeff auditing prior shepherd reports.
 * [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
-  Shepherd: Sue; [Shepherd's report in IDR wiki](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)  
+  **Shepherd:** Sue; [Shepherd's report in IDR wiki](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)  
   [Shepherd's review](https://mailarchive.ietf.org/arch/msg/idr/4vaLeXnYiiF1w9Q-FlUZuhiPTjs/) given on **25 September, 2024**.  Need to check current document to see if it should advance.
   Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**. Jeff auditing prior shepherd reports.
 * [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
-  Shepherd: Jeff  
+  **Shepherd:** Jeff  
   Version -02 covers all open issues.  **Needs all-chairs review.**
 
 
@@ -170,6 +177,8 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
   Asked authors if they are still moving forward.  Seems answer is yes.  **Jeff August 2025**
 * draft-ietf-idr-flowspec-srv6-06 – pending adoption of draft-hares-idr-fsv2-more-ip-filters (Sue, Shepherd)
 
+
+
 ------
 
  ### SR/BGP-LS – Need revision
@@ -182,6 +191,8 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
   Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/), however Liu Yao posted an update in **August 2025**.
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)  
   Sue did a [shepherds review](https://mailarchive.ietf.org/arch/msg/idr/BmBjRYKcUcdgaCt9fI4Mi6NvQNs/) on **13 July, 2025**.  Draft -03 was issued in August and Sue needs to cross-check vs. review.
+
+
 
 ------
 
@@ -210,12 +221,23 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
   Sue has flagged this as needs update.  Is this different than the work from original questions in **September 2024**?  
   Received some spring list commentary (largely, this seems useful) in September 2024.
 
+
+
+------
+
 ### CATs related
+
 * draft-li-idr-cats-bgp-extension
 
-### General WG Drafts needing to be refreshed
-* draft-ietf-idr-performance-routing
-* draft-ietf-idr-bgp-generic-metric
+
+
+------
+
+### General WG Drafts needing to be advanced
+* [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
+* [draft-ietf-idr-bgp-generic-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-generic-metric/)  
+  This work depends on the nexthop dependent capabilities work that is being split from the current entropy label document.
+* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/)
 
 
 
@@ -223,9 +245,8 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 
 ## Chair Chartered Work
 
-* [RFC 4360-bis](https://datatracker.ietf.org/doc/draft-chairs-idr-rfc4360-bis/)  
-  Update Extended Communities to address Errata and also to address origination of non-transitive extended communities to eBGP neighbors.  Also update vs. various IANA changes to the registry over the years.  
-   Jeff has started a [github repository](https://github.com/ietf-wg-idr/draft-ietf-idr-rfc4360-bis) for the work.  
-  Nat Kao has taken on editor role.  Srihari Sangli remains as an active author.  
-  Document is undergoing adoption review ending **5 September, 2025.**
-* RFC 4271-bis
+* [draft-ietf-idr-bgp4-rfc4271bis](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp4-rfc4271bis/)  
+  Adopted **October 2025**  
+  Github Repository: https://github.com/ietf-wg-idr/RFC4271bis  
+  Editor has provided initial document including conversion of RFC 4271 and incorporating open Errata.  
+  Discussion pending about how to best incorporate [open issues](https://github.com/ietf-wg-idr/RFC4271bis/issues).

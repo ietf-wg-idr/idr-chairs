@@ -44,6 +44,8 @@
    Target WGLC by **IETF-124**
    Shepherd: Sue 
 
+1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
+
 1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/) 
    Shepherd: Keyur
    Target completion by **IETF-124**
@@ -67,9 +69,10 @@
 
 ### Keyur:
 
+* draft-ietf-idr-rfc4360-bis - **17 October, 2025** Initiate WGLC.
 * draft-ietf-idr-linklocal-capability – review draft prior to WG LC
 * Does Arrcus have implementations of the following FSV1 drafts (to check with Derrick):
-  * draft-ietf-idr-flowspec-path-redirect
+  * draft-ietf-idr-flowspec-path-redirect - **17 October, 2025** not supported?
   * draft-ietf0-idr-srv6-flowspec-path-redirect-11  
 
 ------
