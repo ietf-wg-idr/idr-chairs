@@ -10,23 +10,25 @@
 - Re-chartering is in progress.
   - Comment period was supposed to end two weeks after IETF 123.
   - There are un-responded to comments in the re-chartering thread.
-------
+-----
 
-## At IESG, Revised ID needed
+## at RFC editor
 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   Shepherd: Sue/Jeff  (Sue picking up October 7, 2025)  
   Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
-  IESG Status: Awaiting revision to resolve MED DISCUSS (2nd Round) **15 October, 2025**, 
+  IESG Status: Approved 
+------
+
+## At IESG, Revised ID needed
 
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
-  Shepherd: Keyur – Need document update  
-  Depends on: draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
+  Shepherd: Keyur
+  Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
 
 ------
 
 ## In-Progress WGLC
-
 - [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur  
   WGLC complete, **Keyur to send to IESG**
@@ -52,12 +54,12 @@
 3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
    WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
+   WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
+   
+5. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
-4. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
-
-5. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
+6. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
    **Shepherd:** Jie
-
 
 ------
 
@@ -65,7 +67,7 @@
 
 - [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
   **Shepherd:** Keyur Patel  
-  Work was adopted **28 September, 2025**, authors to post draft-ietf-idr-next-nexthop-nodes.
+  Work was adopted **28 September, 2025**, authors posted: 10/202024  
 - [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - 
   **Shepherd:** Jeff  
   Adoption period **17-31 October, 2025**.
