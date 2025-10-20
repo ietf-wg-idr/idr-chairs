@@ -1,7 +1,5 @@
 # Status last updated 2025-08-14
 
-
-
 [TOC]
 ------
 
@@ -13,6 +11,9 @@
 -----
 
 ## at RFC editor
+* [draft-ietf-idr-bgp-ls-sr-policy-17](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/)
+  status: RFC9857 (Auth-48) Awaiting John Scudder approval of changes to Table 6, Titles of 5.7.1.1.1 to 5.7.1.1.11. 
+  Shepherd: Sue (Sue picking up again October 2025)  
 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   Shepherd: Sue/Jeff  (Sue picking up October 7, 2025)  
@@ -53,21 +54,25 @@
 
 3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
-   WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
-   WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
-   
+  [04] WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
+  [04] WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
+  [04] WG Shepherd review summary: a) Issues with text in 2.2 b) What did Cisco implement? 
+      
 5. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
 6. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
    **Shepherd:** Jie
 
+----
+## Adopted 
+- [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
+  **Shepherd:** Keyur Patel  
+  Work was adopted **28 September, 2025**, Email:https://mailarchive.ietf.org/arch/msg/idr/Z2zw8QtankFn2qHdYXvD838kXts/
+  **authors posted:** 10/202024
 ------
 
 ## In-Progress Adoption Calls
-
-- [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
-  **Shepherd:** Keyur Patel  
-  Work was adopted **28 September, 2025**, authors posted: 10/202024  
+ 
 - [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - 
   **Shepherd:** Jeff  
   Adoption period **17-31 October, 2025**.
@@ -115,9 +120,6 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 
 * Wide community allocations:
   Ketan has asked that the allocation not be renewed as it will be done as part of publication. **28 July, 2025**
-
-
-
 ------
 
 ## Status:
