@@ -2,26 +2,28 @@
 
 ### Sue: (as of 10/15/2025) 
 
-1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –  Sent to ISE with IDR Chairs review.  Discuss with Eliot Leer on Monday 10/23/2025.
-   Eliot is concerned about this draft, so I need to write-up 
-2. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)
-   Status: Waiting for authors to revise to address 2nd round of MED's DISCUSS (3 points).
+1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
+    Status: Sent to ISE with IDR Chairs review.  Discuss with Eliot Leer on Monday 10/23/2025. Eliot is concerned about this draft, so I need to write-up 
+3. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)
+   Status: Approved for RFC publication. 
    
-3. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+4. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
     Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Awaiting list confirmation of results. 
     Summary of interim: Having the following two approaches OK by Spring
      a. SID list, scaling ok at 10, bad at > 100) and
      b.  NRP ID and SID, good at > 100.
     Dataplane defined by MPLS (mna) and 6man (SRv6).Control Plane IDR and PCEP.
 
-4. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
-
-5. Check on pending BGP-LS and SR allocations with IANA and Ketan 
+5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
+   Status: Shepherd's review completed (10/20/2025) 
+   Next-steps: Response by authors, hold on draft dependent on draft-ietf-idr-flowspec-redirect-ip 
+   
+7. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Unclear what is blocking most of the allocation. Need to query Ketan for discussion on 10/16/2025.   
 
-7.  BGP-LSR/SR – Review new drafts prior to IETF-124 - Will do this prior to starting on SDWAN work. 
+8.  BGP-LSR/SR – Review new drafts prior to IETF-124 - Will do this prior to starting on SDWAN work. 
 
-8. **SDWAN** – Working on with Alvaro and Linda (as author)  
+9. **SDWAN** – Working on with Alvaro and Linda (as author)  
   * Alvaro’s review disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
   * Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).    
   * Will work with Alvaro and then Linda to resolve issues in order to quicken the pace.
