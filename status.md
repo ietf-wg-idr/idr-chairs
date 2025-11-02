@@ -25,8 +25,7 @@
 ## At IESG, Revised ID needed
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
   **Shepherd**: Keyur
-  Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)
-  
+  Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
 ------
 
 ## Waiting for Write-up 
@@ -97,12 +96,11 @@
 
 ## IANA Actions
 
-### Early Allocations
+### Early Allocations (see also https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status) 
 
 Sue had sent an [early allocation status report](https://mailarchive.ietf.org/arch/msg/idr/Me5erFR0TjMypo9uEnxjYQz_eEY/) for SR documents to IDR on **13 July, 2025**. 
 
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):
-
 (Sue to check with Amanda on status of early allocation)
 
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-13 [Path Segment, Reverse Path segment] –  done
@@ -134,8 +132,6 @@ Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   Shepherd: Sue  
   Will work through issues with authors + Spring Chairs
-
-
 
 ------
 
