@@ -103,8 +103,9 @@ Sue had sent an [early allocation status report](https://mailarchive.ietf.org/ar
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):
 (Sue to check with Amanda on status of early allocation)
 
-* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-13 [Path Segment, Reverse Path segment] –  done
-* [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)-03 [seglist-id] –  pending
+* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-04 [ELP Sub-TL].  Ready based on-04 text (call: 11/2/2025 -11/17/2025)   
+* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – Pending on -15, Problem: Reverse Path Segment has 2 bytes in length. Awaiting authors revision.
+* [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)-03 [seglist-id] – Call for Early Allocation done on 11/2 (11/2-11/17/2025) 
 * [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-02   [metric] – pending on  
 
 The following document has allocations pending on both [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830) and [draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/) (soon to be RFC 9857):
