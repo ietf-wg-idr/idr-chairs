@@ -9,58 +9,60 @@
   - Comment period was supposed to end two weeks after IETF 123.
   - There are un-responded to comments in the re-chartering thread.
 -----
+## RFCs Between IETF123 and IETF124 
+* RFC 9723 - draft-ietf-idr-cpr-08 (5/21/2025) 
+* RFC 9830 - draft-ietf-idr-sr-policy-safi-17 (9/12/2025) 
+* RFC 9831 - draft-ietf-idr-sr-segement-types-ext-08 (9/12/2025) 
+* RFC 9832 - draft-ietf-idr-bgp-ct-39 (9/12/2025)
+-----
 
 ## at RFC editor
-* [draft-ietf-idr-bgp-ls-sr-policy-17](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/)
-  status: RFC9857 (Auth-48) Awaiting John Scudder approval of changes to Table 6, Titles of 5.7.1.1.1 to 5.7.1.1.11. 
-  Shepherd: Sue (Sue picking up again October 2025)  
-
+* [draft-ietf-idr-car-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) in Auth-48, Shepherd: Sue Hares 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
-  Shepherd: Sue/Jeff  (Sue picking up October 7, 2025)  
-  Updated shepherd writeup done vs. -12 per Ketan's request on **2 September, 2025**. Back to Ketan.
-  IESG Status: Approved 
+  **Shepherd**: Sue Hares (approved 10/21/2025) 
 ------
 
 ## At IESG, Revised ID needed
-
 * [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
-  Shepherd: Keyur
-  Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
-
+  **Shepherd**: Keyur
+  Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)
+  
 ------
 
-## In-Progress WGLC
-- [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
-  **Shepherd**: Keyur  
-  WGLC complete, **Keyur to send to IESG**
-- [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
+## Waiting for Write-up 
+* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   [-04] Resolved Directorate reviews, need to confirm.
   [-04] Spring review explicitly requested, Held interim on 10/14/2025. Spring Chairs confirming on list.
-         Submission to IESG awaits Spring Confirmation. 
+         Submission to IESG awaits Spring Confirmation (will probably come at IETF124) 
 ------
 
-## WGLC Requests
+## WGLC Requests Approved: 
+* Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)   
+   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.  - Drafts submitted 
+   **Shepherd:** Susan Hares
 
-1. Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)   
-   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.  
-   If WG approves, then the drafts become WG drafts.  Call starting (**10/15/2025, ending 10/29/2025**)  
-   Note: NHC draft would be eligible to move to last call since there are two implementations of features on this work, specifically next-nexthop-nodes.
+# WG LC in Process 
 
-   **Shepherd:** Susan Hares 
+1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
+  **Shepherd**: Keyur
+  Status: WGLC complete, **Keyur needs to close WG LC, and send to IESG**
 
-2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) - Intention to request last call to finish by **end of IETF 124** 
+2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
    **Shepherd:** Keyur
+   Status:  Intention to request last call to finish by **end of IETF 124**
 
-3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
+## WGL LC Pending
+   
+1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
   [04] WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
   [04] WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
-  [04] WG Shepherd review summary: a) Issues with text in 2.2 b) What did Cisco implement? 
+  [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG** 
       
-5. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+2. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
-6. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
+3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
    **Shepherd:** Jie
 
 ----
@@ -68,11 +70,10 @@
 - [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
   **Shepherd:** Keyur Patel  
   Work was adopted **28 September, 2025**, Email:https://mailarchive.ietf.org/arch/msg/idr/Z2zw8QtankFn2qHdYXvD838kXts/
-  **authors posted:** 10/202024
+  **authors posted:** 10/20/2025 
 ------
 
 ## In-Progress Adoption Calls
- 
 - [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - 
   **Shepherd:** Jeff  
   Adoption period **17-31 October, 2025**.
