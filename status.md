@@ -29,7 +29,7 @@
   Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
 ------
 
-## Waiting for Write-up 
+## WG LC - Waiting for Shepherd Write-up 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   [-04] Resolved Directorate reviews, need to confirm.
@@ -42,18 +42,18 @@
    into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.  - Drafts submitted 
    **Shepherd:** Susan Hares
 
-# WG LC in Process 
+  -----
 
+# WG LC in Process 
 1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur
   Status: WGLC complete, **Keyur needs to close WG LC, and send to IESG**
 
-
-
+----
 ## WGL LC Pending
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
-   **Shepherd:** Keyur
-   Status: Intention to Start by **end of IETF 124** (missing the start of WG LC )
+   **Shepherd:** Keyur O
+   Status: Intention to Start by **end of IETF 124**  
    
 2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
