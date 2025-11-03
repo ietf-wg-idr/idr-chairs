@@ -62,16 +62,31 @@
   [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG**
 
 3. [draft-ietf-idr-flowspec-srv6-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/)
-   **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect 
+   **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
+4. [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/)
+   **Shepherd:** Sue Hares - needs implementation report  
 
-4. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/), shepherd: Jie Dong, Waiting for WG LC Review 
+5. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),
+ **Shepherd:** Jie Dong, Waiting for WG LC Review 
 
-6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)
+  **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**
 
 7. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
    **Shepherd:** Jie
-8. draft-ietf-idr-bgp-ls-isis-flood-reflection-04 | Sue Hares    
-| draft-ietf-idr-rt-derived-community-04 | Jie Dong | awaiting -05 | Pre-WG LC Review  | TBD | TBD | TBD | TBD |  | 
+8. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),
+  **Shepherd:** Sue, pending -05 and pre-WG LC review 
+9. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)
+   **Shepherd:** Sue – needs -13 
+10 [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)
+   **Shepherd:** Sue – needs -04 
+11. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/) -
+ **Shepherd:** Sue* – needs 2nd implementation
+12. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
+  **Shepherd:** Sue* – needs Pre-WG LC review and IANA review 
+13. [draft-ietf-idr-bgp-bfd-strict-mode-15] https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/
+    **Shepherd:** - Needs Pre-WG LC review and BFD WG finishing drafts 
+
 
 ----
 ## Adopted 
