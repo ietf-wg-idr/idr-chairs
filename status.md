@@ -48,21 +48,22 @@
   **Shepherd**: Keyur
   Status: WGLC complete, **Keyur needs to close WG LC, and send to IESG**
 
-2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
-   **Shepherd:** Keyur
-   Status:  Intention to request last call to finish by **end of IETF 124**
+
 
 ## WGL LC Pending
+2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
+   **Shepherd:** Keyur
+   Status: Intention to Start by **end of IETF 124** (missing the start of WG LC )
    
-1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
+2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
   [04] WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
   [04] WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
   [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG** 
       
-2. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+3. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
 
-3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
+4. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
    **Shepherd:** Jie
 
 ----
