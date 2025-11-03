@@ -50,7 +50,7 @@
   Status: WGLC complete, **Keyur needs to close WG LC, and send to IESG**
 
 ----
-## WGL LC Pending
+## WG LC Pending
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
    **Shepherd:** Keyur O
    Status: Intention to Start by **end of IETF 124**  
