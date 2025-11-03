@@ -75,7 +75,7 @@
 ## In-Progress Adoption Calls
 - [draft-hegdearavind-idr-bgp-ls-flex-algo-ext](https://datatracker.ietf.org/doc/draft-hegdearavind-idr-bgp-ls-flex-algo-ext/) - 
   **Shepherd:** Jeff  
-  Adoption period **17-31 October, 2025**.
+  Adoption period **17-31 October, 2025**.  ** Chairs need to call by 11/4 ** 
 ------
 
 ## Adoption Requests
@@ -106,13 +106,12 @@ Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/r
 * [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-04 [ELP Sub-TL].  Ready based on-04 text (call: 11/2/2025 -11/17/2025)   
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – Pending on -15, Problem: Reverse Path Segment has 2 bytes in length. Awaiting authors revision.
 * [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)-03 [seglist-id] – Call for Early Allocation done on 11/2 (11/2-11/17/2025) 
-* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-02   [metric] – pending on  
+* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-04   [metric] – Needs -04 to fix technical issues and editorialissues.  
 
 The following document has allocations pending on both [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830) and [draft-ietf-idr-bgp-ls-sr-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy/) (soon to be RFC 9857):
 
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-01 [Segment types L to O] 
-
-Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu):  
+  Pending document update from [-11 shepherd's review](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-mtu):  
 
 * [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)-10 [PATH MTU] – pending
 
