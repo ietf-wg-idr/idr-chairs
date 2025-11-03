@@ -59,12 +59,19 @@
    **Shepherd:** Sue
   [04] WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
   [04] WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
-  [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG** 
-      
-3. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+  [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG**
 
-4. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.  Start after IETF 124? 
+3. [draft-ietf-idr-flowspec-srv6-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/)
+   **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect 
+
+4. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/), shepherd: Jie Dong, Waiting for WG LC Review 
+
+6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/) - Requested by Linda Dunbar **21 July, 2025**
+
+7. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
    **Shepherd:** Jie
+8. draft-ietf-idr-bgp-ls-isis-flood-reflection-04 | Sue Hares    
+| draft-ietf-idr-rt-derived-community-04 | Jie Dong | awaiting -05 | Pre-WG LC Review  | TBD | TBD | TBD | TBD |  | 
 
 ----
 ## Adopted 
