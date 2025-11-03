@@ -198,8 +198,8 @@ The following document has allocations pending on both [RFC 9830](https://datatr
 - [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  awaiting linked SR draft (draft-ietf-idr-sr-policy-nrp) to be OKed in Spring.
 - [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/) - awaiting changes in linked SR draft (may need -11 version)
 - [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - need -03, draft expired.
-* [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  - need -03 
-  Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/), however Liu Yao posted an update in **August 2025**.
+* [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  - need -03, draft ex[ored 
+  Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/). 
  
 ------
 
