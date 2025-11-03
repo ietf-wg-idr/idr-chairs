@@ -12,8 +12,9 @@
 ## RFCs Between IETF123 and IETF124 
 * RFC 9723 - draft-ietf-idr-cpr-08 (5/21/2025) 
 * RFC 9830 - draft-ietf-idr-sr-policy-safi-17 (9/12/2025) 
-* RFC 9831 - draft-ietf-idr-sr-segement-types-ext-08 (9/12/2025) 
+* RFC 9831 - draft-ietf-idr-sr-segment-types-ext-08 (9/12/2025) 
 * RFC 9832 - draft-ietf-idr-bgp-ct-39 (9/12/2025)
+* RFC 9857 - draft-ietf-idr-bgp-ls-sr-policy (10/29/2025) 
 -----
 
 ## at RFC editor
@@ -161,8 +162,6 @@ The following document has allocations pending on both [RFC 9830](https://datatr
   **Shepherd:** Jeff  
   Version -02 covers all open issues.  **Needs all-chairs review.**
 
-
-
 ------
 
 ### WG LC pending new drafts
@@ -179,22 +178,44 @@ The following document has allocations pending on both [RFC 9830](https://datatr
   Asked authors if they are still moving forward.  Seems answer is yes.  **Jeff August 2025**
 * draft-ietf-idr-flowspec-srv6-06 – pending adoption of draft-hares-idr-fsv2-more-ip-filters (Sue, Shepherd)
 
-
-
 ------
 
- ### SR/BGP-LS – Need revision
+ ### SR WG – Need revision (see Shepherd Reviews at Wiki at: https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS) 
+* [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - Needs -01 (-00 Expired in May 2022)  
+* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - needs 04 for early allocation 
+* [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - WG LC completed, -04 Addresses Directorate, but -05 will need to address Spring + TEAST 
+* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - Needs -13 before early allocation.  
+* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - Needs -15 before early allocation 
+* [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) -06 is in 2 week Early Allocation call. [-07 with Early Allocation]  
+* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - needs -04 revision with correct registry name 
 
-* [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/00/)  
-  Adopted **September 2024**
-  Sue: needs new version
+-------
+ ## BGP-LS WG Need revision (see Shepherd Reviews at Wiki at: https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS) 
+* [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) Need -05. Early allocation with -04 OK, but queried IDR if RTGDIR review wise. 
+* [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-ietf-idr-sr-epe-over-l2bundle) - needs -01 
+
+- [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) [-04](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-isis-flood-reflection-04) - 
+
+- [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - [(-07) to (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-link-mtu)
+- [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/) [(-00) tp (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-nrp) 
+- [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  [(-07) to (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)
+- [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - [(-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-service-segments)
+
+- [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/) - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ietf-idr-bgp-ls-te-path) 
+* draft-ietf-idr-bgp-ls-bgp-only-fabric (-03 to -04) - Ned -05. Early allocation with -04 OK, but queried IDR if RTGDIR review wise.
+* draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - (-00) - needs -01
+draft-ietf-idr-bgp-ls-isis-flood-reflection -04 -
+draft-ietf-idr-bgp-ls-link-mtu - (-07) to (-08)
+draft-ietf-idr-bgp-ls-sr-policy-nrp (-00) tp (-01)
+draft-ietf-idr-bgp-ls-sr-policy-path-segment (-07) to (-08)
+draft-ietf-idr-bgp-ls-sr-service-segments - (-02)
+draft-ietf-idr-bgp-ls-te-path - (-01) to (-02)
+* [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/00/)  - Needs -01 
 * [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  
-
   Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/), however Liu Yao posted an update in **August 2025**.
+  
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)  
   Sue did a [shepherds review](https://mailarchive.ietf.org/arch/msg/idr/BmBjRYKcUcdgaCt9fI4Mi6NvQNs/) on **13 July, 2025**.  Draft -03 was issued in August and Sue needs to cross-check vs. review.
-
-
 
 ------
 
