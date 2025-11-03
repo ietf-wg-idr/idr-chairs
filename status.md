@@ -51,7 +51,7 @@
 
 
 ## WGL LC Pending
-2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
+1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/) -
    **Shepherd:** Keyur
    Status: Intention to Start by **end of IETF 124** (missing the start of WG LC )
    
