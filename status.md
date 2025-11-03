@@ -160,8 +160,7 @@ The following document has allocations pending on both [RFC 9830](https://datatr
 
 ------
 
-### WG LC pending Shepherd Reviews
-
+### WG LC pending Shepherd Review
 * [SR Early Allocation Status in Wiki](https://wiki.ietf.org/en/group/idr/Early-Allocation-Status)
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   **Shepherd:** Sue  
