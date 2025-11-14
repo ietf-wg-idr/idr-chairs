@@ -87,6 +87,9 @@
 13. [draft-ietf-idr-bgp-bfd-strict-mode-15] https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/
     **Shepherd:** - Needs Pre-WG LC review and BFD WG finishing drafts 
 
+14. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)
+    **Shepehred:** Sue Hares - Needs a WG for WG LC
+
 
 ----
 ## Adopted 
@@ -110,11 +113,17 @@
     Due to size of work, chairs are still considering when to take up adoption request.
     
 
-3. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
+2. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
     Deployed at AT&T per Israel Means  
     A few comments suggesting that since this already can (and is) being done that perhaps it should be Informational?  
     Some comments from Stephane November 2023 that this might be better for BESS since working on relaxing rt-constrain?
+
+3. [draft-litowski-idr-rtc-interas-03](https://datatracker.ietf.org/doc/draft-litowski-idr-rtc-interas/) - Requested on Noemeber 4th, 2025 (IETF-124) 
+4. [draft-vroonen-idr-bgp-bestpath-nh-selection-00](https://datatracker.ietf.org/doc/draft-vroonen-idr-bgp-bestpath-nh-selection/) - Requested on November 4th, 2025 (IETF-124)
+5. [draft-decraene-idr-nlri-error-handling-01](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requested on November 4th, 2025 (IETF-124)
+6. [draft-chen-idr-enhanced-dynamic-cap-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requestesd on November 4th, 2025 (IETF-124) 
+  
 
 ------
 
