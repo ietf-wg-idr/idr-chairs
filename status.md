@@ -59,27 +59,34 @@
    **Shepherd:** Sue
   [04] WG chairs agree (17 October, 2025) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
   [04] WG Shepherd review: (20 October 2025), email link: (https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/)
-  [04]:WG Shepherd Review: (20 October 2025) **Need the Nokia implementation to forward to IESG**
+  [04]:WG Shepherd Review: (20 October 2025) **Need Nokia implementation to forward to IESG**
+  [04]:WG IDR Chairs discussion: (14 November 2025) **possible Huawei implementation. Only 2 needed** 
 
-3. [draft-ietf-idr-flowspec-srv6-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/)
+3.  [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/) 
    **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
+   
 4. [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/)
-   **Shepherd:** Sue Hares - needs implementation report  
+   **Shepherd:** Sue Hares (14 November 2025) needs implementation report (either in draft or wiki prior to WG LC)   
 
 5. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),
- **Shepherd:** Jie Dong, Waiting for WG LC Review 
-
+ **Shepherd:** Jie Dong, (14 Novemeber 2025) first review done, awiating final change 
+  
 6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)
   **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**
+  **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATs chairs prior to WG LC 
 
 7. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
-   **Shepherd:** Jie
+   **Shepherd:** Jie Dong 
+    
 8. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),
-  **Shepherd:** Sue, pending -05 and pre-WG LC review 
+  **Shepherd:** Sue, pending -05, 2 implementations, and pre-WG LC review
+     
 9. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)
-   **Shepherd:** Sue – needs -13 
-10 [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)
+   **Shepherd:** Sue – needs -13
+    
+10. [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)
    **Shepherd:** Sue – needs -04 
+   
 11. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/) -
  **Shepherd:** Sue* – needs 2nd implementation
 12. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
@@ -88,15 +95,11 @@
     **Shepherd:** - Needs Pre-WG LC review and BFD WG finishing drafts 
 
 14. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)
-    **Shepehred:** Sue Hares - Needs a WG for WG LC
+    **Shepehred:** Jeff Haas (14 Novemeber 25) - Jeff will query BESS chairs on being the shepherd 
 
 
-----
-## Adopted 
-- [draft-wang-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-wang-idr-next-next-hop-nodes/)  
-  **Shepherd:** Keyur Patel  
-  Work was adopted **28 September, 2025**, Email:https://mailarchive.ietf.org/arch/msg/idr/Z2zw8QtankFn2qHdYXvD838kXts/
-  **authors posted:** 10/20/2025 
+## Adopted
+
 ------
 
 ## In-Progress Adoption Calls
@@ -112,7 +115,6 @@
     18 August 2025 Alvaro confirms adoption was requested. Original request was at IETF 117 (July 2023)  
     Due to size of work, chairs are still considering when to take up adoption request.
     
-
 2. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman  on **24 June, 2025**  
     Previously requested 20 October, 2023  
     Deployed at AT&T per Israel Means  
@@ -132,7 +134,6 @@
 ### Early Allocations (see also https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status) 
 
 Sue had sent an [early allocation status report](https://mailarchive.ietf.org/arch/msg/idr/Me5erFR0TjMypo9uEnxjYQz_eEY/) for SR documents to IDR on **13 July, 2025**. 
-
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):
 (Sue to check with Amanda on status of early allocation)
 
@@ -162,7 +163,8 @@ The following document has allocations pending on both [RFC 9830](https://datatr
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –  working with Alvaro and Linda to resolve drafts [ETA: August]  
   Keyur - Noted rtg-dir (Alvaro) feedback as holdup on **April 2025**  
   Linda believes she's addressed comments to date from Alvaro and has asked him to close them out in github issues. **29 July, 2025** 
-  *Current status is some items waiting until Sue can resolve.*  
+  *Current status is some items waiting until Sue can resolve.*
+
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   Shepherd: Sue  
   Will work through issues with authors + Spring Chairs
@@ -246,14 +248,12 @@ The following document has allocations pending on both [RFC 9830](https://datatr
   No action since then?
 
 * [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/)   
-
   Flagged by Sue as needing cross-group work PCE and Spring.  Some [list discussion](https://mailarchive.ietf.org/arch/search/?q=%22draft-zhang-idr-sr-policy-template%22).  
   [Presented at interim meeting](https://datatracker.ietf.org/meeting/interim-2024-idr-01/materials/slides-interim-2024-idr-01-sessa-10-bgp-sr-policy-extensions-for-template-00.pdf) on **February 2024**. [Minutes from that interim.](https://datatracker.ietf.org/meeting/interim-2024-idr-04/materials/minutes-interim-2024-idr-04-202405201400-01)  
   Sue did a shepherd review on **14 May 2024**  
   Sue requested changes on **12 July 2024**
 
 * [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm/)     
-
   [Interim presentation in September 2024](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-05-bgp-ls-advertisement-of-te-policy-performance-metric-00)  
   Sue had flagged this as needs update in Shepherd review **September 2024** prior to interim.  No list comment since, however version -04 seems to have addressed those comments.
 
