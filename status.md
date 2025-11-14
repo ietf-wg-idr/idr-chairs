@@ -1,4 +1,4 @@
-# Status last updated 2025-08-14
+# Status last updated 14 November, 2025
 
 [TOC]
 ------
@@ -9,7 +9,7 @@
   - Comment period was supposed to end two weeks after IETF 123.
   - There are un-responded to comments in the re-chartering thread.
 -----
-## at RFC editor
+## At RFC Editor
 * [draft-ietf-idr-car-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) in Auth-48, Shepherd: Sue Hares 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   **Shepherd**: Sue Hares (approved 10/21/2025) 
@@ -21,7 +21,15 @@
   Status: Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**Jeff**)  
 ------
 
+## Submitted to IESG
+
+* [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
+  **Shepherd**: Keyur - Submitted **7 November, 2025**.
+
+------
+
 ## WG LC - Waiting for Shepherd Write-up 
+
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**  
   [-04] Resolved Directorate reviews, need to confirm.
@@ -30,15 +38,12 @@
 ------
 
 ## WGLC Requests Approved: 
-* Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/)   
-   into a) draft-scudder-idr-nhc-00 and draft-scudder-idr-elc-00.  - Drafts submitted 
+* Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/) into [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) and [draft-ietf-idr-elc](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/).  
    **Shepherd:** Susan Hares
 -----
 
-# WG LC in Process 
-1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
-    **Shepherd**: Keyur  
-  Status: WGLC complete, **Keyur needs to close WG LC, and send to IESG**
+## WG LC in Process 
+1. No last calls are in progress. (**14 November, 2025**)
 
 ----
 ## WG LC Pending for Core BGP + FSv1 
