@@ -1,6 +1,8 @@
 # Completed since IETF 124
 
+## Published RFCs:
 
+- [RFC 9871](https://datatracker.ietf.org/doc/rfc9871/) - BGP Color-Aware Routing (CAR) (**20 November, 2025**)
 
 ------
 
