@@ -1,39 +1,41 @@
 # Tasks
 
-### Sue: (as of 10/15/2025) 
+### Sue: (as of 12/7/2025) 
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
-    Status: Sent to ISE with IDR Chairs review.  Discuss with Eliot Leer on Monday 10/23/2025. Eliot is concerned about this draft, so I need to write-up 
-3. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)
-   Status: Approved for RFC publication. 
+    Status: Check with Jeff + Eliot on Discussion at IETF-124.  Find next steps. 
    
-4. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Awaiting list confirmation of results. 
+2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+    Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Update the shepherd report 
     Summary of interim: Having the following two approaches OK by Spring
      a. SID list, scaling ok at 10, bad at > 100) and
      b.  NRP ID and SID, good at > 100.
     Dataplane defined by MPLS (mna) and 6man (SRv6).Control Plane IDR and PCEP.
 
-5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
+3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
    Status: Shepherd's review completed (10/20/2025) 
    Next-steps: Response by authors, hold on draft dependent on draft-ietf-idr-flowspec-redirect-ip 
+
+4.  BGP-LSR/SR – Review new drafts prior to IETF-124 - Will do this prior to starting on SDWAN work
+    [ETA: 12/8/2025] 
+
+6. Check on pending BGP-LS and SR allocations with IANA and Ketan 
+   Check on status of Early Allocations [ETA: 12/9/2025] 
    
-7. Check on pending BGP-LS and SR allocations with IANA and Ketan 
-   Unclear what is blocking most of the allocation. Need to query Ketan for discussion on 10/16/2025.   
-
-8.  BGP-LSR/SR – Review new drafts prior to IETF-124 - Will do this prior to starting on SDWAN work. 
-
-9. **SDWAN** – Working on with Alvaro and Linda (as author)  
-  * Alvaro’s review disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
-  * Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).    
-  * Will work with Alvaro and then Linda to resolve issues in order to quicken the pace.
-  * (process -  github and then text) 
+7. **SDWAN** – Working on with Alvaro and Linda [Main task 12/8 to 12/15]
+  * Step 1: Reformat all of the github on sdwan from Alvaro's changes + Linda's updates 
+  * Step 2: Note where Alvaro disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
+  * Step 3: Summarizes Alvaro's comments as: a) major issues, b) major issues opposed to RFC9012 chairs document, c) minor changes, d) editorial errors, and e) editorial format preferences.   
+  * Step 4: Create XML with simple Editorial changes inb github 
+  * Step 5: Get OK on Simple Editorial changes from Linda, Alvaro + Ketan + IDR chairs (see via email)
+  * Step 6: Proposes resolutions to a) major technical changes, and b) suggested ignorning major changes opposed to RFC9012 chairs document. 
+  * Step 7: Schedule meeting with Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).
+  * Step 8: Schedule meeting to discussion technical issues with Ketan and Alvaro 
 
 8.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
-   Will adjust to correct to github and hopefully link to git hub
+    Work with Jeff to spin the IETF wiki from the github text. 
    
 9. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR  
-------
 
  ### Jeff:
 
