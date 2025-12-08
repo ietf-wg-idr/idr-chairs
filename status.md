@@ -38,8 +38,7 @@
 ------
 
 ## WGLC Requests Approved: 
-* Split of the [draft-ietf-entropy-label](https://datatracker.ietf.org/doc/draft-ietf-idr-entropy-label/) into [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) and [draft-ietf-idr-elc](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/).  
-   **Shepherd:** Susan Hares
+
 -----
 
 ## WG LC in Process 
@@ -47,6 +46,9 @@
 
 ----
 ## WG LC Pending for Core BGP + FSv1 
+1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) ready for WGLC per IDR Chairs call **8 December, 2025**.  
+   **Shepherd:** Susan Hares  
+   [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/)  
    **Shepherd:** Keyur  
    Status: Intention to Start by **end of IETF 124**  
@@ -58,9 +60,6 @@
     \[04]:WG IDR Chairs discussion: (**14 November, 2025**) *possible Huawei implementation. Only 2 needed* 
 3. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
    **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
-4. [draft-ietf-idr-nhc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/)  
-   **Shepherd:** Sue Hares (**14 November, 2025**)  
-   Implementation report started on wiki.  HPE Juniper has completed.  H3C requested to add their input.  WGLC can proceed after implementation report for second implementation is in.
 5. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong, (**14 Novemeber, 2025**) first review done, awiating final change 
 6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
