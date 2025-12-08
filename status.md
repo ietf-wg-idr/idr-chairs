@@ -188,7 +188,7 @@
 
 ## WG drafts reviews for SR and BGP-LS drafts 
 
- ### SR WG – Need revision (see Shepherd Reviews at Wiki at: https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS) 
+ ### SR WG – Need revision (see Shepherd Reviews in Wiki at: https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS) 
 * [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - Needs -01 (-00 Expired in May 2022)  
 * [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - needs 04 for early allocation 
 * [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - WG LC completed, -04 Addresses Directorate, but -05 will need to address Spring + TEAST 
@@ -198,7 +198,7 @@
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - needs -04 revision with correct registry name 
 
 -------
- ## BGP-LS WG drafts - Need revision (see Shepherd Reviews at Wiki at: https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS) 
+ ## BGP-LS WG drafts - Need revision (see Shepherd Reviews in Wiki at: https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS) 
 * [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) Need -05. Early allocation with -04 OK, but queried IDR if RTGDIR review wise. 
 * [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - needs -01 to address issues  
 * [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) - needs -05 since drafts expired to start WG LC process.  
