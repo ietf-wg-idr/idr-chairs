@@ -52,6 +52,8 @@
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
    Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026.
+5. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
+    **Shepherd:** Jie Dong, (**8 December, 2025**) ready for WGLC.
 2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
      [04] WG chairs agree (**17 October, 2025**) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
@@ -60,8 +62,6 @@
     \[04]:WG IDR Chairs discussion: (**14 November, 2025**) *possible Huawei implementation. Only 2 needed* 
 3. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
    **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
-5. [draft-ietf-idr-rt-derived-community-05](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
-    **Shepherd:** Jie Dong, (**14 Novemeber, 2025**) first review done, awiating final change 
 6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
      **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**  
      **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATS chairs prior to WGLC.
