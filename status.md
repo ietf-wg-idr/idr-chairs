@@ -49,9 +49,9 @@
 1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) ready for WGLC per IDR Chairs call **8 December, 2025**.  
    **Shepherd:** Susan Hares  
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
-1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/01/)  
+1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
-   Status: Intention to Start by **end of IETF 124**  
+   Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026.
 2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue
      [04] WG chairs agree (**17 October, 2025**) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
