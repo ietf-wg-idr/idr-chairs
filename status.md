@@ -10,7 +10,6 @@
   - There are un-responded to comments in the re-chartering thread.
 -----
 ## At RFC Editor
-* [draft-ietf-idr-car-16](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-car/) in Auth-48, Shepherd: Sue Hares 
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   **Shepherd**: Sue Hares (approved 10/21/2025) 
 ------
