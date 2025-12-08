@@ -83,33 +83,37 @@
 
 ### WG LC for SR drafts pending Shepherd Review
 1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-    **Shepherd:** Sue  
-    WGLC done in **14 March, 2025**   
-    Finish Next checks + Update Shepherds + publish  
-     Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **Spring Check done 11 November 2025 **
-     Check: Rtgdir and opsdir review comments in -03 + -04  with minor changes requested.
-     Check: Final Shepherd's report
+   **Shepherd:** Sue  
+   WGLC done in **14 March, 2025**   
+   Finish Next checks + Update Shepherds + publish  
+    Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **Spring Check done 11 November 2025 **
+    Check: Rtgdir and opsdir review comments in -03 + -04  with minor changes requested.
+    Check: Final Shepherd's report
    ETA for publication: 12/9/2025 
 
-3. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
+2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
     **Shepherd:** Sue – checking prior to WG LC (ETA: 6/16)
     Checks prior to WG LC: 
     Check1: that Early allocation completed (requested  **5 September, 2024**)  
     Check 2: Shepherd's report post -02 for Changes, (Shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**)
     Check 3: RTG-DIR and 
 
-5. [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
+3. [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
     **Shepherd:** Sue; [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).  
     [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
     Last review **7 March, 2025**. Needs edits.  
     Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**.  Jeff auditing prior shepherd reports.
 
-6. [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
+4. [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
     **Shepherd:** Sue; [Shepherd's report in IDR wiki](https://wiki.ietf.org/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/bgp-ls-sr-policy-path-segments)  
     [Shepherd's review](https://mailarchive.ietf.org/arch/msg/idr/4vaLeXnYiiF1w9Q-FlUZuhiPTjs/) given on **25 September, 2024**.  Need to check current document to see if it should advance.
     Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**. Jeff auditing prior shepherd reports.
 
-7. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),  
+5. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
+    **Shepherd:** Sue  
+    **5 December, 2025** - Aijun indicates that second implementation is available.  Implementation report will be uploaded.  Sue to review and then initiate WGLC, if ready.
+
+6. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),  
     **Shepherd:** Sue, pending -05, 2 implementations, and pre-WG LC review
 
 ## WG LC for FSv2 drafts 
@@ -212,7 +216,6 @@
 - [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - need -03, draft expired.
 * [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  - need -03, draft expired 
   Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/). 
-* [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/) - Need -18, draft expired.
 * [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill/) - (-05) needs update to version -05, draft expired.
 
 ------
