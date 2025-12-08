@@ -28,6 +28,14 @@
 
 ------
 
+### Submitted to ISE
+
+- [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/draft-abraitis-bgp-version-capability/)  
+  **Shepherd:** Jeff  
+  **Status:** Responded to ISE questions about draft. (**8 December, 2025**)
+
+------
+
 ## WG LC - Waiting for Shepherd Write-up 
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
