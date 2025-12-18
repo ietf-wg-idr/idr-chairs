@@ -127,6 +127,9 @@
 
 6. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),  
     **Shepherd:** Sue, pending -05, 2 implementations, and pre-WG LC review
+   
+8. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
+   **Shepherd:** Sue, pending -06, IANA early allocation (in process), and final shepherd's review (ETA: early January) 
 
 ## WG LC for FSv2 drafts 
 1. draft-ietf-idr-flowspec-srv6-06 – pending adoption of draft-hares-idr-fsv2-more-ip-filters
