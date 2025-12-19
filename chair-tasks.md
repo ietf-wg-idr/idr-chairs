@@ -3,37 +3,39 @@
 ### Sue: (as of 12/7/2025) 
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
-    Status: Check with Jeff + Eliot on Discussion at IETF-124. Jeff responds to Eliot. 
+    Status: Continue to monitor transition to RFC editor 
    
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Update the shepherd report 
-    Summary of interim (at IETF 124) -  Having the following two approaches OK by Spring
-     a. SID list, scaling ok at 10, bad at > 100) and
-     b.  NRP ID and SID, good at > 100.
-    Dataplane defined by MPLS (mna) and 6man (SRv6).Control Plane IDR and PCEP.
-   Next step: Update shepherd's review, and publish [ETA: 12/9/2025] 
+    Status: Spring held interim on 10/14/2025 at 10:00am EDT for NRP ID, Update the shepherd report .
+   Next step: Update shepherd's review, and publish [ETA: 12/19/2025)
+   
+4.  Review RFC4360bis + implementation Report - (ETA: 12/19/2025 2 pm)
 
-3.  Review RFC4360bis + implementation Report
-   [ETA: 12/9/2025] 
+5. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
+    Status: Shepherd review and WG LC (ETA: 12/19/2025) 
+  
+6. [draft-ietf-idr-sr-policy-bgp-ls-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-bgp-ls-nrp)
+   Actions: Final Shepherd review, start WG LC (12/20/2025)
 
-4. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
+7. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
    Status: Shepherd's review completed (10/20/2025) 
    Next-steps: Hold waiting on 2nd implementation reorted (checking Nokia and Huawei)
 
-5.  WG LC for draft-ietf-idr-nhc:
-    Status:  2 implementations, awaiting WG LC
-    Next steps: needs pre-shepherd review [12/0/2025], implementation report check [12/8/2025],   and WG LC   
-6.  SR – Review WG drafts + proposed WG Drafts
-   
-   
-9.  BGP-LS
-    Step 1: Email response to 
+8. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
+    Status: Get Early allocation finalized with IANA, update from authors, and WG LC (12/20 or later) 
     
-   
-10. Check on pending BGP-LS and SR allocations with IANA and Ketan 
-   Check on status of Early Allocations [ETA: 12/9/2025] 
-   
-11. **SDWAN** – Working on with Alvaro and Linda [Main task 12/8 to 12/15]
+9. Check on pending BGP-LS and SR allocations with IANA and Ketan 
+   Check on status of Early Allocations [ETA: 12/19]
+
+10. BGP Directorate Write-up to chairs
+
+11. BGP SR Review WG drafts  [ETA: 12/19] - Reports on wiki by 12/19
+12. BGP SR Review WG adoption requests [ETA: 12/20)
+13. BGP LS Review WG drafts [ETA: 12/20]
+14. BGP LS REview WG adoption requests [ETA:12/20]
+15. 4271bis review [ETA: 1/5/2026] 
+
+16. **SDWAN** – Working on with Alvaro and Linda [Main task 12/30 to 1/5/2025] 
   * Step 1: Reformat all of the github on sdwan from Alvaro's changes + Linda's updates 
   * Step 2: Note where Alvaro disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
   * Step 3: Summarizes Alvaro's comments as: a) major issues, b) major issues opposed to RFC9012 chairs document, c) minor changes, d) editorial errors, and e) editorial format preferences.   
@@ -43,10 +45,10 @@
   * Step 7: Schedule meeting with Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).
   * Step 8: Schedule meeting to discussion technical issues with Ketan and Alvaro 
 
-8.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
+16.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
     Work with Jeff to spin the IETF wiki from the github text. 
    
-9. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR  
+17. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR [1/5]  
 
  ### Jeff:
 
