@@ -39,13 +39,8 @@
 ## WG LC - Waiting for Shepherd Write-up 
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-  Past WGLC that ended **12 July, 2025**
-  [-04] Spring review explicitly requested, Held interim on 10/14/2025. Spring Chairs confirming on list.
-         Submission to IESG awaits Spring Confirmation (will probably come at IETF124)
-  [-04] Resolved OPS-DIR Review, Need to Resolve RTG-DIR
-  [-04] New Shepherd Report [12/
-  [-04] Spring review explicitly requested, Held interim on 10/14/2025. Spring Chairs confirming on list.
-         Submission to IESG awaits Spring Confirmation (will probably come at IETF124)
+  Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, Awaits -05 and implementation report. 
+ 
 ------
 
 ## WGLC Requests Approved: 
