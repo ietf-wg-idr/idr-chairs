@@ -29,7 +29,6 @@
 ------
 
 ### Submitted to ISE
-
 - [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/draft-abraitis-bgp-version-capability/)  
   **Shepherd:** Jeff 
   **Status:** Responded to ISE questions about draft. ISE Editor has restarted ISE investigation. (**12 December, 2025**)
@@ -37,37 +36,31 @@
 ------
 
 ## WG LC - Waiting for Shepherd Write-up 
-
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
   Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, Awaits -05 and implementation report. 
- 
 ------
 
 ## WGLC Requests Approved: 
-
 -----
 
 ## WG LC in Process 
-1. No last calls are in progress. (**14 November, 2025**)
-
+1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
+    **Shepherd:** Jie Dong, (**WG LC 12/11 to 1/5**)
+  
+2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **WG LC time 12/22/2025 to 1/12/2025)** 
+   **Shepherd:** Susan Hares (Shepherd's report and WG LC on 12/22) 
+   [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
+   
 ----
 ## WG LC Pending for Core BGP + FSv1 
-1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) ready for WGLC per IDR Chairs call **8 December, 2025**.  
-   **Shepherd:** Susan Hares (Shepherd's report and WG LC on 12/12)  
-   [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
-  
 2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
    Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026.
-3. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
-    **Shepherd:** Jie Dong, (**8 December, 2025**) ready for WGLC.
-4. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
-   **Shepherd:** Sue
-     [04] WG chairs agree (**17 October, 2025**) to submit document for last call consideration with encodings that aren't fully implemented but that are cleanly specified.
-     [04] WG Shepherd review: (**20 October, 2025**), [email link](https://mailarchive.ietf.org/arch/msg/idr/qZq64zw2z2H9rYOEvHIcxFjNYmM/).  
-    \[04]:WG Shepherd Review: (**20 October 2025**)  *Need Nokia implementation to forward to IESG*  
-    \[04]:WG IDR Chairs discussion: (**14 November, 2025**) *possible Huawei implementation. Only 2 needed* 
-5. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
+
+3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
+   **Shepherd:** Sue, still waiting for 2 implementations (juniper/HPE + (huawei or Nokia)
+  
+4. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
    **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
 6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
      **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**  
@@ -89,25 +82,16 @@
       **Shepherd:** Jeff Haas (14 November, 2025) - Mutual WGLC between BESS and IDR proposed. Jeff will query BESS chairs on being the shepherd.
 
 ### WG LC for SR drafts pending Shepherd Review
-1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-   **Shepherd:** Sue  
-   WGLC done in **14 March, 2025**   
-   Finish Next checks + Update Shepherds + publish  
-    Check with TEAS and Spring (concerns raised by Stephane L. during WGLC?) and update, **Spring Check done 11 November 2025 **
-    Check: Rtgdir and opsdir review comments in -03 + -04  with minor changes requested.
-    Check: Final Shepherd's report
-   ETA for publication: 12/9/2025 
-
-2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
-    **Shepherd:** Sue – checking prior to WG LC (ETA: 6/16)
-    Checks prior to WG LC: 
-    Check1: that Early allocation completed (requested  **5 September, 2024**)  
-    Check 2: Shepherd's report post -02 for Changes, (Shepherd's report for version -01 on **28 February, 2025**. Authors acked this, -02 still pending as of **18 August, 2025**)
-    Check 3: RTG-DIR and 
-
+1. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
+    **Shepherd:** Sue, **Waiting -03]** (see shepherd report (https://mailarchive.ietf.org/arch/msg/idr/Wp6D9etd80-f1No93TTT0l5cV4I/)
+   
+2. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
+   **Shepherd:** Sue, pending -06, IANA early allocation done, Final Shepherd's report before WG LC in progress.  
+   
 3. [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
     **Shepherd:** Sue; [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).  
-    [Discussed during interim](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
+    [Discussed during interim
+    ](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-01-status-of-idr-wg-drafts-on-bgp-ls-and-sr-01.pdf) in **9 September, 2024.**  
     Last review **7 March, 2025**. Needs edits.  
     Authors polled whether they're ready to move forward with WGLC (Jeff), **10 September, 2025**.  Jeff auditing prior shepherd reports.
 
@@ -123,8 +107,7 @@
 6. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),  
     **Shepherd:** Sue, pending -05, 2 implementations, and pre-WG LC review
    
-8. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
-   **Shepherd:** Sue, pending -06, IANA early allocation (in process), and final shepherd's review (ETA: early January) 
+
 
 ## WG LC for FSv2 drafts 
 1. draft-ietf-idr-flowspec-srv6-06 – pending adoption of draft-hares-idr-fsv2-more-ip-filters
