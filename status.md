@@ -55,7 +55,7 @@
 ## WG LC Pending for Core BGP + FSv1 
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
-   Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026, implementation page on wiki (Sue) 
+   Status: Keyur to start WGLC (**8 December, 2025**). Directorate requested, deadline for mid-January 2026, implementation page on wiki (Sue, 1/4/2026) 
 
 2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue, still waiting for 2 implementations (juniper/HPE + (huawei or Nokia)
