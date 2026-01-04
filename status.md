@@ -53,32 +53,32 @@
    
 ----
 ## WG LC Pending for Core BGP + FSv1 
-2. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
+1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
-   Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026.
+   Status: Keyur to start WGLC (**8 December, 2025**). Directorate review has been requested with a deadline for mid-January 2026, implementation page on wiki (Sue) 
 
-3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
+2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Sue, still waiting for 2 implementations (juniper/HPE + (huawei or Nokia)
   
-4. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
+3. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
    **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
-6. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
+4. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
      **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**  
      **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATS chairs prior to WGLC.
-7. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
+5. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
    **Shepherd:** Jie Dong 
-8. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
+6. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
    **Shepherd:** Sue – needs -13
-9. [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  
+7. [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  
    **Shepherd:** Sue – needs -04 
-10. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/)  
+8. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/)  
      **Shepherd:** Sue* – needs 2nd implementation
-11. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
+9. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
       **Shepherd:** Sue* – awaiting 01 – Needs Jeff’s edits (PS
-12. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
+10. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
       **Shepherd:** Sue  
       Needs new shepherd Review and IANA.  Jeff needs to do code audit.
-13. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)  
+11. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)  
       **Shepherd:** Jeff Haas (14 November, 2025) - Mutual WGLC between BESS and IDR proposed. Jeff will query BESS chairs on being the shepherd.
 
 ### WG LC for SR drafts pending Shepherd Review
