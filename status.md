@@ -24,7 +24,7 @@
 ## Submitted to IESG
 * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur - Submitted **7 November, 2025**.  
-  AD feedback returned **22 November, 2025**.  Next action: Author response
+  AD feedback returned **22 November, 2025**.  Authors returned update, Next Step: AD reviews 
 
 ------
 
