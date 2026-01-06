@@ -98,7 +98,7 @@
     **Shepherd:** Sue, [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment). **Holding** on 2 byte length in reserve path segment with Ketan, **Needs -15** to adjust
 
 3. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
-    **Shepherd:** Sue, [Sheperd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA Allocation approved, Post-IANA assignment **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
+    **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA Allocation approved, Post-IANA assignment **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
 
 ### WG LC for BGP-LS drafts pending changes after Shepherd Review (alphabetical) 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
@@ -123,14 +123,10 @@
 
 ## Status:
 ### Shepherd’s queue (waiting for new drafts after WG LC) 
-* [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –  working with Alvaro and Linda to resolve drafts [ETA: August]  
-  Keyur - Noted rtg-dir (Alvaro) feedback as holdup on **April 2025**  
-  Linda believes she's addressed comments to date from Alvaro and has asked him to close them out in github issues. **29 July, 2025** 
-  *Current status is some items waiting until Sue can resolve.*
+* [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –  working with Alvaro and Linda to resolve drafts [ETA: January 14, 2026] - Need to restructure the github and handle Alvaro's on **April 2025** based on Linda's (see Sue's task list for steps 
 
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
-  **Shepherd**: Sue  
-  Will work through issues with authors + Spring Chairs
+  **Shepherd**: Sue, Will work through issues with authors + Spring Chairs
 
 ## Adopted
  (all adoptions have progressed to WG drafts.) 
@@ -161,16 +157,18 @@
 
 #### Pending SR adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, adoption review still in progress 
 
-1. [draft-chen-idr-bgp-sr-policy-cp-validity-03](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - Awaiting -04 to resolve issues, and add adoption request flag 
-
-2. [draft-jiang-idr-sr-policy-composite-path-03](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) - Needs -04 to resolve issues prior to adoption 
-
-3. [draft-lin-idr-sr-policy-headend-behavior-05](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) -05 OK for adoption, but -06 with minor editorial changes suggested (1/5/2025)
+1. [draft-chen-idr-bgp-sr-policy-cp-validity-04](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - **Needs -04** to resolve issues prior adoption.
    
-4. [draft-liu-idr-sr-segment-list-optimize-01] Change from **September 2024**, due to Spring Content.  
+2. [draft-jiang-idr-sr-policy-composite-path-03](https://datatracker.ietf.org/doc/draft-jiang-idr-sr-policy-composite-path/) - [(-00) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-jiang-idr-sr-policy-composite-path) - **Needs -05** to resolve issues prior to adoption 
+
+4. [draft-lin-idr-sr-policy-headend-behavior-05](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) -05 OK for adoption, but -06 with minor editorial changes suggested (1/5/2025)
+
+5. [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/) - Reviewing -01 (1/06/2026) 
+   
+6. [draft-liu-idr-sr-segment-list-optimize-01] Change from **September 2024**, due to Spring Content.  
     Received some spring list commentary (largely, this seems useful) in September 2024.
 
-5. [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/): Check on cross-Work in PCE and Spring
+7. [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/): Check on cross-Work in PCE and Spring
     Flagged by Sue as needing cross-group work PCE and Spring.
     Some [list discussion](https://mailarchive.ietf.org/arch/search/?q=%22draft-zhang-idr-sr-policy-template%22).  
     [Presented at interim meeting](https://datatracker.ietf.org/meeting/interim-2024-idr-01/materials/slides-interim-2024-idr-01-sessa-10-bgp-sr-policy-extensions-for-template-00.pdf) on **February 2024**.  [Minutes from that interim.](https://datatracker.ietf.org/meeting/interim-2024-idr-04/materials/minutes-interim-2024-idr-04-202405201400-01)  
@@ -252,7 +250,7 @@
 ### Early Allocations (see also https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status) - Completed  
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):  (Sue to check with Amanda on status of early allocation)
 
-* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-04 [ELP Sub-TL].  oKed by ketan on 1/6/2026, waiting for IANA 
+* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-04 [ELP Sub-TLV]. Assigned 17. Ready for WG LC after new draft.  
 
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – **Pending on -15**, Problem: Reverse Path Segment has 2 bytes in length. Also needs the name of the registry changed to: SR Policy Segment List Sub-TLVs.
  
