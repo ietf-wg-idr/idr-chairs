@@ -150,7 +150,7 @@
 
 ### SR/BGP-LS Pending Adoptions
 
-#### Pending SR adoptions: Awaiting draft changes (Shepherd: Susan Hares)
+#### Pending SR adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, adoption review still in progress 
 
 1. [draft-chen-idr-bgp-sr-policy-cp-validity-03](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - Awaiting -04 to resolve issues, and add adoption request flag 
 
@@ -173,7 +173,7 @@
 
 7. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw)
 
- #### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) 
+ #### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, 2026 adoptoin review stilli n progress on these drafts 
 
 1. [draft-li-idr-bgpls-sr-policy-composite-path-08](https://datatracker.ietf.org/doc/draft-li-idr-bgpls-sr-policy-composite-path)
     [this depends on the BGP SR draft draft-jiang-idr-sr-policy-composite-path being adopted. 
@@ -181,24 +181,27 @@
 2. [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm/)     
     [Interim presentation in September 2024](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-05-bgp-ls-advertisement-of-te-policy-performance-metric-00)  - Sue had flagged this as needs update in Shepherd review **September 2024** prior to interim.  No list comment since, however version -04 seems to have addressed those comments.
 
-
-
-## WG drafts reviews for SR and BGP-LS drafts 
+## WG drafts reviews for SR and BGP-LS drafts (alphabetical) 
 
  ### SR WG – Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS))
-* [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - **Needs -01** (-00 Expired in May 2022)  
-* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - needs 04 for early allocation 
-* [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - WG LC completed, -04 Addresses Directorate, but -05 will need to address Spring + TEAST 
-* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) - Needs -13 before early allocation.  
-* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - Needs -15 before early allocation 
-* [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) -06 is in 2 week Early Allocation call. [-07 with Early Allocation]  
-* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - needs -04 revision with correct registry name 
+* [draft-ietf-idr-bgp-sr-mpls-elp-01](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-sr-mpls-elp-01) - **Needs -01** - Early allocation requested of Ketan 
+* [draft-ietf-idr-sr-p2mp-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-p2mp-policy/) - **Needs -01** (-00 Expired in May 2022) - status updated requested
+* [draft-ietf-idr-sr-policy-ifit]((https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-ifit/) - **Needs -12** prior to early allocation 
+* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/) - **Needs -04** prior to early allocation 
+* [draft-ietf-bgp-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp) - **WG LC completed,  Needs -05 for IESG Publication**   
+* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/) **-14 OK for early allocation**, checking with Ketan   
+* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/) - **Needs -14*** before early allocation 
+* [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/) - **Needs -07** prior to WG LC 
+* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - **Needs -04** revision with correct registry name 
 
 -------
  ## BGP-LS WG drafts - Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS))
-* [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) Need -05. Early allocation with -04 OK, but queried IDR if RTGDIR review wise. 
+* [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) - **Needs -05**. Early allocation with -04 OK, but queried IDR if RTGDIR review wise.
+* [draft-ietf-idr-bgpls-inter-as-topology](http://datatracker.ietf.org/drafat-ietf-idr-bgpls-inter-as-topology/) - **Needs -19** with Security section updage, on track for WG LC (1/5/2025)
+* [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) - **Needs -05** draft expired
+
+**January 6, 2026 shepherd in progress on remaining BGP-LS WG Drafts in this list** 
 * [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - needs -01 to address issues  
-* [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) - needs -05 since drafts expired to start WG LC process.  
 * [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - needs -11 with correct registry name
 - [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  awaiting linked SR draft (draft-ietf-idr-sr-policy-nrp) to be OKed in Spring.
 - [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/) - awaiting changes in linked SR draft (may need -11 version)
@@ -208,7 +211,6 @@
 * [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill/) - (-05) needs update to version -05, draft expired.
 
 ------
-
 
 ### CATs related
 
