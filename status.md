@@ -80,7 +80,7 @@
    **Shepherd:** Sue – **Needs -04** 
    
 9. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/)  
-     **Shepherd:** Sue* – needs 2nd implementation
+     **Shepherd:** Sue – **Needs 2nd implementation**
 
 10. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
       **Shepherd:** Sue – awaiting 01 – Needs Jeff’s edits 
@@ -98,7 +98,7 @@
     **Shepherd:** Sue, [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment). **Holding** on 2 byte length in reserve path segment with Ketan, **Needs -15** to adjust
 
 3. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
-    **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA Allocation approved, Post-IANA assignment **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
+    **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA done (17), **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
 
 ### WG LC for BGP-LS drafts pending changes after Shepherd Review (alphabetical) 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
@@ -163,30 +163,57 @@
 
 4. [draft-lin-idr-sr-policy-headend-behavior-05](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-headend-behavior/) -05 OK for adoption, but -06 with minor editorial changes suggested (1/5/2025)
 
-5. [draft-lin-idr-sr-policy-admin-flags](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/) - Reviewing -01 (1/06/2026) 
+5. [draft-lin-idr-sr-policy-admin-flags-03](https://datatracker.ietf.org/doc/draft-lin-idr-sr-policy-admin-flags/) - **Needs -04** prior to adoptoin. 
    
-6. [draft-liu-idr-sr-segment-list-optimize-01] Change from **September 2024**, due to Spring Content.  
-    Received some spring list commentary (largely, this seems useful) in September 2024.
+6. [draft-liu-idr-sr-segment-list-optimize-01](https://datatracker.ietf.org/doc/draft-liu-idr-sr-segment-list-optimize-01) - **Needs -02**, Spring thought good idea. 
 
-7. [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/): Check on cross-Work in PCE and Spring
-    Flagged by Sue as needing cross-group work PCE and Spring.
-    Some [list discussion](https://mailarchive.ietf.org/arch/search/?q=%22draft-zhang-idr-sr-policy-template%22).  
-    [Presented at interim meeting](https://datatracker.ietf.org/meeting/interim-2024-idr-01/materials/slides-interim-2024-idr-01-sessa-10-bgp-sr-policy-extensions-for-template-00.pdf) on **February 2024**.  [Minutes from that interim.](https://datatracker.ietf.org/meeting/interim-2024-idr-04/materials/minutes-interim-2024-idr-04-202405201400-01)  
-    Sue did a shepherd review on **14 May, 2024**  
-    Sue requested changes on **12 July, 2024**
+7. [draft-zhang-idr-sr-policy-template](https://datatracker.ietf.org/doc/draft-zhang-idr-sr-policy-template/): **Need Cross-WG summary** from authors (copied Spring and PCE chairs) 
 
-5. [draft-zzd-idr-sr-policy-scheduling-10](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling) 
-   main author: [Minxue Wang/Li Zhang] – please see feedback on the list
+8. [draft-zzd-idr-sr-policy-scheduling-10](https://datatracker.ietf.org/doc/draft-zzd-idr-sr-policy-scheduling) 
+   main author: [Minxue Wang/Li Zhang] – Needs -11 and discussion in IDR sessions
+   
+#### Pending adoptions modify BGP Prefix Attribute (SR-BGP but not in Tunnel Encapsulation/NLRI style) 
+10. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) - reviewed 
 
-7. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw)
+ #### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, 2026 - 5 Pre-Adoption reviews pending 
 
- #### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, 2026 adoptoin review stilli n progress on these drafts 
+1. [draft-ali-idr-srv6-policy-sl-opt-distribution-00](https://datatracker.ietf.org/doc/draft-ali-idr-srv6-policy-sl-opt-distribution/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-ali-idr-sr-policy-sl-opt-distribution)  - **pending -01 Review**
+   
+2 [draft-chen-idr-bgp-ls-algo-related-adjacency-sid](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-algo-related-adjacency-sid/) -  [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-algo-related-adjacency-sid) - **Needs -05** prior to adoption  
 
-1. [draft-li-idr-bgpls-sr-policy-composite-path-08](https://datatracker.ietf.org/doc/draft-li-idr-bgpls-sr-policy-composite-path)
-    [this depends on the BGP SR draft draft-jiang-idr-sr-policy-composite-path being adopted. 
+3. [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability) - **Needs -04** prior to adoption 
 
-2. [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm/)     
-    [Interim presentation in September 2024](https://datatracker.ietf.org/meeting/interim-2024-idr-11/materials/slides-interim-2024-idr-11-sessa-05-bgp-ls-advertisement-of-te-policy-performance-metric-00)  - Sue had flagged this as needs update in Shepherd review **September 2024** prior to interim.  No list comment since, however version -04 seems to have addressed those comments.
+4. [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **pending 03 review**
+
+5. [draft-dong-idr-bgp-ls-scalable](https://datatracker.ietf.org/doc/draft-dong-idr-bgp-ls-scalable-nrp/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-dong-idr-bgp-ls-scalable-nrp) - **pending -02 review**
+
+6. [draft-li-idr-bgpls-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-li-idr-bgpls-sr-policy-composite-path/) [(-06) to (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-li-idr-bgpls-sr-policy-composite-path)  -  **Depend on BGP SR draft** draft-jiang-idr-sr-policy-composite-path being adopted. 
+
+7. [draft-lin-idr-bgpls-te-policy-pm](https://datatracker.ietf.org/doc/draft-lin-idr-bgpls-te-policy-pm) - [(-03) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-lin-idr-bgpls-te-policy-pm) - **checking if authors are still interested** 
+
+8. [draft-lin-idr-bgp-ls-sr-policy-admin-flag](https://datatracker.ietf.org/doc/draft-lin-idr-bgp-ls-sr-policy-admin-flag/)  - [(-01) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-lin-idr-bgp-ls-sr-policy-admin-flags) - **pending -02 review** 
+
+9. [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - **check if authors still interested** 
+
+10. [draft-liu-idr-bgp-ls-srp-flexible-path-selection](https://datatracker.ietf.org/doc/draft-liu-idr-bgp-ls-srp-flexible-path-selection/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgp-ls-srp-flexible-path-selection) - **Needs -02** before adoption 
+
+11. [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet) - **pending review of -00**
+
+12. [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  **Needs -15** with updated references and text. 
+
+draft-ali-idr-srv6-policy-sl-opt-distribution-00 - (-00) - **pending
+draft-chen-idr-bgp-ls-algo-related-adjacency-sid - (-04)
+draft-chen-idr-bgp-ls-security-capability - (-03)
+draft-chen-idr-bgp-ls-sr-policy-cp-validity - (-01)
+draft-dong-idr-bgp-ls-scalable - (-00) to (-02)
+draft-li-idr-bgpls-sr-policy-composite-path (-06) to (-07)
+draft-lin-idr-bgpls-te-policy-pm - (-03) to (-04)
+draft-lin-idr-bgp-ls-sr-policy-admin-flags - (-01) - pending
+draft-liu-idr-bgpls-sr-p2mp-policy-distribution - (-03) to -(-04)
+draft-liu-idr-bgp-ls-srp-flexible-path-selection - (-00) to (-01)
+draft-tong-idr-bgp-ls-savnet (-00)
+draft-wu-idr-bgp-segment-allocation-ext - (-14) - Needs -15 with updated references and text.
+
 
 ## WG drafts reviews for SR and BGP-LS drafts (alphabetical) 
 
@@ -202,7 +229,7 @@
 * [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) - **Needs -04** revision with correct registry name 
 
 -------
- ## BGP-LS WG drafts - Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS)) - full review as of 1/6/2026 
+ ### BGP-LS WG drafts - Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS)) - full review as of 1/6/2026 
 * [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) - **Needs -05**. Early allocation with -04 OK, but queried IDR if RTGDIR review wise.
 * [draft-ietf-idr-bgpls-inter-as-topology](http://datatracker.ietf.org/drafat-ietf-idr-bgpls-inter-as-topology/) - **Needs -19** with Security section updage, on track for WG LC (1/5/2025)
 * [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) - **Needs -05** draft expired
