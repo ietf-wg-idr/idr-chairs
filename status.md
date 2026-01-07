@@ -201,20 +201,6 @@
 
 12. [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  **Needs -15** with updated references and text. 
 
-draft-ali-idr-srv6-policy-sl-opt-distribution-00 - (-00) - **pending
-draft-chen-idr-bgp-ls-algo-related-adjacency-sid - (-04)
-draft-chen-idr-bgp-ls-security-capability - (-03)
-draft-chen-idr-bgp-ls-sr-policy-cp-validity - (-01)
-draft-dong-idr-bgp-ls-scalable - (-00) to (-02)
-draft-li-idr-bgpls-sr-policy-composite-path (-06) to (-07)
-draft-lin-idr-bgpls-te-policy-pm - (-03) to (-04)
-draft-lin-idr-bgp-ls-sr-policy-admin-flags - (-01) - pending
-draft-liu-idr-bgpls-sr-p2mp-policy-distribution - (-03) to -(-04)
-draft-liu-idr-bgp-ls-srp-flexible-path-selection - (-00) to (-01)
-draft-tong-idr-bgp-ls-savnet (-00)
-draft-wu-idr-bgp-segment-allocation-ext - (-14) - Needs -15 with updated references and text.
-
-
 ## WG drafts reviews for SR and BGP-LS drafts (alphabetical) 
 
  ### SR WG – Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS))
@@ -230,7 +216,7 @@ draft-wu-idr-bgp-segment-allocation-ext - (-14) - Needs -15 with updated referen
 
 -------
  ### BGP-LS WG drafts - Need revision (see Shepherd Reviews in [Wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS)) - full review as of 1/6/2026 
-* [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) - **Needs -05**. Early allocation with -04 OK, but queried IDR if RTGDIR review wise.
+* [draft-ietf-idr-bgp-ls-bgp-only-fabric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-bgp-only-fabric/) - **Needs -05**. Early allocation with -04 OK, Authors plan revision. 
 * [draft-ietf-idr-bgpls-inter-as-topology](http://datatracker.ietf.org/drafat-ietf-idr-bgpls-inter-as-topology/) - **Needs -19** with Security section updage, on track for WG LC (1/5/2025)
 * [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/) - **Needs -05** draft expired
 * [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/) - **needs -01** to address issues, 2 implementations   
