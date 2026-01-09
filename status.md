@@ -183,7 +183,7 @@
 
 3. [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability) - **Needs -04** prior to adoption 
 
-4. [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **pending 03 review**
+4. [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-03](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **OK for adoption, Better if -04 with RFC9857 update**
 
 5. [draft-dong-idr-bgp-ls-scalable](https://datatracker.ietf.org/doc/draft-dong-idr-bgp-ls-scalable-nrp/) - [(-00) to (-02)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-dong-idr-bgp-ls-scalable-nrp) - **pending -02 review**
 
