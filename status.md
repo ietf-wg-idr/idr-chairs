@@ -38,7 +38,8 @@
 
 ## WG LC - Waiting for Shepherd Write-up 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-  Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, Awaits -05 and implementation report. 
+  Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, **Awaits -05 and implementation report**
+* [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/) - Jeff revising, IDR chairs review post revision, the IESG submission 
 ------
 
 ## WGLC Requests Approved: 
@@ -90,19 +91,19 @@
 
 ### WG LC for SR drafts pending Shepherd Review
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
-   **Shepherd:** Sue, **Needs -07** before WG LC.  IPR for WG LC in progress (1/5/2026 to 1/12/2026) - WG LC ETA: 1/12/2026 
+   **Shepherd:** Sue, **Needs -07** before WG LC.  IPR for WG LC in progress (1/5/2026 to 1/12/2026), IDR Chair review in process (Keyur, Jie, Sue) 
    
 2. [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
     **Shepherd:** Sue, [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).
      **Holding** on 2 byte length in reserve path segment with Ketan, **Needs -15** to adjust
 
-4. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
+3. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
     **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA done (17),
-    **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
+    **Needs [-05] prior to WG LC** - ETA: January WG LC  
 
 ### WG LC for BGP-LS drafts pending changes after Shepherd Review (alphabetical) 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
-    **Shepherd:** Sue: **Needs [-19]** change to Security section, Almost ready for WG LC. 
+    **Shepherd:** Sue: **Needs [-19]** change to Security section, Almost ready for WG LC.  Will review at 1/19 IDR chairs meeting 
    
 2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
     **Shepherd:** Sue, **Waiting -03** (see shepherd report (https://mailarchive.ietf.org/arch/msg/idr/Wp6D9etd80-f1No93TTT0l5cV4I/)), almost ready. 
@@ -174,7 +175,8 @@
    main author: [Minxue Wang/Li Zhang] – Needs -11 and discussion in IDR sessions
    
 #### Pending adoptions modify BGP Prefix Attribute (SR-BGP but not in Tunnel Encapsulation/NLRI style) 
-10. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) - reviewed 
+10. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) - **pending report**
+    Shepherd: Sue  
 
  #### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, 2026 - 5 Pre-Adoption reviews pending 
 
