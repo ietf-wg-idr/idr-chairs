@@ -8,11 +8,12 @@
 - Re-chartering is in progress.
   - Comment period was supposed to end two weeks after IETF 123.
   - There are un-responded to comments in the re-chartering thread.
+  - IDR Chairs discussed the proposed charters with Ketan at IETF-124. 
   - Ketan is currently editing the new charter. 
 -----
 ## At RFC Editor
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
-  **Shepherd**: Sue Hares (approved 10/21/2025) 
+  **Shepherd**: Sue Hares (approved 10/21/2025), MISREF on lsr and spring documents. 
 ------
 
 ## At IESG, Revised ID needed
@@ -23,8 +24,8 @@
 
 ## Submitted to IESG
 * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
-  **Shepherd**: Keyur - Submitted **7 November, 2025**.  
-  AD feedback returned **22 November, 2025**.  Authors returned update, Next Step: AD reviews 
+  **Shepherd**: Keyur - Submitted to IESG on **November 7, 2025**, -AD feedback returned **22 November, 2025**.
+  -24 revision by authors on **December 23, 2025**, Waiting on AD. 
 
 ------
 
@@ -45,60 +46,59 @@
 
 ## WG LC in Process 
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
-    **Shepherd:** Jie Dong, (**WG LC 12/11 to 1/5**)
+    **Shepherd:** Jie Dong, (**WG LC 12/11 to 1/16**), Extending to 1/16 with text that IDR chairs intent to adopt. 
   
-2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **WG LC time 12/22/2025 to 1/12/2025)** 
-   **Shepherd:** Susan Hares (Shepherd's report and WG LC on 12/22) 
+2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **WG LC time 12/22/2025 to 1/16/2026)** 
+   **Shepherd:** Susan Hares (Shepherd's report and WG LC on 12/22), Sue will re-announce WG LC and extend WG to 1/16 
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
 
 3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
-   **Shepherd:** Sue, pending -07, IANA early allocation done, WG LC IPR Call started (1/5/2026 to 1/12/2026) 
-   
+   **Shepherd:** Sue, **pending -07**, IANA early allocation done, WG LC IPR Call started (1/5/2026 to 1/12/2026) 
 ----
 ## WG LC Pending for Core BGP + FSv1 
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur  
-   Status: Keyur to start WGLC (**8 December, 2025**). RTG-DIR OK (1/5/2026), Need to fill out implementation page on wiki (Sue, 1/4/2026)
+   Status: Keyur to start WGLC (**12 January, 2025**). RTG-DIR OK (1/5/2026), **Needed implementation report** 
    
 3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
-   **Shepherd:** Sue, still waiting for 2 implementations (juniper/HPE + (huawei or Nokia)
+   **Shepherd:** Sue, **Starting 1/12**, have 2 implementation reports (Huawei, Juniper), Jeff + Sue querying for 3rd implementation 
   
 4. [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)   
-   **Shepherd:** Sue - awaits draft-ietf-idr-flowspec-redirect
+   **Shepherd:** Sue - **awaits draft-ietf-idr-flowspec-redirect**
 
 5. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
-     **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**  
+     **Shepherd:** All Chairs, Requested by Linda Dunbar **21 July, 2025**,  Sue working on revision (**ETA 1/19**)
      **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATS chairs prior to WGLC.
    
 6. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) - Jie and Chairs to review for suitability to move to WGLC.
-   **Shepherd:** Jie Dong
+   **Shepherd:** Jie Dong,  **Needs IDR Chair reviews** (Sue, Keyur) as well as shepherd, ETA: 1/16
+
+7. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)  
+      **Shepherd:** Jeff Haas (**9 Jan 2026** **Need shepherd report **,  Mutual WGLC between BESS and IDR agreed to, Jeff will run WG LC 
+      
+8. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
+   **Shepherd:** Sue –**Needs -13**,
    
-7. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
-   **Shepherd:** Sue –**Needs -13**
-   
-8. [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  
+9. [draft-ietf-idr-registered-wide-bgp-communities-03](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/)  
    **Shepherd:** Sue – **Needs -04** 
    
-9. [draft-ietf-idr-elc-00](https://datatracker.ietf.org/doc/draft-ietf-idr-elc/)  
-     **Shepherd:** Sue – **Needs 2nd implementation**
-
 10. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/) | Sue Hares 
-      **Shepherd:** Sue – awaiting 01 – Needs Jeff’s edits 
+      **Shepherd:** Sue – **Needs -01** awaiting 01 after BFD resolution
+  
 11. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
-      **Shepherd:** Sue  
-      Needs new shepherd Review and IANA.  Jeff needs to do code audit.
-12. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)  
-      **Shepherd:** Jeff Haas (14 November, 2025) - Mutual WGLC between BESS and IDR proposed. Jeff will query BESS chairs on being the shepherd.
+      **Shepherd:** Sue, **Needs revision -16**,
 
 ### WG LC for SR drafts pending Shepherd Review
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
-   **Shepherd:** Sue, pending -06, Needs -07 before WG LC.  IPR for WG LC in progress (1/5/2026 to 1/12/2026) - WG LC ETA: 1/12/2026 
+   **Shepherd:** Sue, **Needs -07** before WG LC.  IPR for WG LC in progress (1/5/2026 to 1/12/2026) - WG LC ETA: 1/12/2026 
    
 2. [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)  
-    **Shepherd:** Sue, [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment). **Holding** on 2 byte length in reserve path segment with Ketan, **Needs -15** to adjust
+    **Shepherd:** Sue, [Shepherds report on IDR wiki](https://wiki.ietf.org/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-sr-policy-path-segment).
+     **Holding** on 2 byte length in reserve path segment with Ketan, **Needs -15** to adjust
 
-3. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
-    **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA done (17), **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
+4. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)
+    **Shepherd:** Sue, [Shepherd report on IDR wiki](https://wiki.ietf.org/e/en/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-ietf-idr-bgp-sr-mpls-elp). IANA done (17),
+    **Needs [-05] prior to WG LC** - January WG LC ETA: 1/12/2026 
 
 ### WG LC for BGP-LS drafts pending changes after Shepherd Review (alphabetical) 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
@@ -123,7 +123,8 @@
 
 ## Status:
 ### Shepherd’s queue (waiting for new drafts after WG LC) 
-* [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –  working with Alvaro and Linda to resolve drafts [ETA: January 14, 2026] - Need to restructure the github and handle Alvaro's on **April 2025** based on Linda's (see Sue's task list for steps 
+* [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  (Keyur Patel)  –
+* ***Status*** working with Alvaro and Linda to resolve drafts [ETA: January 19, 2026] - Need to restructure the github issues and get Alvaro OK 
 
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Sue, Will work through issues with authors + Spring Chairs
