@@ -38,7 +38,7 @@
 
 ## WG LC - Waiting for Shepherd Write-up 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-  Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, **Awaits -05 and implementation report**
+  Past WGLC that ended **12 July, 2025**, Closed WG LC (12/21/2025), Post WG LC shepherd report done, **Awaits -06 and implementation report**
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/) - Jeff revising, IDR chairs review post revision, the IESG submission 
 ------
 
