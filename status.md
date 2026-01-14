@@ -77,7 +77,7 @@
 
 - [Core BGP](wglc-core.md)
 - [BGP Flowspec](wglc-fs.md)
-- [BGP-LS](wglc-ls)
+- [BGP-LS](wglc-ls.md)
 - [BGP Segment Routing](wglc-sr.md)
 
 ------
