@@ -14,6 +14,8 @@
 ## At RFC Editor
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   **Shepherd**: Sue Hares (approved 10/21/2025), MISREF on lsr and spring documents. 
+* [draft-ietf-idr-link-bandwidth](https://datatracker.ietf.org/doc/draft-ietf-idr-link-bandwidth/)  
+  **Shepherd:** Jeff Haas
 ------
 
 ## At IESG, Revised ID needed
