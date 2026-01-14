@@ -32,7 +32,7 @@
 
 ------
 
-### Submitted to ISE
+## Submitted to ISE
 - [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/draft-abraitis-bgp-version-capability/)  
   **Shepherd:** Jeff Haas 
   **Status:** Responded to ISE questions about draft. ISE Editor has restarted ISE investigation. (**12 December, 2025**)
