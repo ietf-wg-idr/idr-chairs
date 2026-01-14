@@ -54,18 +54,19 @@
     **Shepherd:** Jie Dong  
     **Status:** (**WGLC 12/11 to 1/16**), Extending to 1/16 with text that IDR chairs intent to adopt. 
     
-2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **WGLC time 12/22/2025 to 1/16/2026)** 
+2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 12/22/2025 to 1/16/2026)** 
    **Shepherd:** Susan Hares  
    **Status:** Shepherd's report and WGLC on 12/22, Sue will re-announce WGLC and extend WG to **1/16** 
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
    
-3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
-   **Shepherd:** Susan Hares, *pending -07*, IANA early allocation done, WGLC IPR Call started (**1/5/2026 to 1/12/2026**) 
+3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
+   **Shepherd:** Susan Hares  
+   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started (**1/5/2026 to 1/12/2026**).
 ----
 ## WGLC Pending for Core BGP + FSv1 
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur Patel  
-   **Status:** Keyur to start WGLC (**12 January, 2025**). RTG-DIR OK (**1/5/2026**), **Needed implementation report**.
+   **Status:** Keyur to start WGLC (**12 January, 2025**). RTG-DIR OK (**1/5/2026**). [Implementation report](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-rfc4360bis) has been started with Juniper filling it in.
    
 3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
    **Shepherd:** Susan Hares  
