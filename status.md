@@ -83,7 +83,7 @@
 
 5. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  **Needs IDR Chair reviews** (Sue, Keyur) as well as shepherd. **(ETA: 16 January, 2026)**  
-   **Status:** Jie and Chairs to review for suitability to move to WGLC.
+   **Status:** Jie and Chairs to review for suitability to move to WGLC. The [implementation report](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability) has been submitted by Donatas and needs review prior to encouraging others to fill it in.
 
 6. [draft-ietf-bess-ebgp-dmz-08](https://datatracker.ietf.org/doc/draft-ietf-bess-ebgp-dmz/)  
       **Shepherd:** Jeff Haas (**9 Jan 2026**)  
