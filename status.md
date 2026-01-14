@@ -106,7 +106,7 @@
     **Status:** *Needs revision -16.*
 
 ### WGLC for SR drafts pending Shepherd Review
-1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),
+1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/)  
    **Shepherd:** Susan Hares  
    **Status:** *Needs -07* before WGLC.  IPR for WGLC in progress (5-12 January, 2026), IDR Chair review in process (Keyur, Jie, Sue).
 
