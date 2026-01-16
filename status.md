@@ -67,7 +67,7 @@
 
 3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started, No IPR statements  (**5 January, 2026 to 12 January, 2026**).
+   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started, extended to 1/23  (**5 January, 2026 to 23 January, 2026**).
 
 ------
 
