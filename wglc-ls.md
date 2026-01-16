@@ -4,7 +4,7 @@
 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
    **Shepherd:** Susan Hares  
-   **Status:** *Needs -19* change to Security section, Almost ready for WGLC.  Will review at 19 January, 2026 IDR chairs meeting 
+   **Status:** *Needs IDR Chair review* -19 ok for WG LC, C.  Will review at 19 January, 2026 IDR chairs meeting 
 
 2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
    **Shepherd:** Susan Hares  
