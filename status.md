@@ -1,7 +1,4 @@
-# Status last updated 4 January, 2026
-
-[TOC]
-------
+# Status last updated 16 January, 2026
 
 ## Area Director Actions
 
