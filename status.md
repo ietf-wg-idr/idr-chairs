@@ -58,16 +58,16 @@
 ### WGLC in Process
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
-    **Status:** (**WGLC 11 December to 16 January**), Extending to 1/16 with text that IDR chairs intent to adopt. 
+    **Status:** (**WGLC 11 December to 16 January**), Chairs agreed upon Consensus.  Jie Dong will file the shepherd's report and submit to IESG. 
 
 2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares  
-   **Status:** Shepherd's report and WGLC on 22 December, 2025, Sue will re-announce WGLC and extend WG to **16 January, 2026** 
+   **Status:** WG LC missing 4 IPR statements, Extended WG LC to **23 January, 2026** 
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
 
 3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started (**5 January, 2026 to 12 January, 2026**).
+   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started, No IPR statements  (**5 January, 2026 to 12 January, 2026**).
 
 ------
 
@@ -83,7 +83,6 @@
 ## Adoptions
 
 ### In-Progress Adoption Calls
-
 - No adoption calls in progress. (**14 November, 2025**)
 
 ------
@@ -125,7 +124,6 @@
 ## IANA Actions
 
 ## IANA corrections
-* Capability 71 in https://www.iana.org/assignments/capability-codes/capability-codes.xhtml - should be [RFC9494](https://datatracker.ietf.org/doc/html/rfc9494) as the reference
 
 ### Early Allocations (see [IDR Wiki](https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status)) - Completed
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):  (Sue to check with Amanda on status of early allocation)
