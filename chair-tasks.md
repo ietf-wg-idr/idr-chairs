@@ -6,14 +6,10 @@
     Status: Continue to monitor transition to RFC editor 
    
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: Closed WG LC with Consensus (12/21), Post WG LC Shepherd Report sent (12/21), Needs -05 + implementation report prior to publication. 
-   Next step: Update shepherd's review, and published to RFC. 
-   
-3.  Review RFC4360bis + implementation Report - (Review on 12/22/2025), implementation page created on 1/4/2026.  
+    Status: WG consenus, Getting 2nd implementation, Directorate Reviews: Security (done) and RTG-DIR
 
-4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: Shepherd review and WG LC (12/22/2025) 
-  
+4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC ends on 1/23/2025
+ 
 5. [draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-bgp-ls-nrp)
    Actions: Awaiting -03 to start WG LC 
 
@@ -22,7 +18,7 @@
    Next-steps: Hold waiting on 2nd implementation reorted (checking Nokia and Huawei)
 
 7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
-    Status: Early Allocation (Done, IANA Assigned).  Shepherd recheck (12/22/2025) 
+    Status: -07 ready for WG LC, need to gert 
     
 8. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Check on status of Early Allocations: holding alloation on 
