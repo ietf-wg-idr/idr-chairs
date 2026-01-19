@@ -126,10 +126,14 @@
 ## IANA corrections
 
 ### Early Allocations (see [IDR Wiki](https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status)) - Completed
+* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-00 (renamed draft) [ELP Sub-TLV]. Assigned 17. Ready for WGLC after -01 released. 
+
 Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):  (Sue to check with Amanda on status of early allocation)
 
-* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-04 [ELP Sub-TLV]. Assigned 17. Ready for WGLC after new draft.
+#### Early Allocations for Core BGP (Shepherd: IDR Chairs as noted) 
+* [draft-ietf-idr-dynamic-cap] - Requesting early allocation for BGP Message Code point [6], New BGP Error code, Request sub-registry (early allocation) [Shepherd: IDR Chairs] 
 
+#### Early Allocation for BGP-SR (Shepherd: Sue) 
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – **Pending on -15**, Problem: Reverse Path Segment has 2 bytes in length. Also needs the name of the registry changed to: SR Policy Segment List Sub-TLVs.
 
 * [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-04   [metric] – *Needs -04* to fix technical issues (registry name, update to RFC9830, security section should describe metrics as critical data.  Critical data needs careful handling during deployment to keep information secure.)
