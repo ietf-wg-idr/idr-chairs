@@ -25,7 +25,7 @@
 * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur Patel  
   **Status:** Submitted to IESG on **7 November, 2025**, -AD feedback returned **22 November, 2025**.
-  -24 revision by authors on **23 December, 2025**, Waiting on AD. 
+  -24 revision [feedback by AD](https://mailarchive.ietf.org/arch/msg/idr/fV3nmK2Nz1YgP24zFhgoAepfdTk/) - **needs a -25 version** 
 
 ------
 
@@ -41,12 +41,12 @@
 ### WGLC - Waiting for Shepherd Write-up
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
-  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), Post WGLC shepherd report done, **Awaits 2nd implementation report**
+  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), Post WGLC shepherd report done, **Awaits 2nd implementation report and Response to security**  
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revising, IDR chairs review post revision, the IESG submission 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-  **Status:** Working with Alvaro and Linda to resolve drafts **(ETA: 19 January, 2026)** - Need to restructure the github issues and get Alvaro OK 
+  **Status:** Working with Alvaro and Linda to resolve drafts **(ETA: 19 January, 2026)** - Got clarity on 5 key issues. Restructing github based on issues. 
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
   **Status:** Will work through issues with authors + Spring Chairs.
@@ -62,12 +62,12 @@
 
 2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares  
-   **Status:** WG LC missing 4 IPR statements, Extended WG LC to **23 January, 2026** 
+   **Status:** WG LC missing 4 IPR statements, Extended WG LC to **30 January, 2026** 
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper and H3C are completed in WG wiki.
 
 3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** *pending -07*, IANA early allocation done, WGLC IPR Call started, extended to 1/23  (**5 January, 2026 to 23 January, 2026**).
+   **Status:** -07 complete., **Need IDR chair reviews before WGLC**  (**5 January, 2026 to 23 January, 2026**).
 
 ------
 
