@@ -50,24 +50,31 @@
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
   **Status:** Will work through issues with authors + Spring Chairs.
+* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
+    **Shepherd:** Jie Dong  
+    **Status:** (**WGLC 11 December to 16 January**),Jie Dong writing up shepherd report  
 ------
 
 ### WGLC Requests Approved
 -----
 
 ### WGLC in Process
-1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
-    **Shepherd:** Jie Dong  
-    **Status:** (**WGLC 11 December to 16 January**),Jie Dong writing up shepherd report  
-
-2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
+1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares  
-   **Status:** WG LC missing 3 IPR statements, Extended WG LC to **February 9, 2026** 
+   **Status:** WG LC missing 1 IPR statements, Extended WG LC to **February 9, 2026** 
    [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper, H3C, FRR are completed in WG wiki.
 
-3. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
+2. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **Review in Process**  (**ETA: 2/9/2026 **).
+   **Status:** -07 complete., **IPR call completed, waiting for interim for WG LC **  (**ETA: 2/9/2026 **).
+
+3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
+   **Shepherd:** Susan Hares
+   **Status:** -04 WG LC (Feb-07-2026 to Feb-21-2026), 4 implementations
+
+4. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+   **Shepherd:** Keyur Patel
+   **Status:** -08 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations
 
 ------
 
