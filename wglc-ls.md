@@ -16,7 +16,7 @@
 
 4. [draft-ietf-idr-bgp-ls-isis-flood-reflection-04](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/),  
    **Shepherd:** Susan Hares  
-   **Status:** *Waiting on -05*, 2 implementations, asking if authors still interested.
+   **Status:** *Waiting on -05*, 2 implementations, authors interested, but need the revision and review of draft-ietf-bess-multicast-controller. 
 
 5. [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/)  
    **Shepherd:** Susan Hares  
