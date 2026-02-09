@@ -38,9 +38,9 @@
 
 ### WGLC - Waiting for Shepherd Write-up
 
-* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations](
+* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
   **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), Post WGLC shepherd report done, **Awaits -07 with security resolution**  
-* [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
+* [draft-ietf-idr-bgp-model-18](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revising, IDR chairs review post revision, then IESG submission 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
@@ -50,7 +50,7 @@
   **Status:** Will work through issues with authors + Spring Chairs.
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
-    **Status:** (**WGLC 11 December to 16 January**),Jie Dong writing up shepherd report  
+    **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report  
 ------
 
 ### WGLC Requests Approved
@@ -60,7 +60,7 @@
 1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares  
    **Status:** WG LC missing 1 IPR statements, Extended WG LC to **February 9, 2026** 
-   [Implementation reports](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) for Juniper, H3C, FRR are completed in WG wiki.
+   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 
 2. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
@@ -134,7 +134,6 @@
 * [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-00 (renamed draft) [ELP Sub-TLV]. Assigned 17. Ready for WGLC after -01 released. 
 
 ### Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):  (Sue to check with Amanda on status of early allocation)
-
 #### Early Allocations for Core BGP (Shepherd: IDR Chairs as noted) 
 * [draft-ietf-idr-dynamic-cap] - Requesting early allocation for BGP Message Code point [6], New BGP Error code, Request sub-registry (early allocation) [Shepherd: IDR Chairs] 
 
