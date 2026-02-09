@@ -30,8 +30,7 @@ Steps for Flow specification are:
 ### 5. Adoption call of draft-hares-idr-fsv2-more-ip-filtesr 
 
 ### 6a. FSv2 WG LC (based on adoption of draft-hares-idr-fsv2-more-ip-filters) 
-- [BGP Flowspec](wglc-fs.md)
-- 
+- [BGP Flowspec WG LC filtesr](wglc-fs.md)
 ### 6b. Adoptions Requested pending based on draft-hares-idr-fsv2-more-ip-filters (Sue Hares Shepherd for Adoption cycle) 
 * [draft-cui-idr-content-filter-flowspec-03](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) - [2 implementations]- FRR, OpenBSD)
 * [draft-cui-idr-flowspec-feedback-binding](https://datatracker.ietf.org/doc/draft-cui-idr-flowspec-feedback-binding/) 
