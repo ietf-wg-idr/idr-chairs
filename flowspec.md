@@ -33,13 +33,13 @@ Steps for Flow specification are:
 - [BGP Flowspec WG LC filtesr](wglc-fs.md)
 ### 6b. Adoptions Requested pending based on draft-hares-idr-fsv2-more-ip-filters (Sue Hares Shepherd for Adoption cycle) 
 * [draft-cui-idr-content-filter-flowspec-03](https://datatracker.ietf.org/doc/draft-cui-idr-content-filter-flowspec/) - [2 implementations]- FRR, OpenBSD)
-* [draft-cui-idr-flowspec-feedback-binding](https://datatracker.ietf.org/doc/draft-cui-idr-flowspec-feedback-binding/) 
 * [draft-kao-idr-bitwise-ip-filters](https://datatracker.ietf.org/doc/draft-kao-idr-bitwise-ip-filters/)
 * [draft-zzd-idr-flowspec-path-scheduling-03](https://www.ietf.org/archive/id/draft-zzd-idr-flowspec-scheduling-03.txt)
 * [draft-wang-idr-flowspec-dip-origin-as-filter-11](https://www.ietf.org/archive/id/draft-wang-idr-flowspec-dip-origin-as-filter-11.txt)
 * [draft-lin-idr-cats-flowspec-ts-03](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) 
 
 ### 7. Adoption requested pending draft-hares-idr-fsv2-more-ip-filters and draft-hares-idr-fsv2-more-ip-actions 
+* [draft-cui-idr-flowspec-feedback-binding](https://datatracker.ietf.org/doc/draft-cui-idr-flowspec-feedback-binding/) 
 * [draft-lin-idr-cats-flowspec-ts-03](https://www.ietf.org/archive/id/draft-lin-idr-cats-flowspec-ts-03.txt) 
 * [draft-geng-idr-flowspec-sav-06](https://www.ietf.org/archive/id/draft-geng-idr-flowspec-sav-06.txt)
 * [draft-geng-idr-apn-bgp-flowspec-00](https://datatracker.ietf.org/doc/draft-geng-idr-apn-bgp-flowspec/)
