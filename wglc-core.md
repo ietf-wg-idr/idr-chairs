@@ -2,22 +2,14 @@
 
 1. [draft-ietf-idr-4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur Patel  
-   **Status:** Needs 2nd implementations. RTG-DIR OK (**5 January, 2026**). [Implementation report](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-rfc4360bis)   
+   **Status:** [Needs 2nd implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-rfc4360bis). RTG-DIR OK (**5 January, 2026**). 
 
-2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-redirect-ip)  
-   **Shepherd:** Susan Hares  
-   **Status:**Awaiting -05 (Jeff Haas, author) 2026, has [2 implementation](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
-
-3. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
-   **Shepherd:** Keyur Patel (with coordination with Sue Hares )   
-   **Status:** Awaits draft-ietf-idr-flowspec-redirect (Jeff Haas, author), 4 implementations (in draft text) 
-
-4. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
+2. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
    **Shepherd:** All Chairs  
-   **Status:** Requested by Linda Dunbar **21 July, 2025**, Awaiting reviews (**ETA February, 2026**)
+   **Status:** Requested by Linda Dunbar **21 July, 2025**, Awaiting reviews (**ETA February, 2026**), [1 implementation](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
    **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATS chairs prior to WGLC.
 
-5. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
+3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong
    **Status:** Needs all Shepherd review (Keyur done, Awaiting Sue, Jie, Jeff) [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability) 
 
