@@ -16,16 +16,14 @@
 ------
 
 ## At IESG, Revised ID needed
-* [draft-ietf-idr-ts-flowspec-srv6-policy ](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)  
-  **Shepherd**: Keyur Patel  
-  **Status:** Returned to WG with request to submit with draft-ietf-idr-flowspec-redirect-ip (**author: Jeff**)  
+
 ------
 
 ## Submitted to IESG
 * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur Patel  
   **Status:** Submitted to IESG on **7 November, 2025**, -AD feedback returned **22 November, 2025**.
-  -27 revision [feedback by AD](https://mailarchive.ietf.org/arch/msg/idr/fV3nmK2Nz1YgP24zFhgoAepfdTk/) - **2nd WG LC in process** 
+  -27 revision [feedback by AD](https://mailarchive.ietf.org/arch/msg/idr/fV3nmK2Nz1YgP24zFhgoAepfdTk/) - **2nd WG LC in process (1/29 to 2/5/2026) 
 
 ------
 
@@ -40,10 +38,10 @@
 
 ### WGLC - Waiting for Shepherd Write-up
 
-* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
+* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations](
   **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), Post WGLC shepherd report done, **Awaits -07 with security resolution**  
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** Jeff revising, IDR chairs review post revision, the IESG submission 
+  **Status:** Jeff revising, IDR chairs review post revision, then IESG submission 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
   **Status:** Working with Alvaro and Linda to resolve drafts **(ETA: mid-February 2026)**  
