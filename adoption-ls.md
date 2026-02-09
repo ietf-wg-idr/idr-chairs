@@ -41,4 +41,4 @@
 - [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - *Needs -03*, draft expired, authors queried.
 
 * [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  - *Needs 03*, draft expired. Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/).
-* [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill/) - (-05) needs update to version -05, draft expired.
+* [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill) - (-05) needs update to version -05, draft expired.
