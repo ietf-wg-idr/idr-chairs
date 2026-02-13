@@ -48,11 +48,6 @@
 
  ### Jeff:
 
-1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
-   Have received some feedback from Adam.  In the process of integrating it before publishing next version.
-   Target WGLC by **IETF-124**
-   Shepherd: Sue 
-
 1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset) 
    Target WGLC by **IETF-124**
    Shepherd: Sue 

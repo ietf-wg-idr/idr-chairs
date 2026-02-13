@@ -61,7 +61,7 @@
 -----
 1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
-   **Status:** -04 WG LC (Feb-07-2026 to Feb-21-2026), 4 implementations
+   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations
 
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
