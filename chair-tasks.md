@@ -9,7 +9,7 @@
     Status: WG consenus, Getting 2nd implementation, Directorate Reviews: Security (done) and RTG-DIR
 
 4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC ends on 1/23/2025
- 
+
 5. [draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-bgp-ls-nrp)
    Actions: Awaiting -03 to start WG LC 
 
@@ -97,4 +97,3 @@
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - waiting on feedback from Jeffrey Zhang.
 * Take shepherd work for two of the bgp-ls documents for September.
 
-## 

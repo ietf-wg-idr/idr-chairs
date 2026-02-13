@@ -15,5 +15,3 @@
 4. [draft-vroonen-idr-bgp-bestpath-nh-selection-00](https://datatracker.ietf.org/doc/draft-vroonen-idr-bgp-bestpath-nh-selection/) - Requested on **4 November, 2025** (IETF-124)
 5. [draft-decraene-idr-nlri-error-handling-01](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requested on **4 November, 2025** (IETF-124)
 6. [draft-chen-idr-enhanced-dynamic-cap-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requestesd on **4 November, 2025** (IETF-124)
-
-### 
