@@ -23,7 +23,7 @@
 * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
   **Shepherd**: Keyur Patel  
   **Status:** Submitted to IESG on **7 November, 2025**, -AD feedback returned **22 November, 2025**.
-  -27 revision [feedback by AD](https://mailarchive.ietf.org/arch/msg/idr/fV3nmK2Nz1YgP24zFhgoAepfdTk/) - **2nd WG LC in process (1/29 to 2/5/2026) 
+  -28 revision - is result of 2nd WG LC on change [1/29 to 2/5], reached consensus 
 
 ------
 
@@ -39,40 +39,43 @@
 ### WGLC - Waiting for Shepherd Write-up
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), Post WGLC shepherd report done, **Awaits -07 with security resolution**  
+  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), -07 released, awaiting SECDIR-ack 
 * [draft-ietf-idr-bgp-model-18](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revising, IDR chairs review post revision, then IESG submission 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-  **Status:** Working with Alvaro and Linda to resolve drafts **(ETA: mid-February 2026)**  
+  **Status:** Working with Alvaro, Ketan, Linda, Sue to resolve **(ETA: mid-February 2026)**  
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
-  **Status:** Will work through issues with authors + Spring Chairs.
+  **Status:** Will work through issues with authors + Spring Chairs (needs addressing with SPRING during IETF-125) 
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
-    **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report  
+    **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report
+* [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
+   **Shepherd:** Susan Hares
+   **Status:** Closed WG LC with Consensus, Awaiting -01 with changes due to RTGDIR review  
+   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
-### WGLC Requests Approved
+### WGLC 
 -----
-
-### WGLC in Process
-1. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
-   **Shepherd:** Susan Hares  
-   **Status:** WG LC missing 1 IPR statements, Extended WG LC to **February 9, 2026** 
-   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
-
-2. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
-   **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **IPR call completed, waiting for interim for WG LC **  (**ETA: 2/9/2026 **).
-
-3. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
+1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
    **Status:** -04 WG LC (Feb-07-2026 to Feb-21-2026), 4 implementations
 
-4. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
    **Status:** -08 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations
+
+### WG LC on early allocation
+* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
+  **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/) 
+
+### WGLC in Process
+1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
+   **Shepherd:** Susan Hares  
+   **Status:** -07 complete., **IPR call completed", On hold post Interim discussion
+
 
 ------
 
@@ -111,8 +114,7 @@
 * [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
 * [draft-ietf-idr-bgp-generic-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-generic-metric/)
   This work depends on the nexthop dependent capabilities work that is being split from the current entropy label document.
-* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/)
-
+* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - in early allocation call 
 
 ------
 
