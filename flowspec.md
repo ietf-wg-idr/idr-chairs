@@ -44,3 +44,7 @@ Steps for Flow specification are:
 * [draft-geng-idr-flowspec-sav-06](https://www.ietf.org/archive/id/draft-geng-idr-flowspec-sav-06.txt)
 * [draft-geng-idr-apn-bgp-flowspec-00](https://datatracker.ietf.org/doc/draft-geng-idr-apn-bgp-flowspec/)
 
+### 8. Adoption of CATS related FS-v2 
+* [draft-yi-idr-bgp-fs-edge-service-metadata](https://datatracker.ietf.org/doc/draft-yi-idr-bgp-fs-edge-service-metadata) - needs CAT discussion and draft-ietf-idr-fsv2-more-ip-filters. 
+
+
