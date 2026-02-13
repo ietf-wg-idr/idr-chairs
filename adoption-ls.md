@@ -22,9 +22,11 @@
 
 10. [draft-liu-idr-bgp-ls-srp-flexible-path-selection](https://datatracker.ietf.org/doc/draft-liu-idr-bgp-ls-srp-flexible-path-selection/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgp-ls-srp-flexible-path-selection) - *Needs -02* before adoption.
 
-11. [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet) - **pending review of -00**.
+11. [draft-ls-idr-bgp-ls-service-metadata-08](https://datatracker.ietf.org/doc/draft-ls-idr-bgp-ls-service-metadata-08) - **Needs IETF-125 disdcussion** with other CAT-related IDR drafts. 
 
-12. [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  *Needs -15* with updated references and text.
+12. [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet) - **pending review of -00**.
+
+13. [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  *Needs -15* with updated references and text.
 
 ------
 
