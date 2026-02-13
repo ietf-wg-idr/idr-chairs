@@ -89,6 +89,6 @@
 
 * Review of draft-ietf-idr-bgpls-sr-vtn-mt-11 (as author) –  Work with Ketan on revision 
 * draft-ietf-idr-ts-flowspec-srv6-policy-05 (as reviewer) – Sue requests you review this draft 
-* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - waiting on feedback from Jeffrey Zhang.
+* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - Consensus 28 Jan, needs writeup.
 * Take shepherd work for two of the bgp-ls documents for September.
 
