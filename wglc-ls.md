@@ -4,7 +4,7 @@
 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
    **Shepherd:** Susan Hares  
-   **Status:** *Needs-20*, IDR Chairs still reviewing (Sue Hares, Jie Dong, Keyur Patel), 2026 IDR chairs meeting. Jeff provided review 23 Jan, 2026. 
+   **Status:** *Reviewing-21*, IDR Chairs still reviewing (Sue Hares, Jie Dong, Keyur Patel), Ketan's co-author feedback aided getting to -21. 
 
 2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
    **Shepherd:** Susan Hares  
