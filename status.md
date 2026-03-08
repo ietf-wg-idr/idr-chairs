@@ -3,10 +3,7 @@
 ## Area Director Actions
 
 - Re-chartering is in progress.
-  - Comment period was supposed to end two weeks after IETF 123.
-  - There are un-responded to comments in the re-chartering thread.
-  - IDR Chairs discussed the proposed charters with Ketan at IETF-124.
-  - Ketan is currently editing the new charter.
+  - Chairs actively working on final text. Targeted for IETF-125.
 -----
 ## At RFC Editor
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
@@ -20,11 +17,6 @@
 ------
 
 ## Submitted to IESG
-* [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
-  **Shepherd**: Keyur Patel  
-  **Status:** Submitted to IESG on **7 November, 2025**, -AD feedback returned **22 November, 2025**.
-  -28 revision - is result of 2nd WG LC on change [1/29 to 2/5], Discussion ongoing on list. 
-
 ------
 
 ## Submitted to ISE
@@ -41,7 +33,7 @@
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
   **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), -07 released, SECDIR-acked, ETA: 1/9/2026 
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** Jeff revising, IDR chairs review post revision (20), then IESG submission 
+  **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission. 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
   **Status:** Working with Alvaro, Ketan, Linda, Sue to resolve **(ETA: IETF-125 confirmation with Alvaro)**  
@@ -57,8 +49,7 @@
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
-### WGLC 
------
+### WGLC
 1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
    **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations, few comments on list. 
@@ -67,14 +58,23 @@
    **Shepherd:** Keyur Patel
    **Status:** -08 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations
 
-### WG LC on early allocation
+### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
   **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/) Needs revision and 2nd call. 
 
 ### WGLC in Process
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **IPR call completed", On hold until Spring Checks and IETF-125 discussions occur. 
+   **Status:** -07 complete., **IPR call completed", On hold until Spring Checks and IETF-125 discussions occur.
+2. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
+   **Shepherd**: Keyur Patel  
+   **Status:** Finished WGLC March 2026. Final comments from Jeff to be integrated by authors, which should happen once submissions are accepted at start of IETF-125.  Will be submitted to IESG afterward.
+3. [draft-ietf-idr-rfc4360bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
+   **Shepherd:** Keyur Patel  
+   **Status:** Last call *2-16 March, 2026* in tandem with BESS EBGP DMZ
+4. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
+   **Shepherd:** Jeffrey Haas
+   **Status:** Last call *2-16 March, 2026* in tandem with RFC4360-bis 
 
 ------
 
