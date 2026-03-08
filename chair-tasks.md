@@ -8,15 +8,14 @@
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
     Status: WG consenus, Getting 2nd implementation, Directorate Reviews: Security (done) and RTG-DIR
 
-4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC ends on 1/23/2025
+4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC completed March 2026. Needs submission to IESG.
 
 5. [draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-bgp-ls-nrp)
    Actions: Awaiting -03 to start WG LC 
 
-6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)
-   Status: Shepherd's review completed (10/20/2025) 
-   Next-steps: Hold waiting on 2nd implementation reorted (checking Nokia and Huawei)
-
+6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)  
+   Status: Shepherd's review completed (10/20/2025). Multiple implementation reports.  Finished WGLC March 2026 with few responses.
+   
 7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
     Status: -07 ready for WG LC, need to gert 
     
@@ -48,30 +47,30 @@
 
  ### Jeff:
 
-1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset) 
-   Target WGLC by **IETF-124**
-   Shepherd: Sue 
+1. [draft-ietf-idr-bgp-bfd-strict-mode](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/)
+   Shepherd: Keyur
+   Depends on draft-ietf-idr-bgp-fsm-iana
+   Target completion by **IETF-125**
 
+1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
+   Target completion by **IETF-125**
+
+1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset) 
+   Target WGLC by **IETF-126**
+   Shepherd: Sue 
 1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
 
 1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/) 
    Shepherd: Keyur
-   Target completion by **IETF-124**
+   Target completion by **IETF-126**
 
 1. [draft-ietf-idr-registered-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/) 
    Shepherd: Keyur
    Depends on draft-ietf-idr-wide-bgp-communities
-   Target completion by **IETF-124**
-
-1. [draft-ietf-idr-bgp-bfd-strict-mode](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/)
-   Shepherd: Keyur
-   Depends on draft-ietf-idr-bgp-fsm-iana
-   Target completion by **IETF-124**
-
-1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
-   Target completion by **IETF-124**
+   Target completion by **IETF-126**
 
 1. FSv2 issues related to FSv1 actions – so can decide on WG LC and FSv2 adoption  - Need 2nd revision with Sue [August]
+
 
 ------
 
