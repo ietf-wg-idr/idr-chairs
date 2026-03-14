@@ -6,7 +6,7 @@
     Status: Continue to monitor transition to RFC editor 
    
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: WG consenus, Getting 2nd implementation, Directorate Reviews: Security (done) and RTG-DIR
+    Status: WG consenus, OK Directorate Reviews: Security (done) and RTG-DIR, Need addition to IANA. (ETA: 3/16) 
 
 4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC completed March 2026. Needs submission to IESG.
 
