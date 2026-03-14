@@ -31,7 +31,7 @@
 ### WGLC - Waiting for Shepherd Write-up
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), -07 released, SECDIR-acked, ETA: 1/9/2026 
+  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), -07 released, SECDIR-acked, Needs -08 for IANA 
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission. 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
