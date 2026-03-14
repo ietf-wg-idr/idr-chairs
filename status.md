@@ -31,7 +31,7 @@
 ### WGLC - Waiting for Shepherd Write-up
 
 * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-  **Status:** Past WGLC that ended **12 July, 2025**, Closed WGLC (21 December, 2025), -07 released, SECDIR-acked, Needs -08 for IANA 
+  **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), SECDIR-acked, Needs -08 with IANA nit
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission. 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
@@ -45,14 +45,14 @@
     **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report
 * [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares
-   **Status:** Closed WG LC with Consensus, Awaiting -01 arrived 1/2/2025, Shepherd Checking: ETA: 1/9/2025.  
+   **Status:** Closed WG LC with Consensus, Needs -02 with Nits address, Shepherd review (3/15/2026)  
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
 ### WGLC
 1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
-   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 5 implementations, few comments on list. 
+   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/321), 5 implementations, needs more comments on list. 
 
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
@@ -60,7 +60,8 @@
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
-  **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/) Needs revision and 2nd call. 
+  **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
+  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues to address. 
 
 ### WGLC in Process
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
