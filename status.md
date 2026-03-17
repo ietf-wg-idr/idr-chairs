@@ -59,22 +59,22 @@
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
    **Status:** -08 WG LC (Feb-07-2026 to Feb-21-2026, Extended 3/15 to 3/29) 5 implementations
+3.  [draft-ietf-idr-rfc4360bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
+   **Shepherd:** Keyur Patel  
+   **Status:** Last call *2-16 March, 2026*, WGLC Extension *16-30** in tandem with BESS EBGP DMZ
+4. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
+   **Shepherd:** Jeffrey Haas
+   **Status:** Last call *2-16 March, 2026* in tandem with RFC4360-bis 
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
   **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
-  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues to address. 
+  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues for authors to address. 
 
-### WGLC in Process
+### WGLC in Process (IPR call done, then paused)  
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
    **Status:** -07 complete., **IPR call completed", On hold until Spring Checks and IETF-125 discussions occur.
-2. [draft-ietf-idr-rfc4360bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
-   **Shepherd:** Keyur Patel  
-   **Status:** Last call *2-16 March, 2026*, WGLC Extension *16-30** in tandem with BESS EBGP DMZ
-3. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
-   **Shepherd:** Jeffrey Haas
-   **Status:** Last call *2-16 March, 2026* in tandem with RFC4360-bis 
 
 ------
 
