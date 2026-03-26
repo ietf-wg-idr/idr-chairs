@@ -19,7 +19,10 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
    **Shepherd**: Keyur Patel  
-   **Status:** Finished WGLC March 2026. Final comments from Jeff to be integrated by authors, Submitted on March 15, 2026. 
+   **Status:** Finished WGLC March 2026. Final comments from Jeff to be integrated by authors, Submitted on March 15, 2026.
+
+2. * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
+  **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**) 
 ------
 
 ## Submitted to ISE
@@ -32,8 +35,6 @@
 
 ### WGLC - Waiting for Shepherd Write-up
 
-* [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-  **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), SECDIR-acked, Needs -08 with IANA nit
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission. 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
@@ -54,7 +55,7 @@
 ### WGLC
 1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
-   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21), 5 implementations, needs more comments on list. 
+   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended ), 5 implementations, needs more comments on list. 
 
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
