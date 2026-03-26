@@ -21,8 +21,12 @@
    **Shepherd**: Keyur Patel  
    **Status:** Finished WGLC March 2026. Final comments from Jeff to be integrated by authors, Submitted on March 15, 2026.
 
-2. * [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-  **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**) 
+2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
+  **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**)
+
+3. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
+   **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025),  Shepherd review on changes (3/25/2026), 
+   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
 ## Submitted to ISE
@@ -55,7 +59,6 @@
 1. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares
    **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended ), 5 implementations, needs more comments on list. 
-
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel
    **Status:** -08 WG LC (Feb-07-2026 to Feb-21-2026, Extended 3/15 to 3/29) 5 implementations
@@ -64,7 +67,7 @@
    **Status:** Last call *2-16 March, 2026*, WGLC Extension *16-30** in tandem with BESS EBGP DMZ
 4. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
-   **Status:** Last call *2-16 March, 2026* in tandem with RFC4360-bis 
+   **Status:** Last call *2-16 March, 2026, Extended to 3/30* in tandem with RFC4360-bis 
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
@@ -75,7 +78,6 @@
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
    **Status:** -07 complete., **IPR call completed", Needs -08 with Cross-Group Section 
-
 ------
 
 ### WGLC Pending Queue
