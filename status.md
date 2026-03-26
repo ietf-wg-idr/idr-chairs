@@ -34,12 +34,11 @@
 ## Working Group Last Calls
 
 ### WGLC - Waiting for Shepherd Write-up
-
 * [draft-ietf-idr-bgp-model-19](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission. 
+  **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission, and BBF liaison 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-  **Status:** Working with Alvaro, Ketan, Linda, Sue to resolve **(ETA: IETF-125 confirmation with Alvaro)**  
+  **Status:** Created version -27 at IETF, Reviewing **(ETA: 4/10/2026)**  
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
   **Status:** Will work through issues with authors + Spring Chairs (needs addressing with SPRING during IETF-125) 
@@ -48,7 +47,7 @@
     **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report
 * [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares
-   **Status:** Closed WG LC with Consensus, Needs -02 with Nits address, Shepherd review (3/15/2026)  
+   **Status:** Closed WG LC with Consensus, **Needs -02** with Nits address, Shepherd review on changes (3/25/2026), 
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
@@ -75,7 +74,7 @@
 ### WGLC in Process (IPR call done, then paused)  
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **IPR call completed", On hold until Spring Checks and IETF-125 discussions occur.
+   **Status:** -07 complete., **IPR call completed", Needs -08 with Cross-Group Section 
 
 ------
 
