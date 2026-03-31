@@ -49,10 +49,6 @@
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
     **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report
-* [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
-   **Shepherd:** Susan Hares
-   **Status:** Closed WG LC with Consensus, **Needs -02** with Nits address, Shepherd review on changes (3/25/2026), 
-   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR
 ------
 
 ### WGLC
