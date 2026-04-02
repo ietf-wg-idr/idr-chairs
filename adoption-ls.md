@@ -7,7 +7,7 @@
 
 2. [draft-chen-idr-bgp-ls-algo-related-adjacency-sid](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-algo-related-adjacency-sid/) -  [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-algo-related-adjacency-sid) - *Needs -05* prior to adoption (must include cross-wg addition) 
 
-3. [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability) - *Needs -04* prior to adoption.
+3. [draft-chen-idr-bgp-ls-security-capability](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-security-capability/) - [(-03)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-security-capability) - *Needs -04* prior to adoption. Needs cross-WG section prior to adoption. 
 
 4. [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-03](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **Needs -04** - needs cross-WG section prior to adoption 
 
@@ -21,7 +21,7 @@
 
 9. [draft-liu-idr-bgpls-sr-p2mp-policy-distribution](https://datatracker.ietf.org/doc/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - [(-03) to -(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgpls-sr-p2mp-policy-distribution/) - **check if authors still interested**, needs Cross-WG section prior to adoption 
 
-10. [draft-liu-idr-bgp-ls-srp-flexible-path-selection](https://datatracker.ietf.org/doc/draft-liu-idr-bgp-ls-srp-flexible-path-selection/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgp-ls-srp-flexible-path-selection) - *Needs -02*
+10. [draft-liu-idr-bgp-ls-srp-flexible-path-selection](https://datatracker.ietf.org/doc/draft-liu-idr-bgp-ls-srp-flexible-path-selection/) - [(-00) to (-01)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-liu-idr-bgp-ls-srp-flexible-path-selection) - *Needs -02*, needs cross WG adoption. 
 
 11. [draft-ls-idr-bgp-ls-service-metadata-08](https://datatracker.ietf.org/doc/draft-ls-idr-bgp-ls-service-metadata/) - **Needs post-IETF-125 discussion** with other CAT-related IDR drafts.
 
