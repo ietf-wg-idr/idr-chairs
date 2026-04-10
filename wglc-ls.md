@@ -4,11 +4,11 @@
 
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)  
    **Shepherd:** Susan Hares  
-   **Status:** *Reviewing-21*, IDR Chairs still reviewing (Sue Hares, Jie Dong, Keyur Patel), Ketan's co-author feedback aided getting to -21. 
+   **Status:** *Waiting IDR Chairs review*, -23.txt has improved text.  Seems to be ready.   
 
 2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
    **Shepherd:** Susan Hares  
-   **Status:** *Waiting -03* (see [shepherd report](https://mailarchive.ietf.org/arch/msg/idr/Wp6D9etd80-f1No93TTT0l5cV4I/), almost ready. 
+   **Status:** *Needs -03* (see [shepherd report](https://mailarchive.ietf.org/arch/msg/idr/Wp6D9etd80-f1No93TTT0l5cV4I/), Needs changes and Cross-WG section. 
 
 3. [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/)  
    **Shepherd:** Susan Hares  
