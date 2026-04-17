@@ -19,17 +19,16 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
    **Shepherd**: Keyur Patel  
-   **Status:** Finished WGLC March 2026. Submitted on March 15, 2026. IETF LC ends 4/13. 
+   **Status:** Finished WGLC March 2026. Submitted on March 15, 2026. IETF LC ends 4/13, IESG review (4/30). 
 
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
   **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**),
     **needs -09** to address AD's comments(https://mailarchive.ietf.org/arch/msg/idr/b_9FIqI2hX8qiFbPB3TX3wD8yh4/)
 
 4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
-   **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025),  Shepherd review on changes (3/25/2026), 
+   **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
-    **Needs -03** to address AD comments 
-    [AD Review](https://mailarchive.ietf.org/arch/msg/idr/jFJa5O1Fep3XPQtTF-kkdFMXG_I/
+    **Waiting on AD** 03 released: to address [AD Review](https://mailarchive.ietf.org/arch/msg/idr/jFJa5O1Fep3XPQtTF-kkdFMXG_I/
 ------
 
 ## Submitted to ISE
@@ -44,16 +43,17 @@
   **Status:** Jeff revised, IDR chairs review post revision (20), then IESG submission, and BBF liaison 
 * [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-  **Status:** Created version -27 at IETF, Ready for Keyur's review (4/9/2010). **(ETA: 4/10/2026)**  
+  **Status:** Created version -27 at IETF, Ready for Keyur's review (4/9/2010). **Review ETA (4/17)**  
 * [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
-  **Status:** Will work through issues with authors + Spring Chairs (needs addressing with SPRING during IETF-125) 
+  **Status:** Will work through issues with authors + Spring Chairs (in progress (ETA): 4/24) 
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
     **Status:** (**WGLC 11 December to 16 January**, **Consensus 28 January**),Jie Dong writing up shepherd report
 * [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
-   **Status:** -05 WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, 
+   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations,
+    **Needs -07** to address AD's comment. 
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel, WG LC closed on 3/20. 
 ------
@@ -74,8 +74,8 @@
 ### WGLC in Process (IPR call done, then paused)  
 1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
    **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **IPR call completed", Needs -08 with Cross-Group Section 
-------
+   **Status:** -07 complete., **IPR call completed", Needs -08 with Cross-Group Section + Spring Check. 
+ 
 
 ### WGLC Pending Queue
 
