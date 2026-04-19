@@ -4,7 +4,7 @@
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
     Status: Continue to monitor transition to RFC editor 
-   
+
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
     Status: WG consenus, OK Directorate Reviews: Security (done) and RTG-DIR, Need addition to IANA. (ETA: 3/16) 
 
@@ -14,7 +14,8 @@
    Actions: Awaiting -03 to start WG LC 
 
 6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)  
-   Status: Shepherd's review completed (10/20/2025). Multiple implementation reports.  Finished WGLC March 2026 with few responses.
+   Status: Shepherd's review completed (10/20/2025). Multiple implementation reports.  Jeff responding to directorate feedback. Waiting on Security directorate response.  
+   Finished WGLC **March 2026** with few responses.
    
 7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
     Status: -07 ready for WG LC, need to gert 
@@ -42,7 +43,7 @@
 
 16.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
     Work with Jeff to spin the IETF wiki from the github text. 
-   
+
 17. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR [1/15]   
 
  ### Jeff:
@@ -50,34 +51,32 @@
 1. [draft-ietf-idr-bgp-bfd-strict-mode](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/)
    Shepherd: Keyur
    Depends on draft-ietf-idr-bgp-fsm-iana
-   Target completion by **IETF-125**
-
+   Target completion by **IETF-126**
 1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
-   Target completion by **IETF-125**
-
+   Target completion by **IETF-126**
+1. FSv2 edits (Need 2nd revision with Sue [**August 2026**]):  
+   * Update NLRI format
+   * Do editorial pass through basic document.
+   * Issues related to FSv1  actions – so can decide on WG LC and FSv2 adoption .
 1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset) 
    Target WGLC by **IETF-126**
    Shepherd: Sue 
 1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
-
 1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/) 
    Shepherd: Keyur
    Target completion by **IETF-126**
-
 1. [draft-ietf-idr-registered-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/) 
    Shepherd: Keyur
    Depends on draft-ietf-idr-wide-bgp-communities
-   Target completion by **IETF-126**
-
-1. FSv2 issues related to FSv1 actions – so can decide on WG LC and FSv2 adoption  - Need 2nd revision with Sue [August]
+   Target completion by **IETF-126
 
 
 ------
 
 ### Keyur:
 
-* draft-ietf-idr-rfc4360-bis - **17 October, 2025** Initiate WGLC.
-* draft-ietf-idr-linklocal-capability – review draft prior to WG LC
+* [draft-ietf-idr-rfc4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/) - [WGLC closed](https://mailarchive.ietf.org/arch/msg/idr/Te1eqVUDAhk5jEjAacAbqh_O1gc/) **17 April, 2026**.  
+  Last edits trickling in from Nat Kao. *Next action*, update shepherd report, submit to IESG.
 * Does Arrcus have implementations of the following FSV1 drafts (to check with Derrick):
   * draft-ietf-idr-flowspec-path-redirect - **17 October, 2025** not supported?
   * draft-ietf0-idr-srv6-flowspec-path-redirect-11  
@@ -86,8 +85,9 @@
 
  ### Jie Dong:
 
-* Review of draft-ietf-idr-bgpls-sr-vtn-mt-11 (as author) –  Work with Ketan on revision 
-* draft-ietf-idr-ts-flowspec-srv6-policy-05 (as reviewer) – Sue requests you review this draft 
-* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - Consensus 28 Jan, needs writeup.
+* Review of [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)-11 (as author) –  Work with Ketan on revision 
+* [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)-05 (as reviewer) – Sue requests you review this draft 
+* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - Shepherd report complete. Authors have resolved nits. Submit to IESG. (**19 April, 2026**)
 * Take shepherd work for two of the bgp-ls documents for September.
+* Start WG last call for draft-ietf-idr-linklocal-capability (target **20 April, 2026**)
 

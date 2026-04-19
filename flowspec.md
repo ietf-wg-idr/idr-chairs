@@ -11,8 +11,8 @@ Steps for Flow specification are:
 7. Adoption call for drafts dependent on draft-hares-idr-fsv2-more-ip-filters and draft-hares-idr-fsv2-more-ip-actions
 
 ### 1. WG LC FSv1 - Sent to IESG once 
-* [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/) 
-  Shepherd:Sue Hares, WG LC: 2/7/2026-2/21/2026, [4 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
+* [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)  
+  **Shepherd:** Sue Hares, WG LC: 2/7/2026-2/21/2026, [4 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/), WG LC: 2/9 to 2/23 (change to Standards) [5 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
 
 ### 2. Decide on Direction for FSv1 and FSv2 (IETF 125 (?))
