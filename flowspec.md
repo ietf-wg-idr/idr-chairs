@@ -1,26 +1,28 @@
 # Flowspec Work List
 Work largely pending sufficient completion of FSv2 core drafts so these can proceed.
 Steps for Flow specification are: 
-1. WG LC - FSv1 sent to IESG once
-2. Decide with WG on Direction for FSv1 and FSv2 actions (IETF 125 (?))
-3. Re-classify action drafts as FSv1 (if deployed) or FSv2 actions (with additional rules)
-4. Do adoption call for drafts based on draft-ietf-idr-fsv2-ip-basic 
-5. Adoption call for draft-hares-idr-fsv2-more-ip-filters
-6a. WG LC for drafts depended on draft-ietf-idr-fsv2-more-ip-filters
-6b. Adoption calls for drafts dependent on draft-ietf-idr-fsv2-more-ip-filters
-7. Adoption call for drafts dependent on draft-hares-idr-fsv2-more-ip-filters and draft-hares-idr-fsv2-more-ip-actions
+1. WG LC and Publish FSv1 Extended Community drafts with actions
+2. Revise the draft-ietf-idr-fsv2-ip-basic - with format changes and Discuss on May 11th at Interm. 
+3. Do adoption call for drafts based on draft-ietf-idr-fsv2-ip-basic - Extended Community + Filters 
+5. Do Adoption call for draft-hares-idr-fsv2-more-ip-filters - if needed 
+6. Do WG LC for drafts depended on draft-ietf-idr-fsv2-more-ip-filters
+7. Do WG Adoption calls for drafts dependent on draft-ietf-idr-fsv2-more-ip-filters
+7. Do Adoption call for draf. 
 
-### 1. WG LC FSv1 - Sent to IESG once 
+## 1. Publish FSv1 Extended Communities for Aciton 
+##1-a) documents at IESG  
 * [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)  
   **Shepherd:** Sue Hares, WG LC: 2/7/2026-2/21/2026, [4 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/), WG LC: 2/9 to 2/23 (change to Standards) [5 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
-
-### 2. Decide on Direction for FSv1 and FSv2 (IETF 125 (?))
-
-### 3  FSv1 Actions - Re-classification on existing actions (FSv1 or FSv2) 
-#### Shepherd's comments see [wiki](https://wiki.ietf.org/group/idr/Shepherd-FSv2) - status pending 
+  **Shepherd:** Keyur Patel
+  
+### 2. Pending WG LC 
 * [draft-ietf-idr-flowspec-path-redirect-12](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-path-redirect-12.txt) [1 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
+**Shepherd:** Sue Hares, Needs-13 with updates.
+ 
 * [draft-ietf-idr-flowspec-interfaceset-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  [2 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
+
+### 3  
 
 ### 4. FSv2 Pending Adoption  (based on draft-ietf-idr-fsv2-ip-basic) 
 #### See Shepherd's review on [wiki](https://wiki.ietf.org/group/idr/Shepherd-FSv2) - status pending 
