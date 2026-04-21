@@ -29,6 +29,10 @@
    **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
     **Waiting on AD** 03 released: to address [AD Review](https://mailarchive.ietf.org/arch/msg/idr/jFJa5O1Fep3XPQtTF-kkdFMXG_I/
+   
+5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
+   **Shepherd:** Susan Hares. 
+   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, **In AD Review** 
 ------
 
 ## Submitted to ISE
@@ -49,12 +53,7 @@
   **Status:** Will work through issues with authors + Spring Chairs (in progress (ETA): 4/24) 
 * [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
-    **Status:** Jie has updated shepherd report. **17 April, 2026**, Jeffrey Zhang has addressed last of nits. Waiting on Jie to submit to IESG. 
-* [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
-   **Shepherd:** Susan Hares. 
-   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations,
-    **Needs -07** to address AD's comment.  
-   **19 April, 2026** Jeff has responded to ops and rtg directorate comments.
+    **Status:** Jie has updated shepherd report. **17 April, 2026**, Jeffrey Zhang has addressed last of nits. Waiting on Jie to submit to IESG.  
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel, WG LC closed on 3/20. 
 ------
