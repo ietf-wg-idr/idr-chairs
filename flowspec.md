@@ -18,7 +18,7 @@ Steps for Flow specification are:
   
 ### 1-b) Document WG LC Pending   
 * [draft-ietf-idr-flowspec-path-redirect-12](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-path-redirect-12.txt) [1 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
-**Shepherd:** Sue Hares, Needs-13 with updates.
+**Shepherd:** Sue Hares, Needs-13 with updates, Need 2 more implementation reports  
   
 * [draft-ietf-idr-flowspec-interfaceset-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  [2 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
   **Shepherd:** Sue Hares,
