@@ -1,1 +1,12 @@
 ## Working Group Drafts for BGP-LS 
+BGP-LS WG drafts - Need revision (see Shepherd Reviews in Wiki) - full review as of 6 January, 2026
+draft-ietf-idr-bgp-ls-bgp-only-fabric - Needs -05. Early allocation with -04 OK, Authors plan revision.
+draft-ietf-idr-bgpls-inter-as-topology - Needs -19 with Security section updage, on track for WGLC (5 January, 2026).
+draft-ietf-idr-bgp-ls-isis-flood-reflection - Needs -05 draft expired.
+draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle - Needs -01 to address issues, 2 implementations.
+draft-ietf-idr-bgp-ls-link-mtu - Needs -11 with correct registry name.
+draft-ietf-idr-bgp-ls-sr-policy-nrp Needs -03 - to start WGLC.
+draft-ietf-idr-bgp-ls-sr-policy-path-segment - Needs Ok for linked SR draft.
+draft-ietf-idr-bgp-ls-sr-service-segments - Needs -03, draft expired, authors queried.
+draft-ietf-idr-bgp-ls-te-path - Needs 03, draft expired. Per Ketan, draft work is suspended.
+draft-ietf-idr-ls-trill/ - (-05) needs update to version -05, draft expired.
