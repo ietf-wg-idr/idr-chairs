@@ -4,7 +4,7 @@
 
 1. [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/)  
    **Shepherd:** Susan Hares  
-   **Status**: *Waiting on -02*, 2 implementations.
+   **Status**: *Need -03 with Cross-WG section*, 2 implementations,  
 
 1. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
    **Shepherd:** Susan Hares  
