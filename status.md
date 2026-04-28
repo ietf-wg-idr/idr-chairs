@@ -28,11 +28,11 @@
 4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
-    **Waiting on AD** 03 released: to address [AD Review](https://mailarchive.ietf.org/arch/msg/idr/jFJa5O1Fep3XPQtTF-kkdFMXG_I/
+    **1 week WG LC on changes (4/24 to 5/1) on -04** 04 addresses [AD Review](https://mailarchive.ietf.org/arch/msg/idr/jFJa5O1Fep3XPQtTF-kkdFMXG_I/
    
 5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
-   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, **In AD Review** 
+   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, **IETF LC**  
 ------
 
 ## Submitted to ISE
