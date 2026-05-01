@@ -32,7 +32,7 @@
    
 5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
-   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, **IETF LC**  
+   **Status:**WG LC (Feb-07-2026 to Feb-21-2026), 1 WG LC (3/14 to 3/21, extended, closed 4/16 ), 5 implementations, **WG LC on changes (4/24 to 5/1)*** enters into IETF LC 
 ------
 
 ## Submitted to ISE
@@ -65,6 +65,9 @@
 2. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
    **Status:** Concluded **31 March, 2026**. Waiting on BESS chairs to submit to IESG.
+3. [draft-ietf-idr-bgpls-inter-as-topology-ext-28](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
+   **Shepherd:** Susan Hares
+   **Status:** WG LC (April 20 to May 4, 2026). 
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
