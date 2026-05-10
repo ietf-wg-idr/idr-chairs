@@ -19,7 +19,7 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
    **Shepherd**: Keyur Patel  
-   **Status:** Finished WGLC March 2026. Submitted on March 15, 2026. IETF LC ends 4/13, IESG review (4/30). 
+   **Status:** Finished WGLC March 2026. Submitted on March 15, 2026. IETF LC ends 4/13, IESG review (4/30, 3 discusses must be resolved). 
 
 2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
     **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**),
@@ -32,7 +32,7 @@
    
 5. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
-   **Status:**WG LC** (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16),        **In IETF LC (4/27 to 5/11)**, 5 implementations 
+   **Status:**WG LC** (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), **In IETF LC (4/27 to 5/11)**, 5 implementations 
 ------
 
 ## Submitted to ISE
@@ -67,18 +67,15 @@
    **Status:** Concluded **31 March, 2026**. Waiting on BESS chairs to submit to IESG.
 3. [draft-ietf-idr-bgpls-inter-as-topology-ext-28](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
    **Shepherd:** Susan Hares
-   **Status:** WG LC (April 20 to May 4, 2026). 
+   **Status:** WG LC (April 20 to May 4, 2026), Needs "resolution of text with authors"
+4.  [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
+   **Shepherd:** Susan Hares  
+   **Status:** -09 has cross-WG list.  Sent to Spring, PCE, and IDR.  [
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
   **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
-  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues for authors to address. 
-
-### WGLC in Process (IPR call done, then paused)  
-1. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/),  
-   **Shepherd:** Susan Hares  
-   **Status:** -07 complete., **IPR call completed", Needs -08 with Cross-Group Section + Spring Check. 
-
+  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues for authors to address. [shepherd review]
 
 ### WGLC Pending Queue
 
@@ -106,7 +103,6 @@
 ------
 
 ### CATs related
-
 * draft-li-idr-cats-bgp-extension
 
 ------
