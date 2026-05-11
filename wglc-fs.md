@@ -2,7 +2,7 @@
 
 1. [draft-ietf-idr-flowspec-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-srv6/)-08  
    **Shepherd:** Sue Hares  
-   **Status:** Pending adoption of draft-hares-idr-fsv2-more-ip-filters.
+   **Status:** Pending review of draft-ietf-fsv2-ip-basic-06 and assignment of filter families. 
    
 3.   [draft-ietf-idr-flowspec-path-redirect](datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-resdirect)
    **Shepherd:** Sue Hares
