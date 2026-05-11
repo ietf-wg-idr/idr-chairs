@@ -5,7 +5,7 @@
    **Shepherd:** Susan Hares
    **Status**: Needs -05 (expired), Check with authors.
   
-4.  draft-ietf-idr-bgp-ls-link-mtu - Needs -12 with correct registry name.
+4.  [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu)
    **Shepherd:** Susan Hares
    **status:** Needs -12 with correct registry name. 
   
