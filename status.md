@@ -34,7 +34,7 @@
    **Shepherd:** Susan Hares. 
    **Status:**WG LC** (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), **In IETF LC (4/27 to 5/11)**, 5 implementations
   
-6. * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+6. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
    **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. 
 ------
 
