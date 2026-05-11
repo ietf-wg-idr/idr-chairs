@@ -4,7 +4,7 @@
 
 1. [draft-ietf-idr-sr-epe-over-l2bundle](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-epe-over-l2bundle/)  
    **Shepherd:** Susan Hares  
-   **Status**: *Need -03 with Cross-WG section*, 2 implementations,
+   **Status**: -02 is ready for WG LC. Shepherd asked 2 clarifying question
 
 2. [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp/)  
    **Shepherd:** Susan Hares  
