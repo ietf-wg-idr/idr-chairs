@@ -6,7 +6,7 @@
    **Plan**: All Chairs review and discuss in IDR Chairs meeting, then review with CATS chairs prior to WGLC.
 2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong
-   **Status:** Needs all Shepherd review (Keyur done, Awaiting Sue, Jie, Jeff) [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability) 
+   **Status:** **WG LC** May 13 to May 27,  [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability) 
 3. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
    **Shepherd:** Susan Hares  
    **Status:** *Needs -13* (Jeff Haas, Author) 
