@@ -1,4 +1,4 @@
-# WGLC Pending for Core BGP + FSv1
+# WGLC Pending for Core BGP
 
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
    **Shepherd:** All Chairs  
