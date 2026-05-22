@@ -116,12 +116,13 @@
 * [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
 * [draft-ietf-idr-bgp-generic-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-generic-metric/)
   This work depends on the nexthop dependent capabilities work that is being split from the current entropy label document.
-* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - in early allocation call 
+* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - failed early allocation call (2/9 - 2/16/2026) 
+  **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
+  **status:** Significant issues for authors to address. [shepherd review], Needs BGPDIR 
 
 ------
 
 ## Chair Chartered Work
-
 * [draft-ietf-idr-bgp4-rfc4271bis](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp4-rfc4271bis/)
   Adopted **October 2025**  
   Github Repository: https://github.com/ietf-wg-idr/RFC4271bis  
@@ -141,17 +142,20 @@
 #### Early Allocations for Core BGP (Shepherd: IDR Chairs as noted) 
 * [draft-ietf-idr-dynamic-cap] - Requesting early allocation for BGP Message Code point [6], New BGP Error code, Request sub-registry (early allocation) [Shepherd: IDR Chairs] 
 
-#### Early Allocation for BGP-SR (Shepherd: Sue) 
+#### Early Allocation for BGP-LS (Shepherd: Sue) 
+* [draft-ietf-idr-bgp-ls-link-mtu-12.txt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - **Needs OK from ketan on -12**
+
+#### Early Allocation for BGP SR-TE  (Shepherd: Sue) 
+* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-03 [Segment types L to O] - Sending to IDR and Spring (5/22 to 6/5) for 2 week call. Spring/DIR 
+  
+* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-04 [Metric]: Call Spring/IDR (5/22-6/5)
+**Status:** *Needs -04* to fix technical issues (registry name, update to RFC9830, security section should describe metrics as critical data.  Critical data needs careful handling during deployment to keep information secure. - sending on 5/22 for 2 week call Spring/IDR
+
+* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)-14 [PATH MTU] - Call to Spring (5/22-6/5)
+### Early Allcation for SR-TE held for Ketan's review 
 * [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – **Pending on -15**, Problem: Reverse Path Segment has 2 bytes in length. Also needs the name of the registry changed to: SR Policy Segment List Sub-TLVs.
 
-* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)-04   [metric] – *Needs -04* to fix technical issues (registry name, update to RFC9830, security section should describe metrics as critical data.  Critical data needs careful handling during deployment to keep information secure.)
-
-* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)-10 [PATH MTU] – *Needs -13* for early allocation call
-
-* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/)-03 [Segment types L to O] - *Needs -04* with correct registry name.
-
 ### Renew Early Allocations
-
 * Wide community allocations:
   Ketan has asked that the allocation not be renewed as it will be done as part of publication. **28 July, 2025**
 ------
