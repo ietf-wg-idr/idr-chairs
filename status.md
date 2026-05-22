@@ -73,6 +73,9 @@
 3. [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle-02](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/)
    **Shepherd:** Susan Hares
    **Status:**  -09 has cross-WG list.  Sent to Spring, PCE, and IDR.  WG LC: 5/10/2026 to 5/31/2026.
+4. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
+   **Shepherd:** Jie Dong
+   **Status:** **WG LC** May 13 to May 27,  [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability) 
 
 ### WGLC on early allocation
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
