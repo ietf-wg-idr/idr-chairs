@@ -16,3 +16,5 @@
 5. [draft-decraene-idr-nlri-error-handling-01](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requested on **4 November, 2025** (IETF-124)
 6. [draft-chen-idr-enhanced-dynamic-cap-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requestesd on **4 November, 2025** (IETF-124)
 7. [draft-xu-idr-fare-04](https://datatracker.ietf.org/doc/draft-xu-idr-fare/) - requested at IETF-125 - 
+8. [draft-li-idr-savnet-intra-domain-bgp-01](https://datatracker.ietf.org/doc/draft-li-idr-savnet-intra-domain-bgp/) - requested at IETF 125
+9. [draft-li-idr-ipv6-bgp-identifier-00](https://datatracker.ietf.org/doc/draft-li-idr-ipv6-bgp-identifier/) - IETF-125 
