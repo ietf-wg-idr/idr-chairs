@@ -1,6 +1,6 @@
 # WGLC Pending for Segment Routing Drafts
 
-## WGLC for SR drafts pending Shepherd Review
+## WGLC for SR TE drafts pending Shepherd Review
 
 1. [draft-ietf-idr-sr-bgp-sr-mpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-bgp-sr-mpls-elp)  
    **Shepherd:** Susan Hares  
