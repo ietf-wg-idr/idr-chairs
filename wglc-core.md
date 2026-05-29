@@ -3,7 +3,6 @@
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
    **Shepherd:** All Chairs  
    **Status:** Requested by Linda Dunbar **21 July, 2025**, BGPD, [2 implementations]  (https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
-  
 2. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
    **Shepherd:** Susan Hares  
    **Status:** *Needs -13* (Jeff Haas, Author) 
@@ -19,6 +18,9 @@
 6. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
    **Shepherd:** Susan Hares  
    **Status:** *Needs revision -16.*
+7. draft-ietf-idr-next-next-hop-nodes
+   **Shepherd:** Susan Hares
+    **status:** requested 5/29/2026.  In shepherd review 
 
 ### General WG Drafts needing to be advanced
 * [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
