@@ -3,7 +3,7 @@
 1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
    [Shepherd: Sue Hares]: ETA: 6/1/2026 - waiting for revised draft.
 2. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)
-   [Shepherd: Sue Hares]: Adoption call on -04 txt.
+   [Shepherd: Sue Hares]: **Adoption call:** 5/29/2026 to 6/12/2026. 
 3. [draft-litowski-idr-rtc-interas-03](https://datatracker.ietf.org/doc/draft-litowski-idr-rtc-interas/)
    [Shepherd: Sue Hares]: Requested on **4 November, 2025**, WG adoption call on -04.  5/29/2026 to 6/12/2026. 
 
