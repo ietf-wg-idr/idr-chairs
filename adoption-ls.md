@@ -29,8 +29,3 @@
 13. [draft-tong-idr-bgp-ls-savnet](https://datatracker.ietf.org/doc/draft-tong-idr-bgp-ls-savnet/)  [(-00)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-tong-idr-bgp-ls-savenet) - **pending review of -00**, needs cross-WG adoption 
 
 14. [draft-wu-idr-bgp-segment-allocation-ext](https://datatracker.ietf.org/doc/draft-wu-idr-bgp-segment-allocation-ext/) - [(-14)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-wu-idr-bgp-segment-allocation-ext) -  *Needs -15* with updated references and text.
-
-- [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments) - *Needs -03*, draft expired, authors queried.
-
-* [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)  - *Needs 03*, draft expired. Per Ketan, [draft work is suspended](https://mailarchive.ietf.org/arch/msg/idr/7fNDdNazooILARuMJQOnDOCIr3k/).
-* [draft-ietf-idr-ls-trill/](https://datatracker.ietf.org/doc/draft-ietf-idr-ls-trill) - (-05) needs update to version -05, draft expired.
