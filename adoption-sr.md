@@ -1,14 +1,14 @@
-# BGP Segment Routing Pending Adoptions
+## BGP Segment Routing Pending Adoptions
 
-## Pending BGP SR adoptions That modify BGP Prefix Attribute (SR-BGP but not in Tunnel Encapsulation/NLRI style)
+### Pending BGP SR adoptions That modify BGP Prefix Attribute (SR-BGP but not in Tunnel Encapsulation/NLRI style)
 
 1. [draft-sa-idr-bgp-srv6-mpls-transport-iw-00](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw) - **Needs -03** with cross-WG section. 
    **Shepherd:** Susan Hares
 
 ------
 
-## Pending SR TE (BGP SR with Tunnel Encapsulation [RFC9012])
-# Awaiting draft changes (Shepherd: Susan Hares) - January 6, adoption review still in progress
+### Pending SR TE (BGP SR with Tunnel Encapsulation [RFC9012])
+#### Awaiting draft changes (Shepherd: Susan Hares) - January 6, adoption review still in progress
 
 1. [draft-chen-idr-bgp-sr-policy-cp-validity-04](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-sr-policy-cp-validity/) - [(-02) to (-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-SR/draft-chen-idr-bgp-sr-policy-cp-validity) - *Needs -04* to resolve issues, and add cross WG section. 
 
