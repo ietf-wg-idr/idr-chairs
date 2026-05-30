@@ -19,6 +19,6 @@
 7.  [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
     **Shepherd:** Susan Hares
      **status:** Needs -03, draft expired, authors queried.
-8. [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path_
+8.  [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)
     **Shepherd:** Susan Hares
     **Status:** Needs 03, draft expired. Per Ketan, draft work is suspended.
