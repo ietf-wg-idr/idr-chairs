@@ -18,7 +18,7 @@
 6. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
    **Shepherd:** Susan Hares  
    **Status:** *Needs revision -16.*
-7. draft-ietf-idr-next-next-hop-nodes
+7. [draft-ietf-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-ietf-idr-next-next-hop-nodes) 
    **Shepherd:** Susan Hares
     **status:** requested 5/29/2026.  In shepherd review
 
