@@ -5,7 +5,8 @@
 2. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)
    [Shepherd: Sue Hares]: **Adoption call:** 6/2/2026 to 6/16/2026 
 3. [draft-litowski-idr-rtc-interas-03](https://datatracker.ietf.org/doc/draft-litowski-idr-rtc-interas/)
-   [Shepherd: Sue Hares]: Requested on **4 November, 2025**, **Adoption**: 6/2/2026 to 6/16/2026. 
+   [Shepherd: Sue Hares]: Requested on **4 November, 2025**, **Adoption**: 6/2/2026 to 6/16/2026.
+   Adoption needs discuss other RTC drafts:  draft-ietf-idr-rtc-hierarchical-rr-04, and draft-ietf-idr-legacy-rtc-11
 
 ## Pending Adoption requests: 
 1. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman on **24 June, 2025**  
