@@ -1,11 +1,11 @@
 # Adoption Requests, general BGP features
 
 1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
-   [Shepherd: Sue Hares]: ETA: 6/1/2026 - waiting for revised draft.
+   [Shepherd: Sue Hares]: **Adoption call:** 6/2/2026 to 6/16/2026  
 2. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)
-   [Shepherd: Sue Hares]: **Adoption call:** 5/29/2026 to 6/12/2026. 
+   [Shepherd: Sue Hares]: **Adoption call:** 6/2/2026 to 6/16/2026 
 3. [draft-litowski-idr-rtc-interas-03](https://datatracker.ietf.org/doc/draft-litowski-idr-rtc-interas/)
-   [Shepherd: Sue Hares]: Requested on **4 November, 2025**, WG adoption call on -04.  5/29/2026 to 6/12/2026. 
+   [Shepherd: Sue Hares]: Requested on **4 November, 2025**, **Adoption**: 6/2/2026 to 6/16/2026. 
 
 ## Pending Adoption requests: 
 1. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman on **24 June, 2025**  
