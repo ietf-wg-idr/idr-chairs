@@ -20,7 +20,13 @@
    **Status:** *Needs revision -16.*
 7. draft-ietf-idr-next-next-hop-nodes
    **Shepherd:** Susan Hares
-    **status:** requested 5/29/2026.  In shepherd review 
+    **status:** requested 5/29/2026.  In shepherd review
+
+### WG Drafts with implementations that need to be advanced 
+1. [draft-ietf-idr-rtc-no-rt-12](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-no-rt/)
+**Shepherd:** Susan Hares **Needs Update** - implementations: Cisco, Juniper, FRR, BIRD
+2. [draft-ietf-idr-custom-decision-08]
+   **Shepherd:** Susan Hares **Needs Update** - implementations: Cisco, Juniper, FRR, BIRD
 
 ### General WG Drafts needing to be advanced
 * [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
