@@ -12,7 +12,10 @@
   **Shepherd:** Jeff Haas
 * [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
-   **Status:**RFC Editor* (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), 5 implementations, **IESG Ok: 5/27/2026 * 
+   **Status:**RFC Editor* (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), 5 implementations, **IESG Ok: 5/27/2026 *
+* [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
+   **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),**WG LC on changes for-04  (4/24 to 5/1)**, **IESG Review of -05:** June-04-2026, IESG OK: June-06-2026
+   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
 ------
 
 ## At IESG, Revised ID needed
@@ -21,16 +24,12 @@
    **Status:** Finished WGLC March 2026. Submitted on March 15, 2026. IETF LC ends 4/13, IESG review (4/30, 3 discusses must be resolved).
 2. [draft-ietf-idr-rfc4360bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur Patel  
-   **Status:** WG LC *2-30 March, 2026*, **Needs revision to address AD's Comments**  
+   **Status:** WG LC *2-30 March, 2026*, **still bocked by Roman** 
 ------
 ## Submitted to IESG
 1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
     **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**),
     IETF LC (6/1 to 6/15). 
-
-2. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
-   **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),**WG LC on changes for-04  (4/24 to 5/1)**, **IESG Review of -05:** June-04-2026
-   [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
 ------
 
 ## Submitted to ISE
@@ -51,7 +50,7 @@
   **Status:** Will work through issues with authors + Spring Chairs (in progress (ETA): 4/24) 
 4. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
-    **Status:** Jie has updated shepherd report. **17 April, 2026**, Joel Hapern oked changes. 
+    **Status:** Jie has updated shepherd report. **17 April, 2026**, Joel Hapern oked changes to God. https://datatracker.ietf.org/wg/idr/documents/ 
 5. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
    **Status:** Concluded **31 March, 2026**. Waiting on BESS chairs and one IPR check. 
