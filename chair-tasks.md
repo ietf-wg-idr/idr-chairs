@@ -50,9 +50,11 @@
 
 1. [draft-ietf-idr-bgp-bfd-strict-mode](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/)
    Shepherd: Keyur
-   Depends on draft-ietf-idr-bgp-fsm-iana
+   Depends on draft-ietf-idr-bgp-fsm-iana  
+   Out for review for Working Group Last Call  
    Target completion by **IETF-126**
 1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
+   Out for review for Working Group Last Call  
    Target completion by **IETF-126**
 1. FSv2 edits (Need 2nd revision with Sue [**August 2026**]):  
    * Update NLRI format
