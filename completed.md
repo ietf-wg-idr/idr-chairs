@@ -1,3 +1,21 @@
+# Completed since IETF 125
+
+## Submitted Drafts:
+
+* [draft-ietf-idr-sr-policy-nrp ](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
+  Sue submitted to IESG on **3 June, 2026.**
+* [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc)   
+  Sue submitted to IESG on **26 March, 2026**.  
+  RFC Editor has picked up the draft for editing in **June 2026.**
+* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04)  
+  Jie submitted to IESG on **16 June, 2026.**
+* [draft-ietf-idr-rfc4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
+  Keyur submitted to IESG on **18 May, 2026.**  
+  IETF Last call in progress on **12 June, 2026.**
+* [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt)  
+  Sue submitted to IESG on **4 June, 2025.**  
+  RFC Editor complete, blocked on MISSREF **20 May, 2026.**
+
 # Completed since IETF 124
 
 ## Published RFCs:
