@@ -1,12 +1,15 @@
 # Adoption Requests, general BGP features
 
 1. [draft-uttaro-idr-bgp-oad](https://datatracker.ietf.org/doc/draft-uttaro-idr-oad/)  
-   [Shepherd: Sue Hares]: **Adoption call:** 6/2/2026 to 6/16/2026  
+   **Shepherd:** Sue Hares  
+   **Adoption call:** **2-16 June, 2026**.  Enough interest to adopt, but still has *pending IPR statements* (**16 June, 2026**).  
 2. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)
-   [Shepherd: Sue Hares]: **Adoption call:** 6/2/2026 to 6/16/2026 
+   **Shepherd:** Sue Hares  
+   **Adoption call:** 6/2/2026 to 6/16/2026. *Adopted* **19 June, 2026**
 3. [draft-litowski-idr-rtc-interas-03](https://datatracker.ietf.org/doc/draft-litowski-idr-rtc-interas/)
    [Shepherd: Sue Hares]: Requested on **4 November, 2025**, **Adoption**: 6/2/2026 to 6/16/2026.
-   Adoption needs discuss other RTC drafts:  draft-ietf-idr-rtc-hierarchical-rr-04, and draft-ietf-idr-legacy-rtc-11
+   Adoption needs discuss other RTC drafts:  draft-ietf-idr-rtc-hierarchical-rr-04, and draft-ietf-idr-legacy-rtc-11.  
+   Low interest to adopt, however work is reasonable core work.  Chairs pondering options.  (**19 June, 2026.**)
 
 ## Pending Adoption requests: 
 1. [draft-smn-idr-inter-domain-ibgp](https://datatracker.ietf.org/doc/draft-smn-idr-inter-domain-ibgp/) - by Moshiko Nayman on **24 June, 2025**  
