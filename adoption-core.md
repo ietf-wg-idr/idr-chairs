@@ -21,6 +21,6 @@
 2. [draft-vroonen-idr-bgp-bestpath-nh-selection-00](https://datatracker.ietf.org/doc/draft-vroonen-idr-bgp-bestpath-nh-selection/) - Requested on **4 November, 2025** (IETF-124)
 3. [draft-decraene-idr-nlri-error-handling-01](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requested on **4 November, 2025** (IETF-124)
 4. [draft-chen-idr-enhanced-dynamic-cap-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling) - requestesd on **4 November, 2025** (IETF-124)
-5. [draft-xu-idr-fare-04](https://datatracker.ietf.org/doc/draft-xu-idr-fare/) - requested at IETF-125 - 
+5. [draft-xu-idr-fare-04](https://datatracker.ietf.org/doc/draft-xu-idr-fare/) - requested at IETF-125. *Blocked on pending IPR declaration related to draft-ietf-bess-ebgp-dmz* **19 June, 2026.** 
 6. [draft-li-idr-savnet-intra-domain-bgp-01](https://datatracker.ietf.org/doc/draft-li-idr-savnet-intra-domain-bgp/) - requested at IETF 125
 7. [draft-li-idr-ipv6-bgp-identifier-00](https://datatracker.ietf.org/doc/draft-li-idr-ipv6-bgp-identifier/) - IETF-125 
