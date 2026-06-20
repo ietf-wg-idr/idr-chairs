@@ -50,6 +50,7 @@
    * Issues related to FSv1  actions – so can decide on WG LC and FSv2 adoption .
 1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset)   
    **Shepherd**: Sue  
+   Two implementations available.  
    Target WGLC by **IETF-126**
 1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
 1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)**** 
