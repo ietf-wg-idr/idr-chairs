@@ -4,33 +4,19 @@
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
     Status: Continue to monitor transition to RFC editor 
-
-2. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)
-    Status: WG consenus, OK Directorate Reviews: Security (done) and RTG-DIR, Need addition to IANA. (ETA: 3/16) 
-
-4. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-hc) - WG LC completed March 2026. Needs submission to IESG.
-
-5. [draft-ietf-idr-bgp-ls-sr-policy-nrp-02](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-bgp-ls-nrp)
-   Actions: Awaiting -03 to start WG LC 
-
 6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)  
    Status: Shepherd's review completed (10/20/2025). Multiple implementation reports.  Jeff responding to directorate feedback. Waiting on Security directorate response.  
    Finished WGLC **March 2026** with few responses.
-   
 7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
     Status: -07 ready for WG LC, need to gert 
-    
 8. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Check on status of Early Allocations: holding alloation on 
-
-9. BGP Directorate Write-up to chairs
-
+5. BGP Directorate Write-up to chairs
 10. BGP SR Review WG drafts  [ETA: 1/6/2026] - Reports on wiki, with status and open issues page in IDR Github   
 11. BGP SR Pre-Adoption drasfts [ETA: 1/6/2026] - Reports on wiki, with status and open issues in IDR Github 
 12. BGP LS Review WG drafts [ETA: 1/6/2026] - reports on wiki 
 13. BGP LS REview WG adoption requests [ETA:1/6/2026] - reports on wiki 
-14. 4271bis review [ETA: 1/7/2026] 
-
+10. 4271bis review [ETA: 1/7/2026] 
 15. **SDWAN** – Working on with Alvaro and Linda [Main task 1/12 to 1/16] 
   * Step 1: Reformat all of the github on sdwan from Alvaro's changes + Linda's updates 
   * Step 2: Note where Alvaro disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
@@ -46,50 +32,52 @@
 
 17. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR [1/15]   
 
+------
+
  ### Jeff:
 
 1. [draft-ietf-idr-bgp-bfd-strict-mode](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode/)
-   Shepherd: Keyur
+   **Shepherd**: Keyur
    Depends on draft-ietf-idr-bgp-fsm-iana  
-   Out for review for Working Group Last Call  
+   Out for review for Working Group Last Call **June 2026**  
    Target completion by **IETF-126**
 1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
-   Out for review for Working Group Last Call  
+   Out for review for Working Group Last Call **June 2026** 
    Target completion by **IETF-126**
 1. FSv2 edits (Need 2nd revision with Sue [**August 2026**]):  
-   * Update NLRI format
-   * Do editorial pass through basic document.
+   * ~~Update NLRI format~~
+   * ~~Do editorial pass through basic document~~.
    * Issues related to FSv1  actions – so can decide on WG LC and FSv2 adoption .
-1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset) 
+1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset)   
+   **Shepherd**: Sue  
    Target WGLC by **IETF-126**
-   Shepherd: Sue 
 1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
-1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/) 
-   Shepherd: Keyur
+1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)**** 
+   **Shepherd**: Keyur
    Target completion by **IETF-126**
 1. [draft-ietf-idr-registered-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/) 
-   Shepherd: Keyur
+   **Shepherd**: Keyur
    Depends on draft-ietf-idr-wide-bgp-communities
    Target completion by **IETF-126
+1. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)  
+
+   Complete document and send for publication.  Target **IETF-127**.  
+   **Shepherd:** Sue Hares  
 
 
 ------
 
 ### Keyur:
 
-* [draft-ietf-idr-rfc4360-bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/) - [WGLC closed](https://mailarchive.ietf.org/arch/msg/idr/Te1eqVUDAhk5jEjAacAbqh_O1gc/) **17 April, 2026**.  
-  Last edits trickling in from Nat Kao. *Next action*, update shepherd report, submit to IESG.
 * Does Arrcus have implementations of the following FSV1 drafts (to check with Derrick):
-  * draft-ietf-idr-flowspec-path-redirect - **17 October, 2025** not supported?
-  * draft-ietf0-idr-srv6-flowspec-path-redirect-11  
+  * [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - **17 October, 2025** not supported?
+  * [draft-ietf0-idr-srv6-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf0-idr-srv6-flowspec-path-redirect/)-11  
 
 ------
 
  ### Jie Dong:
 
-* Review of [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)-11 (as author) –  Work with Ketan on revision 
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)-05 (as reviewer) – Sue requests you review this draft 
-* [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/html/draft-ietf-idr-rt-derived-community-04) - Shepherd report complete. Authors have resolved nits. Submit to IESG. (**19 April, 2026**)
 * Take shepherd work for two of the bgp-ls documents for September.
-* Start WG last call for draft-ietf-idr-linklocal-capability (target **20 April, 2026**)
-
+* Start WG last call for [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) 
+  [WGLC started](https://mailarchive.ietf.org/arch/msg/idr/ZsLHdmThstk66e-g6hqfBh0whH4/) **13 May, 2026**. Extended.
