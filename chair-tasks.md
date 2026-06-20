@@ -3,12 +3,12 @@
 ### Sue: (as of 1/4/2026) 
 
 1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
-    Status: Continue to monitor transition to RFC editor 
+    **Status:** Continue to monitor transition to RFC editor 
 6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)  
-   Status: Shepherd's review completed (10/20/2025). Multiple implementation reports.  Jeff responding to directorate feedback. Waiting on Security directorate response.  
+   **Status:** Shepherd's review completed (10/20/2025). Multiple implementation reports.  Jeff responding to directorate feedback. Waiting on Security directorate response.  
    Finished WGLC **March 2026** with few responses.
 7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
-    Status: -07 ready for WG LC, need to gert 
+    **Status:** -07 ready for WG LC, need to gert 
 8. Check on pending BGP-LS and SR allocations with IANA and Ketan 
    Check on status of Early Allocations: holding alloation on 
 5. BGP Directorate Write-up to chairs
