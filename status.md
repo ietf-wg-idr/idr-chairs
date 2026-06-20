@@ -66,8 +66,8 @@
    **Status:**  has cross-WG list. WG LC: 5/10/2026 to 5/31/2026 (Spring, PCE/IDR)[  
 9. [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle-02](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/)
    **Shepherd:** Susan Hares
-   **Status:** Pending response to directorate reviews (**7 June, 2026)**
-   WG LC: Originally 5/10/2026 to 5/31/2026 (Spring, PCE, IDR) 
+   **Status:** Directorate review responded to (**8 June, 2026)**. Shepherd review and report needed.
+   WGLC successfully completed **1 June, 2026**.
 ------
 ### WGLC
 1. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
