@@ -44,10 +44,10 @@
   **Status:** Yang doctors approved change, **Needs:** IRD OK, Fix remaining 2 items, then IESG submission, and BBF liaison 
 2. [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-  **Status:** Created version -27 at IETF, awaiting response to Sue's comments **Review ETA (6/5)**  
+    **Status:** Created version -27 at IETF, awaiting response to Sue's comments **Review ETA (6/5)**  
 3. [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares.  
-  **Status:** Will work through issues with authors + Spring Chairs (in progress (ETA): 4/24) 
+    **Status:** Will work through issues with authors + Spring Chairs (in progress (ETA): 4/24) 
 4. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
     **Status:** Jie has updated shepherd report. **17 April, 2026**, Joel Hapern oked changes to God. https://datatracker.ietf.org/wg/idr/documents/ 
@@ -64,7 +64,8 @@
    **Status:**  has cross-WG list. WG LC: 5/10/2026 to 5/31/2026 (Spring, PCE/IDR)[  
 9. [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle-02](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/)
    **Shepherd:** Susan Hares
-   **Status:** WG LC: 5/10/2026 to 5/31/2026 (Spring, PCE, IDR) 
+   **Status:** Pending response to directorate reviews (**7 June, 2026)**
+   WG LC: Originally 5/10/2026 to 5/31/2026 (Spring, PCE, IDR) 
 ------
 ### WGLC
 1. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
