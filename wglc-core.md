@@ -1,7 +1,7 @@
 # WGLC Pending for Core BGP
 
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
-   **Shepherd:**Susan Hares, BGPDIR reviewed,   
+   **Shepherd:** Susan Hares, BGPDIR reviewed,   
    **Status:**Requested by Linda Dunbar **21 July, 2025**, BGPDIR Review OK, [2 implementations] (https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 2. [draft-ietf-idr-wide-bgp-communities-12](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)  
    **Shepherd:** Susan Hares  
