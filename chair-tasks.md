@@ -41,25 +41,30 @@
    Depends on draft-ietf-idr-bgp-fsm-iana  
    Out for review for Working Group Last Call **June 2026**  
    Target completion by **IETF-126**
+   
 1. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)
    Out for review for Working Group Last Call **June 2026** 
    Target completion by **IETF-126**
+   
 1. FSv2 edits (Need 2nd revision with Sue [**August 2026**]):  
    * ~~Update NLRI format~~
    * ~~Do editorial pass through basic document~~.
    * Issues related to FSv1  actions – so can decide on WG LC and FSv2 adoption .
+   
 1. [draft-ietf-idr-flowspec-interfaceset](https://datatracker.ietf.org/doc/html/draft-ietf-idr-flowspec-interfaceset)   
    **Shepherd**: Sue  
    Two implementations available.  
    Target WGLC by **IETF-126**
-1. Run adoption call for draft-hegdearavind-idr-bgp-ls-flex-algo-ext.
+   
 1. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)**** 
    **Shepherd**: Keyur
    Target completion by **IETF-126**
+   
 1. [draft-ietf-idr-registered-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-registered-wide-bgp-communities/) 
    **Shepherd**: Keyur
    Depends on draft-ietf-idr-wide-bgp-communities
    Target completion by **IETF-126
+   
 1. [draft-haas-idr-bgp-attribute-escape-04](https://datatracker.ietf.org/doc/draft-haas-idr-bgp-attribute-escape/)  
 
    Complete document and send for publication.  Target **IETF-127**.  
