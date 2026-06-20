@@ -32,6 +32,9 @@
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  
     **Status:** Submitted to IESG **16 June, 2026.**
+1. [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)  
+    **Shepherd:** Sue Hares  
+    **Status:**  Submitted to IESG on **20 April, 2026**.  At RFC Editor **June 2026.**
 ------
 
 ## Submitted to ISE

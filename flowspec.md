@@ -11,14 +11,11 @@ Steps for Flow specification are:
 
 ## 1. Publish FSv1 Extended Communities for Action
 ### 1-a) documents at IESG  
-* [draft-ietf-idr-flowspec-redirect-ip-04](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)  
-  **Shepherd:** Sue Hares, WG LC: 2/7/2026-2/21/2026, [4 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-redirect-ip)
 * [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/), WG LC: 2/9 to 2/23 (change to Standards) [5 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-ts-flowspec-srv6-policy)
   **Shepherd:** Keyur Patel
-  
 ### 1-b) Document WG LC Pending   
 * [draft-ietf-idr-flowspec-path-redirect-12](https://www.ietf.org/archive/id/draft-ietf-idr-flowspec-path-redirect-12.txt) [1 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-path-redirect)
-**Shepherd:** Sue Hares, Needs-13 with updates, Need 2 more implementation reports  
+  **Shepherd:** Sue Hares, Needs-13 with updates, Need 2 more implementation reports  
   
 * [draft-ietf-idr-flowspec-interfaceset-06](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-interfaceset/)  [2 implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-flowspec-interface-set)
   **Shepherd:** Sue Hares,
@@ -29,7 +26,7 @@ Steps for Flow specification are:
 
 ### 2. Flow Specification v2 work - revision of draft-ietf-idr-fsv2-ip-basic  
    draft in process, pending release by 4/30 for 5/11/2026 interim 
-  
+
 ### 3. FSv2 Pending Adoption  (based on draft-ietf-idr-fsv2-ip-basic) 
 #### See Shepherd's review on [wiki](https://wiki.ietf.org/group/idr/Shepherd-FSv2) - status pending 
 * [draft-ietf0-idr-srv6-flowspec-path-redirect-11](https://datatracker.ietf.org/doc/draft-ietf0-idr-srv6-flowspec-path-redirect/) (adoption requested at IETF-121)
