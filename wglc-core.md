@@ -21,6 +21,9 @@
 7. [draft-ietf-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-ietf-idr-next-next-hop-nodes)  
    **Shepherd:** Susan Hares  
    **Status:**  WGLC requested **29 May, 2026**.  In shepherd review
+8. [draft-ietf-idr-rtc-hierarchical-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-hierarchical-rr)  
+   **Shepherd:** Susan Hares  
+   **Status:** [Poll for implementations](https://mailarchive.ietf.org/arch/msg/idr/bcZ__VB-imTkKvnztpB2E5FRQlc/). (ending **12 June, 2026**)
 
 ### WG Drafts with implementations that need to be advanced 
 1. [draft-ietf-idr-rtc-no-rt](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-no-rt/)-12  
