@@ -13,6 +13,6 @@
    **Shepherd:** Susan Hares  
    **Status:** *Waiting on -05*, 2 implementations, authors interested, but need the revision and review of draft-ietf-bess-multicast-controller. 
 
-4. [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03]((https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-node-admin-tag-extension) 
+4. [draft-ietf-idr-bgp-ls-node-admin-tag-extension-03](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-node-admin-tag-extension)  
    **Shepherd:** Susan Hares  
-   **Status:** *Waiting on -05*, 1implementation (huawei), Look for others ZTE 
+   **Status:** *Waiting on -05*, 1 implementation (huawei), Look for others ZTE 
