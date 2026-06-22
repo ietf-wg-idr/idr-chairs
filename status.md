@@ -84,12 +84,13 @@
 4. draft-ietf-idr-sr-policy-path-segment - held for technical reasons (*Ketan hold*)
 
 #### BGP-LS assignment objection 
-1. draft-ietf-idr-bgp-ls-link-mtu – **WG LC** on objection (FCFS allocation) [5/22/2026 to 6/5/2026] 
+1. draft-ietf-idr-bgp-ls-link-mtu  
+   **Status:** Sue to forward request to IANA for FCFS approval. (**12 June, 2026**)
 
 #### Dynamic capabilities 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
   **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
-  **status:** Needs to address BGPDIR and RTGDIR review. Significant issues for authors to address. (Update on list) [shepherd review]
+  **Status:** Needs to address BGPDIR and RTGDIR review. Significant issues for authors to address. (Update on list) [shepherd review]
 
 ### WGLC Pending Queue
 
