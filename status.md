@@ -85,7 +85,7 @@
 
 #### BGP-LS assignment objection 
 1. draft-ietf-idr-bgp-ls-link-mtu  
-   **Status:** Sue to forward request to IANA for FCFS approval. (**12 June, 2026**)
+   **Status:** Sue to forward request to IANA for [FCFS approval](https://mailarchive.ietf.org/arch/msg/idr/nFg546ZOAYvssbtnvk0qkzSLYZs/). (**12 June, 2026**)
 
 #### Dynamic capabilities 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
