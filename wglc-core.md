@@ -1,3 +1,10 @@
+# Previously Approved but Needs to be Advanced?
+
+1. [draft-ietf-idr-add-paths-guidelines](https://datatracker.ietf.org/doc/draft-ietf-idr-add-paths-guidelines/)  
+   **Status:** [Previously approved](https://mailarchive.ietf.org/arch/msg/idr/Fk-9QvrW1lka9CbxOA4TNbB_bko/) **6 June, 2016**
+2. [draft-ietf-idr-mrai-dep](https://datatracker.ietf.org/doc/draft-ietf-idr-mrai-dep/)  
+   **Status:** John highlights [WGLC thread](https://mailarchive.ietf.org/arch/msg/idr/7pfT3q3EKeMH_MUfpTjWvbsYkOE/). **29 March, 2011**
+
 # WGLC Pending for Core BGP
 
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
