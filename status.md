@@ -7,8 +7,6 @@
 ## At RFC Editor
 * [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   **Shepherd**: Susan Hares (approved 21 October, 2025), MISREF on lsr and spring documents. 
-* [draft-ietf-idr-link-bandwidth](https://datatracker.ietf.org/doc/draft-ietf-idr-link-bandwidth/)  
-  **Shepherd:** Jeff Haas
 * [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
    **Status:**RFC Editor* (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), 5 implementations, **IESG Ok: 5/27/2026 *
@@ -23,7 +21,7 @@
    **Status:** Finished WGLC March 2026. Submitted on **March 15, 2026**. IETF LC ends 4/13, IESG review (**20 June, 2026**, 1 DISCUSS to be resolved).
 2. [draft-ietf-idr-rfc4360bis](https://datatracker.ietf.org/doc/draft-ietf-idr-rfc4360-bis/)  
    **Shepherd:** Keyur Patel  
-   **Status:** IETF Last Call **6 June, 2026**.
+   **Status:** IESG Telechat **9 July, 2026**.
 ------
 ## Submitted to IESG
 1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]

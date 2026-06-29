@@ -1,5 +1,9 @@
 # Completed since IETF 125
 
+Published RFCs:
+
+* [RFC 10005](https://www.rfc-editor.org/rfc/rfc10005.html) - BGP Link Bandwidth Extended Community
+
 ## Submitted Drafts:
 
 * [draft-ietf-idr-sr-policy-nrp ](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  
