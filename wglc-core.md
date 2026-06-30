@@ -31,12 +31,12 @@
 8. [draft-ietf-idr-rtc-hierarchical-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-hierarchical-rr)  
    **Shepherd:** Susan Hares  
    **Status:** [Poll for implementations](https://mailarchive.ietf.org/arch/msg/idr/bcZ__VB-imTkKvnztpB2E5FRQlc/). (ending **12 June, 2026**)  
-   Implementations of add-paths from HPE/Juniper, Nokia.
+   Implementations of add-paths from HPE/Juniper, Nokia. No implementation from FRR, BIRD. Huawei doesn't support add-paths but may have different mechanism for cluster-looping that may get new text.
 
 ### WG Drafts with implementations that need to be advanced 
 1. [draft-ietf-idr-rtc-no-rt](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-no-rt/)-12  
   **Shepherd:** Susan Hares  
-  **Status:** *Needs Update* - implementations: Cisco, FRR, BIRD
+    **Status:** *Needs Update* - implementations: Cisco, FRR, BIRD
 2. [draft-ietf-idr-custom-decision](https://datatracker.ietf.org/doc/draft-ietf-idr-custom-decision/)-08  
    **Shepherd:** Susan Hares 
    **Status:**  *Needs Update* - implementations: Cisco, FRR, BIRD
