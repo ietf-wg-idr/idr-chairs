@@ -1,37 +1,18 @@
 # Tasks
 
-### Sue: (as of 1/4/2026) 
+### Sue: (as 7/10/2026) 
+ 1. Start WG LC on 7/10 
+   1-1) draft-ietf-idr-bgp-fsm-iana and draft-ietf-idr-bgp-bfd-strict-mode (7/10 to 7/24) 
+   1-2) draft-sa-idr-bgp-srv6-mpls-transport-iw-00 (7/10 to 7/24) 
+    1-3) Question on draft-jiang-idr-sr-policy-composite-path to spring (7/10 to 7/17) 
 
-1. [draft-abraitis-bgp-version-capability](https://datatracker.ietf.org/doc/html/draft-abraitis-bgp-version-capability) –
-    **Status:** Continue to monitor transition to RFC editor 
-6. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip)  
-   **Status:** Shepherd's review completed (10/20/2025). Multiple implementation reports.  Jeff responding to directorate feedback. Waiting on Security directorate response.  
-   Finished WGLC **March 2026** with few responses.
-7. [draft-ietf-idr-sr-policy-segment-list-id](https://datatracker.ietf.org/doc/draft-ietf-ietf-sr-policy-segmentlist-id)
-    **Status:** -07 ready for WG LC, need to gert 
-8. Check on pending BGP-LS and SR allocations with IANA and Ketan 
-   Check on status of Early Allocations: holding alloation on 
-5. BGP Directorate Write-up to chairs
-10. BGP SR Review WG drafts  [ETA: 1/6/2026] - Reports on wiki, with status and open issues page in IDR Github   
-11. BGP SR Pre-Adoption drasfts [ETA: 1/6/2026] - Reports on wiki, with status and open issues in IDR Github 
-12. BGP LS Review WG drafts [ETA: 1/6/2026] - reports on wiki 
-13. BGP LS REview WG adoption requests [ETA:1/6/2026] - reports on wiki 
-10. 4271bis review [ETA: 1/7/2026] 
-15. **SDWAN** – Working on with Alvaro and Linda [Main task 1/12 to 1/16] 
-  * Step 1: Reformat all of the github on sdwan from Alvaro's changes + Linda's updates 
-  * Step 2: Note where Alvaro disagrees with IETF-122 presentation on RFC9012 drafts, and chair’s approval of that review criterial for RFC9012
-  * Step 3: Summarizes Alvaro's comments as: a) major issues, b) major issues opposed to RFC9012 chairs document, c) minor changes, d) editorial errors, and e) editorial format preferences.   
-  * Step 4: Create XML with simple Editorial changes inb github 
-  * Step 5: Get OK on Simple Editorial changes from Linda, Alvaro + Ketan + IDR chairs (see via email)
-  * Step 6: Proposes resolutions to a) major technical changes, and b) suggested ignorning major changes opposed to RFC9012 chairs document. 
-  * Step 7: Schedule meeting with Ketan and Alvaro differ on section 2 – (BGP slim, Ketan 1st RTG-DIR more description, Security Reviews more).
-  * Step 8: Schedule meeting to discussion technical issues with Ketan and Alvaro 
-
-16.  Fix any remaining holes in IDR webs – implementation, BGP-LS, SR, IANA requests
-    Work with Jeff to spin the IETF wiki from the github text. 
-
-17. draft-ietf-idr-bgp-ct-srv6-05 – pick up work with Spring Chairs and IDR [1/15]   
-
+2. FSv2 shepherd reports (ETA 7/10) 
+3. Finish the review of draft-ietf-bess-multicast and draft-ietf-bess-multicast-controller (ETA 7/10)  
+4. SR TE shepherd reports (ETA 7/11) 
+5. BGP-LS Shepherd reports (ETA 7/12) 
+6. review draft-ietf-idr-bgp-ct-srv6
+7. Track draft-ietf-idr-sr-policy-path-segment-15
+8. Send question regarding draft-jiang-sr-composite to Spring 
 ------
 
  ### Jeff:
@@ -74,16 +55,21 @@
 ------
 
 ### Keyur:
+Keyur: 
+1. [At AD review]: draft-ietf-idr-ts-flowspec-srv6-policy – Jie is going to tag authors.  Keyur waiting for their feedback.  
+2. [post-WG LC]: BGP Model – Address Yang Doctors review  
+3. [post-WG LC]:  draft-ietf-idr-sdwan-edge-discovery – finish the shepherd’s report 
+4. [Pre-WG LC]: draft-ietf-idr-bgp-fsm-iana and draft-ietf-idr-bgp-bfd-strict-mode – OK changes 
+5. review new draft-ietf-idr-fsv2-ip-basic 
+6 Is SR Draft:  draft-sa-idr-bgp-srv6-mpls-transport-iw-00 - review draft
+7. [Pre-WG LC] – Read draft-ietf-idr-5g-edge-service-metadata - review draft 
 
-* Does Arrcus have implementations of the following FSV1 drafts (to check with Derrick):
-  * [draft-ietf-idr-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-redirect/) - **17 October, 2025** not supported?
-  * [draft-ietf0-idr-srv6-flowspec-path-redirect](https://datatracker.ietf.org/doc/draft-ietf0-idr-srv6-flowspec-path-redirect/)-11  
+
 
 ------
 
- ### Jie Dong:
+ ### Jie Dong: (July 10, 2026) 
+1. Organize IETF 3 sessions –
+2. draft-ietf-idr-rt-derived-community – Edit Shepherd Report  
+3. draft-ietf-idr-linklocal-capability (Shepherd: Jie) –  Edit Shepherd report after Sue Calls WG consensus 
 
-* [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)-05 (as reviewer) – Sue requests you review this draft 
-* Take shepherd work for two of the bgp-ls documents for September.
-* Start WG last call for [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/) 
-  [WGLC started](https://mailarchive.ietf.org/arch/msg/idr/ZsLHdmThstk66e-g6hqfBh0whH4/) **13 May, 2026**. Extended.
