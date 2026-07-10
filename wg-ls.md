@@ -16,9 +16,7 @@
 6.  [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment)
     **Shepherd:** Susan Hares
    **Status**: **awaits** - the draft-ietf-idr-sr-policy-path-segment approval to WG LC this draft.
-7. [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
-    **Shepherd:** Susan Hares
-     **Status:** Needs -03, draft expired, authors queried. (**6 January, 2026**) No response, queue for <u>dead document</u>?
+
 9.  [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)
     **Shepherd:** Susan Hares
     **Status:** Needs 03, draft expired. Per Ketan, draft work is suspended.
@@ -26,4 +24,6 @@
 ### WG Drafts expired - needing revision, query if authors want to continue 
 * draft-ietf-idr-bgp-ls-isis-flood-reflection - Needs -05 draft expired.
 * draft-ietf-idr-ls-trill/ - (-05) needs update to version -05, draft expired.
-
+* 7. [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
+    **Shepherd:** Susan Hares
+     **Status:** Needs -03, draft expired, authors queried. (**6 January, 2026**) No response
