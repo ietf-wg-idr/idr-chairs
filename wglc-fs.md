@@ -10,4 +10,4 @@
 
 4. '[draft-ietf-idr-flowspec-interfaceset](datatracker.ietf.org/doc/draft-ietf-idr-flowspec-path-resdirect),
     **Shepherd:** Sue Hares
-   **status:** Need two implementations (Juniper implementation, need 2nd) 
+   **status:** Need two implementations (Nokia, need 2nd - FRR maybe?) 
