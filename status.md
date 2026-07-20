@@ -74,10 +74,10 @@
 
 ### WGLC on early allocation
 #### SR TE Policy Segment list Sub-TLVs (5/22 to 6/5) - cleanup on SubTLVs  
-1. draft-ietf-idr-sr-policy-path-segment -in WG LC  (*Ketan hold*)
+1. draft-ietf-idr-sr-policy-path-segment - allocated 24 
 
 #### BGP-LS assignment objection 
-1. draft-ietf-idr-bgp-ls-link-mtu -IANA Allocated 1104) 
+1. draft-ietf-idr-bgp-ls-link-mtu -IANA Allocated (1104) 
 
 #### Dynamic capabilities 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
@@ -96,7 +96,6 @@
 ## Adoptions
 
 ### In-Progress Adoption Calls
-- No adoption calls in progress. (**14 November, 2025**)
 
 ------
 
