@@ -13,7 +13,8 @@
 * [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),**WG LC on changes for-04  (4/24 to 5/1)**, **IESG Review of -05:** June-04-2026, IESG OK: June-06-2026
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
-8 [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
+
+ * [draft-ietf-idr-vpn-prefix-orf](https://datatracker.ietf.org/doc/draft-ietf-idr-vpn-prefix-orf/)   
    **Shepherd**: Keyur Patel  
    **Status:** Finished WGLC March 2026. Submitted on **March 15, 2026**.IESG OK:July-07-2026. 
 ------
