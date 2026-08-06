@@ -24,7 +24,7 @@
     **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**), IETF LC (6/1 to 6/15), IESG telechat (7/2), 1 Discuss (Mahesh) 
 2. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  (Consensus call: Sue Hares) 
-    **Status:** Submitted to IESG **16 June, 2026.**, refining draft status
+    **Status:** Submitted to IESG **16 June, 2026.**, refining draft status (informational) 
 3. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
    **Shepherd:** Susan Hares
    **Status:** WG LC (April 20 to May 4, 2026), **Needs:** AD's Go-ahead (Gunter), awiating authors change 
@@ -59,8 +59,7 @@
 1. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
    **Status:** **WG LC** May 13 to June 10, 2nd WG LC: (TBD) - August  
-   [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability)
-
+   [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability)     
 
 #### Dynamic capabilities Early Allocation 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
