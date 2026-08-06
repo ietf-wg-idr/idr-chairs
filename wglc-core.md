@@ -9,7 +9,7 @@
 
 1. [draft-ietf-idr-5g-edge-service-metadata](https://datatracker.ietf.org/doc/draft-ietf-idr-5g-edge-service-metadata/)  
    **Shepherd:** Susan Hares, BGPDIR reviewed,   
-   **Status:**Requested by Linda Dunbar **21 July, 2025**, BGPDIR Review OK, [2 implementations] (https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
+   **Status:**Requested by Linda Dunbar **21 July, 2025**, **Needs IDR Chairs review**, BGPDIR Review OK, [2 implementations] (https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-5g-edge-service-metadata)
 2. [draft-ietf-idr-wide-bgp-communities](https://datatracker.ietf.org/doc/draft-ietf-idr-wide-bgp-communities/)-12  
    **Shepherd:** Susan Hares  
    **Status:** *Needs -13* (Jeff Haas, Author) 
@@ -21,13 +21,13 @@
    **Status:** Needs draft-ietf-idr-wide-bgp-communities-13], and then a revision 
 5. [draft-ietf-idr-bgp-fsm-iana](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-fsm-iana/)  
    **Shepherd:** Susan Hares  
-   **Status:** Authors have requested WGLC. Pending chair review **19 June, 2026**.
+   **Status:** Needs BGPDIR review, **requested 20 August, 2026**
 6. [draft-ietf-idr-bgp-bfd-strict-mode-15](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-bfd-strict-mode)  
    **Shepherd:** Susan Hares  
-   **Status:** Authors have requested WGLC. Pending chair review **19 June, 2026**.  Two implementations are available.
+   **Status:** Needs BGPDIR review, **Requested 20 August, 2026**.  Two implementations are available.
 7. [draft-ietf-idr-next-next-hop-nodes](https://datatracker.ietf.org/doc/draft-ietf-idr-next-next-hop-nodes)  
    **Shepherd:** Susan Hares  
-   **Status:**  WGLC requested **29 May, 2026**.  In shepherd review
+   **Status:** BGPDIR reiew done, **29 May, 2026**.  In shepherd review
 8. [draft-ietf-idr-rtc-hierarchical-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-hierarchical-rr)  
    **Shepherd:** Susan Hares  
    **Status:** [Poll for implementations](https://mailarchive.ietf.org/arch/msg/idr/bcZ__VB-imTkKvnztpB2E5FRQlc/). (ending **12 June, 2026**)  
