@@ -1,4 +1,4 @@
-# Status last updated July 1, 2026
+# Status last updated August 21, 2026
 ## At RFC Editor
 1. [draft-ietf-idr-bgpls-sr-vtn-mt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-sr-vtn-mt/)   
   **Shepherd**: Susan Hares (approved 21 October, 2025), MISREF on lsr and spring documents.  
@@ -23,7 +23,7 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
     **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**),
-     IETF LC (6/1 to 6/15), IESG telechat (7/2), **awaiting:** TEAS comment, optional: informational draft on SR waterfall. 
+     IETF LC (6/1 to 6/15), IESG telechat (7/2), Approved by IESG (
 3. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Jie Dong  (Consensus call: Sue Hares) 
     **Status:** Submitted to IESG **16 June, 2026.**, refining draft status (informational) 
