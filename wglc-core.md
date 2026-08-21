@@ -33,6 +33,7 @@
    **Status:** [Poll for implementations](https://mailarchive.ietf.org/arch/msg/idr/bcZ__VB-imTkKvnztpB2E5FRQlc/). (ending **12 June, 2026**)  
    Implementations of add-paths from HPE/Juniper, Nokia. No implementation from FRR, BIRD. Huawei doesn't support add-paths but may have different mechanism for cluster-looping that may get new text.
 
+
 ### WG Drafts with implementations that need to be advanced 
 1. [draft-ietf-idr-rtc-no-rt](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-no-rt/)-12  
   **Shepherd:** Susan Hares  
@@ -45,6 +46,8 @@
 * [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
 * [draft-ietf-idr-bgp-generic-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-generic-metric/)
   This work depends on the nexthop dependent capabilities work that is being split from the current entropy label document.
-* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - failed early allocation call (2/9 - 2/16/2026) 
+* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - failed early allocation call (2/9 - 2/16/2026)
+
+
   **Shepherd:** Susan Hares [Early allocation call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
   **Status:** Significant issues for authors to address. [shepherd review], Needs BGPDIR 
