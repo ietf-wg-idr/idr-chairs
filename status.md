@@ -42,27 +42,28 @@
   **Status:** Responded to ISE questions about draft. ISE Editor has restarted ISE investigation. (**12 December, 2025**)
 ------
 ## Working Group Last Calls
-### WGLC - Waiting for Shepherd Write-up
-1. [draft-ietf-idr-bgp-model-20](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** Awaiting -21,  Yang doctors approved -20,  **Needs:** -21 and WG LC: Ketan (needs 
-2.  [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
+### Post WGLC - Waiting for Shepherd Write-up
+1.  [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
   **Shepherd**: Susan Hares, **status**: Needs alignment with spring drasft 
-3. [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
+2.  [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
    **Status:** Concluded **31 March, 2026**. Waiting on BESS chairs.
-   
-### post WG LC, waiting for revision from authors and Shepherd's ok 
-5. [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
-  **Shepherd:** Keyur Patel  
-    **Status:** -29, WG LC on cvhanges (7/23 to 7/30), Waiting on Revision -30 from authors 
-   **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026),  
-------
-### WGLC - extended
-1. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
+
+### Active WG LC 
+1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
+  **Status:** In WG LC for changes,  Yang doctors approved -21, BBF liaison
+    
+3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
    **Status:** **WG LC** May 13 to June 10, 2nd WG LC: (TBD) - see if post augment comments    
    [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability)     
 
+### Pending another WG LC, waiting for revision from authors and Shepherd's ok 
+1. [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
+  **Shepherd:** Keyur Patel  
+    **Status:** -29, WG LC on cvhanges (7/23 to 7/30), Waiting on Revision -30 from authors 
+   **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026),  
+------
 #### Dynamic capabilities Early Allocation 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
   **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
@@ -108,17 +109,6 @@
 ### CATs related
 * draft-li-idr-cats-bgp-extension
 
-------
-### General WG Drafts needing to be advanced
-* [draft-ietf-idr-performance-routing](https://datatracker.ietf.org/doc/draft-ietf-idr-performance-routing/05/)
-* [draft-ietf-idr-bgp-generic-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-generic-metric/)
-  This work depends on the nexthop dependent capabilities work that is being split from the current entropy label document.
-* [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-ietf-idr-dynamic-cap/) - failed early allocation call (2/9 - 2/16/2026) 
-  **Shepherd:** Sue Hares [call](https://mailarchive.ietf.org/arch/msg/idr/EOU11axYrfAtGCsnaYAfpKqA_Rg/)
-  **status:** Significant issues for authors to address. [shepherd review], Needs BGPDIR 
-
-------
-
 ## Chair Chartered Work
 * [draft-ietf-idr-bgp4-rfc4271bis](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp4-rfc4271bis/)
   Adopted **October 2025**  
@@ -131,23 +121,12 @@
 ## IANA Actions
 
 ## IANA corrections
-
-### Early Allocations (see [IDR Wiki](https://wiki.ietf.org/e/en/group/idr/Early-Allocation-Status)) - Completed
-* [draft-ietf-idr-bgp-srmpls-elp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-srmpls-elp/)-00 (renamed draft) [ELP Sub-TLV]. Assigned 17. Ready for WGLC after -01 released. 
-
-### Early allocations pending vs. [RFC 9830](https://datatracker.ietf.org/doc/html/rfc9830):  (Sue to check with Amanda on status of early allocation)
 #### Early Allocations for Core BGP (Shepherd: IDR Chairs as noted) 
 * [draft-ietf-idr-dynamic-cap] - Requesting early allocation for BGP Message Code point [6], New BGP Error code, Request sub-registry (early allocation) [Shepherd: IDR Chairs] 
 
 #### Early Allocation for BGP-LS (Shepherd: Sue) 
-* [draft-ietf-idr-bgp-ls-link-mtu-12.txt](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu/) - IANA allocated 1104 
-
-#### Early Allocation for BGP SR-TE  (Shepherd: Sue) 
-* [draft-ietf-idr-sr-te-policy-attr](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-te-policy-attr/) [Segment types L to O]  IANA Allocated: 20-23  
-* [draft-ietf-idr-sr-policy-metric](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-metric/)  [Metric]: IANA Allocated 221 
-* [draft-ietf-idr-sr-policy-path-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-mtu/)- [PATH MTU] - IANA Allocated 18 
-* [draft-ietf-idr-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-path-segment/)-14 [Path Segment, Reverse Path segment] – **Pending on -15**, Problem: Reverse Path Segment has 2 bytes in length. Also needs the name of the registry changed to: SR Policy Segment List Sub-TLVs.
-
+ * [draft-ietf-idr-bgp-ls-sr-policy-path-segment-11](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/) - allocate Path Segment sub-TLV and Reverse Segment list Sub-TLV. 
+   
 ### Renew Early Allocations
 * Wide community allocations:
   Ketan has asked that the allocation not be renewed as it will be done as part of publication. **28 July, 2025**
