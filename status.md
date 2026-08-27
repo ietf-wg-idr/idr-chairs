@@ -17,22 +17,22 @@
    **Status:** IESG approved: July 14, 2026, approved:  
 6. [draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle-02](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-epe-over-l2bundle/)
    **Shepherd:** Susan Hares
-   **Status:** Directorate review responded to (**8 June, 2026)**. WGLC successfully completed **1 June, 2026**, IESG approved (8/5/2026) 
+   **Status:** Directorate review responded to (**8 June, 2026)**. WGLC successfully completed **1 June, 2026**, IESG approved (8/5/2026)
+7. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
+    **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**), IETF LC (6/1 to 6/15), IESG telechat (7/2), Approved by IESG (8/11 meting, 8/25), **Follow-up**: EAS document update, SR waterfall.
+8. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/), 
+   **Shepherd:** Susan Hares 
+   **Status:** WG LC: 5/10/2026 to 5/31/2026, IETF LC (ends 8/10), IESG Review (8/20), IESG-OK (8/25)/2026, at RFC editor. 
 ------
 
 ## Submitted to IESG
-1. [draft-ietf-idr-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-nrp/)  [2 implementations]
-    **Status:** Past WGLC (ended **12 July, 2025**), Closed WGLC (21 Dec 2025), submitted to IESG (**3/25/2025**), IETF LC (6/1 to 6/15), IESG telechat (7/2), Approved by IESG (8/11), **Needs:** TEAS document update, **Optionally Needs**: SR waterfall document. 
-3. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
+1. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
+   **Shepherd:** Susan Hares
+   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026 
+2. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
     **Status:** Submitted to IESG **16 June, 2026.**, Informational (8/14/2026), **Needs:** AD review 
-4. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
-   **Shepherd:** Susan Hares
-   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/19/2026 
-5. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/), 
-   **Shepherd:** Susan Hares 
-   **Status:** WG LC: 5/10/2026 to 5/31/2026, IETF LC (ends 8/10), IESG Review (8/20), **Needs:** AD (James Guichard) OK (clearing Gunter's discuss). 
-6. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+3. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
  **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next step:** AD review 
 
 ------
@@ -51,7 +51,7 @@
 
 ### Active WG LC 
 1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** In WG LC for changes,  Yang doctors approved -21, BBF liaison
+  **Status:** In WG LC for changes,  Yang doctors approved -21 (pre), -21 (in progress), BBF liaison
     
 3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
