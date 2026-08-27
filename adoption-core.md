@@ -15,4 +15,5 @@
 2. [draft-li-idr-savnet-intra-domain-bgp-01](https://datatracker.ietf.org/doc/draft-li-idr-savnet-intra-domain-bgp/)
 3. [draft-li-idr-ipv6-bgp-identifier-00](https://datatracker.ietf.org/doc/draft-li-idr-ipv6-bgp-identifier/) - IETF-125
 4. [draft-abraitis-idr-maximum-paths-subcode] - added on 8/8/2026. Requested at IETf-125
-5. [draft-abraitis-idr-addpath-paths-limit] - added on 8/11/2026.  Requested by author 
+5. [draft-abraitis-idr-addpath-paths-limit] - added on 8/11/2026.  Requested by author
+6. [draft-wang-idr-path-attribute-orf-00.txt] - adde don 8/27/2026., 
