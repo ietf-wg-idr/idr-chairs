@@ -33,7 +33,7 @@
     **Shepherd:** Sue Hares 
     **Status:** Submitted to IESG **16 June, 2026.**, Informational (8/14/2026), **Needs:** AD review 
 3. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
- **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next step:** AD review 
+ **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next step:** WG LC on changes (8/17-9/3) 
 
 ------
 ## Submitted to ISE
@@ -125,7 +125,7 @@
 * [draft-ietf-idr-dynamic-cap] - Requesting early allocation for BGP Message Code point [6], New BGP Error code, Request sub-registry (early allocation) [Shepherd: IDR Chairs] 
 
 #### Early Allocation for BGP-LS (Shepherd: Sue) 
- * [draft-ietf-idr-bgp-ls-sr-policy-path-segment-11](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment/) - allocate Path Segment sub-TLV and Reverse Segment list Sub-TLV. 
+None in progress. 
    
 ### Renew Early Allocations
 * Wide community allocations:
