@@ -28,12 +28,12 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
    **Shepherd:** Susan Hares
-   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026 
+   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026,  **3 DISCUSS ballots** in progress of resolution. 
 2. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
     **Status:** Submitted to IESG **16 June, 2026.**, Informational (8/14/2026), **Needs:** AD review 
 3. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
- **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next step:** WG LC on changes (8/17-9/3) 
+ **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next Steps:** AD review of authors 
 
 ------
 ## Submitted to ISE
@@ -47,13 +47,13 @@
   **Shepherd**: Susan Hares, **status**: Needs alignment with spring drasft 
 2.  [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
-   **Status:** Concluded **31 March, 2026**. Waiting on BESS chairs.
+   **Status:** Concluded **31 March, 2026**. In WG LC in Bess.  
 
 ### Active WG LC 
 1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** In WG LC for changes,  Yang doctors approved -21 (pre), -21 (in progress), BBF liaison
+  **Status:** In WG LC for changes,  Yang doctors approved -21 (pre), -21 (in progress), BBF liaison sent, **Needs:** Yang doctors review on -21. 
     
-3. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
+2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
    **Status:** **WG LC** May 13 to June 10, 2nd WG LC: (TBD) - see if post augment comments    
    [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability)     
@@ -86,7 +86,6 @@
 2.  [draft-decraene-idr-nlri-error-handling-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling/) 
    **status**: Adoption call: 6/23/2026 to 7/7/2026, **Needs**: Response to idr chairs from authors. 
    **Shepherd**: Susan Hares
-
 3. [draft-xu-idr-fare](https://datatracker.ietf.org/doc/draft-xu-idr-fare/)
    **status**: Adoption call: (8/18/2026 to 9/1/2026). 
    
