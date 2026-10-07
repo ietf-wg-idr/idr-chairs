@@ -23,17 +23,18 @@
 8. [draft-ietf-idr-sr-policy-seglist-id](https://datatracker.ietf.org/doc/draft-ietf-idr-sr-policy-seglist-id/), 
    **Shepherd:** Susan Hares 
    **Status:** WG LC: 5/10/2026 to 5/31/2026, IETF LC (ends 8/10), IESG Review (8/20), IESG-OK (8/25)/2026, at RFC editor. 
+9. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
+   **Shepherd:** Susan Hares
+   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026, Approved: 10/6/2026.  
 ------
 
 ## Submitted to IESG
-1. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
-   **Shepherd:** Susan Hares
-   **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026,  **3 DISCUSS ballots** in progress of resolution. 
-2. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
+1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
     **Status:** Submitted to IESG **16 June, 2026.**, Informational (8/14/2026), **Needs:** AD review 
-3. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
- **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 8/21/2026.  **Next Steps:** AD review of authors 
+2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+ **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 9/5/2026,
+ **Next Steps:** AD review of v18 (Keyur OKed: 10/2/2026). 
 
 ------
 ## Submitted to ISE
@@ -51,7 +52,8 @@
 
 ### Active WG LC 
 1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** In WG LC for changes,  Yang doctors approved -21 (pre), -21 (in progress), BBF liaison sent, **Needs:** Yang doctors review on -21. 
+  **Status:** In WG LC for changes (Ended 9/25/2026)
+  Yang doctors approved, BBF liaison sent, **WG LC:** Ends 9/25/2026
     
 2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
@@ -61,8 +63,13 @@
 ### Pending another WG LC, waiting for revision from authors and Shepherd's ok 
 1. [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
   **Shepherd:** Keyur Patel  
-    **Status:** -29, WG LC on cvhanges (7/23 to 7/30), Waiting on Revision -30 from authors 
-   **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026),  
+    **Status:** -31, AD feedback requested in github on open issues in github 
+	[29-30 issue 110](https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/issues/118), 
+	[30-31 issue 127](https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/issues/127),
+    [Pre-32 Pull-request 129](https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/129)
+	[Pre-32 Pull-request 130)(https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/130)(
+   **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026)
+   
 ------
 #### Dynamic capabilities Early Allocation 
 * [draft-ietf-idr-dynamic-cap](https://datatracker.ietf.org/doc/draft-chen-idr-enhanced-dynamic-cap/) (2/9 to 2/16) 
@@ -81,17 +88,12 @@
 ## Adoptions
 ### In-Progress Adoption Calls
 #### Core BGP 
-1. [draft-vroonen-idr-bgp-bestpath-nh-selection](https://datatracker.ietf.org/doc/draft-vroonen-idr-bgp-bestpath-nh-selection/)
-   **Status**: Consensus to adopt 
-2.  [draft-decraene-idr-nlri-error-handling-02](https://datatracker.ietf.org/doc/draft-decraene-idr-nlri-error-handling/) 
-   **status**: Adoption call: 6/23/2026 to 7/7/2026, **Needs**: Response to idr chairs from authors. 
-   **Shepherd**: Susan Hares
-3. [draft-xu-idr-fare](https://datatracker.ietf.org/doc/draft-xu-idr-fare/)
-   **status**: Adoption call: (8/18/2026 to 9/1/2026). 
+1. [draft-xu-idr-fare](https://datatracker.ietf.org/doc/draft-xu-idr-fare/)
+   **status**: Adoption call: (8/18/2026 to 9/1/2026).  **Status:** Adoption pending (awaiting final edits prior to adoption)
    
 #### BGP SR 
 1. [draft-sa-idr-bgp-srv6-mpls-transport-iw-02](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw/) 
-   **status**:Adoption call: 7/24 to 8/21, **Needs**: More responses  
+   **status**:Adoption call: 7/24 to 8/21, approved, waiting for upload as draft-ietf-idr-sr-srv6-mpls-transport-iw-00. 
    **Shepherd**: Susan Hares
 
 ------
