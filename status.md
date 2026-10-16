@@ -31,10 +31,10 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
-    **Status:** Submitted to IESG **16 June, 2026.**, Informational (8/14/2026), **Needs:** AD review 
+    **Status:** Submitted to IESG **16 June, 2026.**, Informational (WG LC: 8/14/2026), **In IETF LC:** (ends 10/28/2026) 
 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
  **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 9/5/2026,
- **Next Steps:** AD review of v18 (Keyur OKed: 10/2/2026). 
+ **Next Step:** In IETF LC (ends 10/28/2026)  
 
 ------
 ## Submitted to ISE
@@ -48,12 +48,12 @@
   **Shepherd**: Susan Hares, **status**: Needs alignment with spring drasft 
 2.  [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
-   **Status:** Concluded **31 March, 2026**. In WG LC in Bess.  
+   **Status:** Concluded **31 March, 2026**. In BESS, [consensus to publish](https://mailarchive.ietf.org/arch/msg/bess/LDoMLaqy3dCuEWOu_7xTAoIezZU/)    
 
 ### Active WG LC 
 1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** In WG LC for changes (Ended 9/25/2026)
-  Yang doctors approved, BBF liaison sent, **WG LC:** Ends 9/25/2026
+  Yang doctors approved, BBF liaison sent, **WG LC:** done 9/25, in Shepherd write-up 
     
 2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
@@ -87,9 +87,7 @@
 
 ## Adoptions
 ### In-Progress Adoption Calls
-#### Core BGP 
-1. [draft-xu-idr-fare](https://datatracker.ietf.org/doc/draft-xu-idr-fare/)
-   **status**: Adoption call: (8/18/2026 to 9/1/2026).  **Status:** Adoption pending (awaiting final edits prior to adoption)
+
    
 #### BGP SR 
 1. [draft-sa-idr-bgp-srv6-mpls-transport-iw-02](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw/) 
