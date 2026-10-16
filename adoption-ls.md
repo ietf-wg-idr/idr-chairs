@@ -1,6 +1,6 @@
 ## BGP Link State Pending Adoptions
 
- ### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - January 6, 2026
+ ### Pending BGP-LS adoptions: Awaiting draft changes (Shepherd: Susan Hares) - All Shepherd Reviews pending - updated by 10/19/2026 - 
 
 1. [draft-chen-idr-bgp-ls-algo-related-adjacency-sid](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-algo-related-adjacency-sid/) -  [(-04)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS/draft-chen-idr-bgp-ls-algo-related-adjacency-sid) - *Needs -05* prior to adoption (must include cross-wg addition) 
 
