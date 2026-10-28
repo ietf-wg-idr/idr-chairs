@@ -51,9 +51,9 @@
    **Status:** Concluded **31 March, 2026**. In BESS, [consensus to publish](https://mailarchive.ietf.org/arch/msg/bess/LDoMLaqy3dCuEWOu_7xTAoIezZU/)    
 
 ### Active WG LC 
-1. [draft-ietf-idr-bgp-model-21](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
+1. [draft-ietf-idr-bgp-model-22](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** In WG LC for changes (Ended 9/25/2026)
-  Yang doctors approved, BBF liaison sent, **WG LC:** done 9/25, in Shepherd write-up 
+  Yang doctors approved, BBF liaison sent, **WG LC:** completed 9/25, **Needs:** 
     
 2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
    **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
