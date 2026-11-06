@@ -4,6 +4,7 @@
    **Adoption call:** **2-16 June, 2026**. adopted, upload pending. 
    
 2. [draft-herdes-idr-otc-rs-verification](https://datatracker.ietf.org/doc/draft-herdes-idr-otc-rs-verification) - request 10/18/2026 request by author group, adoptoin ** 10/18 to 11/1
+    **status**: approved, sent cross-message to SIDROPS 
    
 ## In Adoption 
 1. [draft-abraitis-idr-maximum-paths-subcode] - Requested at IETf-125 - [Shepherd: Sue Hares and Keyur Patel): **adoption:** 10/20 to 11/3 - combining with drafat-abraitis-addpath-path-limits
