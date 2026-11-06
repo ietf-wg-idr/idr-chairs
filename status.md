@@ -26,15 +26,20 @@
 9. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
    **Shepherd:** Susan Hares
    **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026, Approved: 10/6/2026.  
+10. 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+ **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 9/5/2026,
+ **Next Step:** In IETF LC (ends 10/28/2026), IESG approved on 11/5/2026. 
+
 ------
 
 ## Submitted to IESG
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
-    **Status:** Submitted to IESG **16 June, 2026.**, Informational (WG LC: 8/14/2026), **In IETF LC:** (ends 10/28/2026) 
-2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
- **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 9/5/2026,
- **Next Step:** In IETF LC (ends 10/28/2026)  
+    **Status:** Submitted to IESG **16 June, 2026.**, Informational (WG LC: 8/14/2026), IESG review, Needs revised ID 
+
+2. [draft-ietf-idr-bgp-model-22](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
+  **Status:** In WG LC for changes (Ended 9/25/2026)
+  Yang doctors approved, BBF liaison sent, **WG LC:** completed 9/25, Submitted to IESG.  AD's Review: Needs changes.  
 
 ------
 ## Submitted to ISE
@@ -44,21 +49,13 @@
 ------
 ## Working Group Last Calls
 ### Post WGLC - Waiting for Shepherd Write-up
-1.  [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-05  
-  **Shepherd**: Susan Hares, **status**: Needs alignment with spring drasft 
+1.  [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-08  
+  **Shepherd**: Susan Hares, **status**:Reviewing for Spring interaction (ETA 11/8/2026) 
+  
 2.  [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
    **Status:** Concluded **31 March, 2026**. In BESS, [consensus to publish](https://mailarchive.ietf.org/arch/msg/bess/LDoMLaqy3dCuEWOu_7xTAoIezZU/)    
-
-### Active WG LC 
-1. [draft-ietf-idr-bgp-model-22](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
-  **Status:** In WG LC for changes (Ended 9/25/2026)
-  Yang doctors approved, BBF liaison sent, **WG LC:** completed 9/25, **Needs:** 
     
-2. [draft-ietf-idr-linklocal-capability](https://datatracker.ietf.org/doc/draft-ietf-idr-linklocal-capability/)  
-   **Shepherd:** Jie Dong,  Consensus Call: IDR Chairs (Sue, Keyur, Jeff)  
-   **Status:** **WG LC** May 13 to June 10, 2nd WG LC: (TBD) - see if post augment comments    
-   [2 implementations](https://wiki.ietf.org/en/group/idr/implementations/draft-ietf-idr-linklocal-capability)     
 
 ### Pending another WG LC, waiting for revision from authors and Shepherd's ok 
 1. [draft-ietf-idr-sdwan-edge-discovery](https://datatracker.ietf.org/doc/draft-ietf-idr-sdwan-edge-discovery/)  
@@ -69,6 +66,7 @@
     [Pre-32 Pull-request 129](https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/129)
 	[Pre-32 Pull-request 130)(https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/130)(
    **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026)
+   **status:** awaiting AD review of -33    
    
 ------
 #### Dynamic capabilities Early Allocation 
