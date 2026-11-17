@@ -14,7 +14,7 @@
 1. [draft-li-idr-ipv6-bgp-identifier-01](https://datatracker.ietf.org/doc/draft-li-idr-ipv6-bgp-identifier/) - IETF-125 - Open Change, needs discussion with Tie-breaking procedure.  
    **status**: Tie breaking discussions at IETF interim October 26, 2026. IETF-127.  **Needs**: discussion wit IDR chair. 
 2. [draft-wang-idr-path-attribute-orf-00](https://datatracker.ietf.org/doc/draft-wang-idr-path-attribute-orf/) - added on 8/27/2026, presentation at IETF-127 
-3. [draft-wang-idr-vpn-prefix-orf-propagation-00]((https://datatracker.ietf.org/doc/draft-wang-idr-vpn-orf-propagation/) - presentation at IETF-127 
+3. [draft-wang-idr-vpn-prefix-orf-propagation-00](https://datatracker.ietf.org/doc/draft-wang-idr-vpn-orf-propagation/) - presentation at IETF-127 
 
 ## Pending Adoption requests waiting on cross-wg 
 1. [draft-li-idr-savnet-intra-domain-bgp-01](https://datatracker.ietf.org/doc/draft-li-idr-savnet-intra-domain-bgp/) - requested in November, 2025, Needs SAVNet confirmation, (query again at IETF-127).   
