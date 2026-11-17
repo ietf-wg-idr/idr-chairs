@@ -3,7 +3,7 @@
 1. [draft-li-idr-bgpls-sr-policy-composite-path](https://datatracker.ietf.org/doc/draft-li-idr-bgpls-sr-policy-composite-path/) [(-06) to (-08)](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-li-idr-bgpls-sr-policy-composite-path)  -  **Depend on BGP SR draft** draft-jiang-idr-sr-policy-composite-path being adopted.
 2. [draft-chen-idr-bgp-ls-sr-policy-cp-validity](https://datatracker.ietf.org/doc/draft-chen-idr-bgp-ls-sr-policy-cp-validity/) - [(-03](/group/idr/Shepherd-SR-BGP-LS/BGP-LS-SR/draft-chen-idr-bgp-ls-sr-policy-cp-validity) - **Needs -04** - needs cross-WG section prior to adoption 
 
-#@ Yang draft 
+## Yang draft 
 1. [draft-aravind-idr-bgp-ls-sr-policy-yang](datatracker.ietf.org/doc/draft-aravind-idr-bgp-ls-sr-policy-yang/) 
 
 
