@@ -35,11 +35,11 @@
 ## Submitted to IESG
 1. [draft-ietf-idr-rt-derived-community](https://datatracker.ietf.org/doc/draft-ietf-idr-rt-derived-community/),  
     **Shepherd:** Sue Hares 
-    **Status:** Submitted to IESG **16 June, 2026.**, Informational (WG LC: 8/14/2026), IESG review, Needs revised ID 
+    **Status:** Submitted to IESG **16 June, 2026.**, Informational (WG LC: 8/14/2026), IESG review:11/3, **Needs:** Revised ID (1 Discuss)  
 
 2. [draft-ietf-idr-bgp-model-22](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-model/)  
   **Status:** In WG LC for changes (Ended 9/25/2026)
-  Yang doctors approved, BBF liaison sent, **WG LC:** completed 9/25, Submitted to IESG.  AD's Review: Needs changes.  
+  Yang doctors approved, BBF liaison sent, **WG LC:** completed 9/25, Submitted to IESG.  AD's Review done, **needs:** revised ID 
 
 ------
 ## Submitted to ISE
@@ -50,7 +50,7 @@
 ## Working Group Last Calls
 ### Post WGLC - Waiting for Shepherd Write-up
 1.  [draft-ietf-idr-bgp-ct-srv6](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ct-srv6/)-08  
-  **Shepherd**: Susan Hares, **status**:Reviewing for Spring interaction (ETA 11/8/2026) 
+  **Shepherd**: Susan Hares, **status**: Needs revised ID
   
 2.  [draft-ietf-bess-ebgp-dmz](https://datatracker.ietf.org/doc/html/draft-ietf-bess-ebgp-dmz)  
    **Shepherd:** Jeffrey Haas
@@ -66,7 +66,7 @@
     [Pre-32 Pull-request 129](https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/129)
 	[Pre-32 Pull-request 130)(https://github.com/ietf-wg-idr/draft-ietf-idr-sdwan-edge-discovery/pull/130)(
    **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026, 2nd call submitted on 8/3/2026 to AD, AD review: (8/3/2026)
-   **status:** awaiting AD review of -33    
+   **status:** awaiting AD-Review and SEC-DIR review  
    
 ------
 #### Dynamic capabilities Early Allocation 
