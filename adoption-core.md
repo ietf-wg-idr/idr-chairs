@@ -6,7 +6,7 @@
 2. [draft-herdes-idr-otc-rs-verification](https://datatracker.ietf.org/doc/draft-herdes-idr-otc-rs-verification) - request 10/18/2026 request by author group, adoptoin ** 10/18 to 11/1
     **status**: approved, sent cross-message to SIDROPS, No comment. 
 	
-3. (draft-ietf-idr-addpath-paths-limit) - adopted as merge of the following two drafts
+3. [draft-ietf-idr-addpath-paths-limit](https://datatracker.ietf.org/doc/draft-ietf-idr-addpath-paths-limit) - adopted as merge of the following two drafts
    [draft-abraitis-idr-maximum-paths-subcode] and [draft-abraitis-idr-addpath-paths-limit] -  (10/20 to 11/3) 
    **status**: uploaded, shepherds: (Susan Hares and Keyur Patel) 
 
