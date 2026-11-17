@@ -38,6 +38,7 @@
     **Shepherd:** Susan Hares
      **status:** **Needs update to [-13]** Past WG LC previously, **Directorate Reviews:** Needs resolution of BGPDIR, OPSDIR, RTGIDR   
      **implementations:** [Cisco and Juniper](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-bgp-bestpath-selection-criteria) 
+
 7. [draft-ietf-idr-rtc-hierarchical-rr](https://datatracker.ietf.org/doc/draft-ietf-idr-rtc-hierarchical-rr)  
    **Shepherd:** Susan Hares
    **Status:** Needs final IDR chair OK, then: BGPDIR, OPSDIR, RTGDIR before WG LC     
