@@ -5,7 +5,7 @@
 2. [draft-ietf-idr-flowspec-redirect-ip](https://datatracker.ietf.org/doc/draft-ietf-idr-flowspec-redirect-ip/)
    **Shepherd:** Susan Hares. 
    **Status:**RFC Editor* (Feb-07-2026 to Feb-21-2026), Changes: 1 WG LC (3/14 to 3/21, closed 4/16), 5 implementations, **IESG Ok: 5/27/2026
-    [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
+3. [draft-ietf-idr-nhc](https://datatracker.ietf.org/doc/draft-ietf-idr-nhc/) **(WGLC time 22 December, 2025 to 16 January, 2026)** 
    **Shepherd:** Susan Hares, **Status:** Submitted to IESG WG LC with Consensus (Dec 2025 - Jan 2025), Shepherd's review:(3/25/2026),
    **Status:** IESG Review of -05: June-04-2026, IESG OK: June-06-2026
    [Implementations](https://wiki.ietf.org/group/idr/implementations/draft-ietf-idr-nhc) - Juniper, H3C, FRR,
@@ -100,6 +100,13 @@
 - [BGP Flowspec](adoption-fs.md)
 - [BGP-LS](adoption-ls.md)
 - [BGP Segment Routing](adoption-sr.md)
+
+## WG drafts 
+
+- [Core BGP](wg-core.md)
+- [BGP Flowspec](wg-fs.md) 
+- [BGP-LS](wg-ls.md) 
+- [BGP Segment Routing](wg-sr.md) 
 
 ------
 
