@@ -1,4 +1,4 @@
-# Flowspec Work List
+e# Flowspec Work List
 Work largely pending sufficient completion of FSv2 core drafts so these can proceed.
 Steps for Flow specification are: 
 1. WG LC and Publish FSv1 Extended Community drafts with actions (in process)  
@@ -46,7 +46,7 @@ Steps for Flow specification are:
 ### 4-a FSv2 filters pending 
 * [draft-li-idr-flowspec-sr-policy] 
 
-### 4- FSv2 filters held for cross-Wg checks 
+### 4-b FSv2 filters held for cross-Wg checks 
 * [draft-lin-idr-cats-flowspec-ts-03](datatracker.ietf.org/doc/draft-lin-idr-cats-flowspec-ts-03.txt) 
 * [draft-yi-idr-bgp-fs-edge-service-metadata](https://datatracker.ietf.org/doc/draft-yi-idr-bgp-fs-edge-service-metadata) - needs CATS discussion and draft-ietf-idr-fsv2-more-ip-filters. 
 * [draft-geng-idr-flowspec-sav-06](https://www.ietf.org/archive/id/draft-geng-idr-flowspec-sav-06.txt)
