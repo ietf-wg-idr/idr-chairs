@@ -26,7 +26,7 @@
 9. [draft-ietf-idr-bgpls-inter-as-topology-ext-32](https://datatracker.ietf.org/doc/draft-ietf-idr-bgpls-inter-as-topology-ext/)
    **Shepherd:** Susan Hares
    **Status:** WG LC (April 20 to May 4, 2026), **IESG Telechat (Gunter AD):** 8/25/2026, Approved: 10/6/2026.  
-10. 2. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
+10. [draft-ietf-idr-ts-flowspec-srv6-policy](https://datatracker.ietf.org/doc/draft-ietf-idr-ts-flowspec-srv6-policy/)
  **Shepherd:** Keyur Patel, WG LC closed on 3/20, submitted on May 9,2026. **-14**, AD review: (8/5/2026), **Authors revision:** 9/5/2026,
  **Next Step:** In IETF LC (ends 10/28/2026), IESG approved on 11/5/2026. 
 
