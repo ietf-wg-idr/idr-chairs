@@ -86,8 +86,7 @@
 ## Adoptions
 ### In-Progress Adoption Calls
 
-   
-#### BGP SR 
+#### BGP SR - adopted need upload 
 1. [draft-sa-idr-bgp-srv6-mpls-transport-iw-02](https://datatracker.ietf.org/doc/draft-sa-idr-bgp-srv6-mpls-transport-iw/) 
    **status**:Adoption call: 7/24 to 8/21, approved, waiting for upload as draft-ietf-idr-sr-srv6-mpls-transport-iw-00. 
    **Shepherd**: Susan Hares
@@ -101,12 +100,6 @@
 - [BGP-LS](adoption-ls.md)
 - [BGP Segment Routing](adoption-sr.md)
 
-## WG drafts 
-
-- [Core BGP](wg-core.md)
-- [BGP Flowspec](wg-fs.md) 
-- [BGP-LS](wg-ls.md) 
-- [BGP Segment Routing](wg-sr.md) 
 
 ------
 
