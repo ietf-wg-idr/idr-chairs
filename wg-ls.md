@@ -3,27 +3,29 @@
 **Status**: Needs Expert allocation for BGP Route Type from "BGP-LS NLRI and Attribute TLVs" registry and 2 implementations.   
 3. [draft-ietf-idr-bgp-ls-isis-flood-reflection](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-isis-flood-reflection/)
    **Shepherd:** Susan Hares
-   **Status**: Needs -05 (expired), Check with authors.
+   **Status**: Review needed for -07 
 
 4.  [draft-ietf-idr-bgp-ls-link-mtu](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-link-mtu)
    **Shepherd:** Susan Hares
-   **status:** Needs -12 with correct registry name. 
+   **status:** Review needed for -13  
 
 5.  [draft-ietf-idr-bgp-ls-sr-policy-nrp](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-nrp) - 
    **Shepherd:** Susan Hares
-   **Status**: **Needs: -03" to address
+   **Status**: Review needed for -03 
    
 6.  [draft-ietf-idr-bgp-ls-sr-policy-path-segment](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-policy-path-segment)
     **Shepherd:** Susan Hares
-   **Status**: **awaits** - the draft-ietf-idr-sr-policy-path-segment approval to WG LC this draft.
-
-9.  [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)
+   **Status**:  
+   
+7. draft-ietf-idr-bgp-ls-isis-flood-reflection 
+ 
+### WG drafts expired or suspended. 
+1.  [draft-ietf-idr-bgp-ls-te-path](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-te-path/)
     **Shepherd:** Susan Hares
     **Status:** Needs 03, draft expired. Per Ketan, draft work is suspended.
     
-### WG Drafts expired - needing revision, query if authors want to continue 
-* draft-ietf-idr-bgp-ls-isis-flood-reflection - Needs -05 draft expired.
+2. draft-ietf-idr-bgp-ls-isis-flood-reflection - Needs -05 draft expired.
 * draft-ietf-idr-ls-trill/ - (-05) needs update to version -05, draft expired.
-* 7. [draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
+* draft-ietf-idr-bgp-ls-sr-service-segments](https://datatracker.ietf.org/doc/draft-ietf-idr-bgp-ls-sr-service-segments/)
     **Shepherd:** Susan Hares
      **Status:** Needs -03, draft expired, authors queried. (**6 January, 2026**) No response
